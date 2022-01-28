@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user UserofFZ21Z.</description>
+    <pubDate>Thu, 27 Jan 2022 19:22:48 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:22:48 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/useroffz21z.266137/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/useroffz21z.266137/index.rss"/>
+    <item>
+      <title>DSC00011</title>
+      <pubDate>Thu, 28 Jan 2010 18:46:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dsc00011.204/</link>
+      <guid>http://forum.notebookreview.com/media/dsc00011.204/</guid>
+      <author>invalid@example.com (UserofFZ21Z)</author>
+      <dc:creator>UserofFZ21Z</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dsc00011.204/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92869-ccf2d2fc839cf563d05c80a88108a110.jpg" alt="DSC00011.JPG" title="DSC00011" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

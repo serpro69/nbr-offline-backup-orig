@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Swilz.</description>
+    <pubDate>Fri, 28 Jan 2022 10:51:20 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 10:51:20 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/swilz.741098/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/swilz.741098/index.rss"/>
+    <item>
+      <title>3050 ti XPS 9510 45W</title>
+      <pubDate>Sat, 28 Aug 2021 18:38:56 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/3050-ti-xps-9510-45w.2409/</link>
+      <guid>http://forum.notebookreview.com/media/3050-ti-xps-9510-45w.2409/</guid>
+      <author>invalid@example.com (Swilz)</author>
+      <dc:creator>Swilz</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/3050-ti-xps-9510-45w.2409/">
+			<img src="http://forum.notebookreview.com/data/xengallery/168/168330-f353183e5e5839d988a9dc2dd8b2af7d.jpg" alt="Screenshot 2021-08-28 203751.png" title="3050 ti XPS 9510 45W" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

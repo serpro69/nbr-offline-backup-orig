@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user captain008.</description>
+    <pubDate>Thu, 27 Jan 2022 05:34:12 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 05:34:12 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/captain008.398298/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/captain008.398298/index.rss"/>
+    <item>
+      <title>Horizon Full Power</title>
+      <pubDate>Sat, 05 Sep 2020 18:19:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/horizon-full-power.2301/</link>
+      <guid>http://forum.notebookreview.com/media/horizon-full-power.2301/</guid>
+      <author>invalid@example.com (captain008)</author>
+      <dc:creator>captain008</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/horizon-full-power.2301/">
+			<img src="http://forum.notebookreview.com/data/xengallery/160/160373-ff1bec956e4c7c39e168428867d274fc.jpg" alt="Horizon Full Power.png" title="Horizon Full Power" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Horizon Zero Dawn benchmark at max settings and CPU at 100%</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Horizon Full Power</title>
+      <pubDate>Sat, 05 Sep 2020 18:17:32 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/horizon-full-power.2300/</link>
+      <guid>http://forum.notebookreview.com/media/horizon-full-power.2300/</guid>
+      <author>invalid@example.com (captain008)</author>
+      <dc:creator>captain008</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/horizon-full-power.2300/">
+			<img src="http://forum.notebookreview.com/data/xengallery/160/160372-ff1bec956e4c7c39e168428867d274fc.jpg" alt="Horizon Full Power.png" title="Horizon Full Power" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Horizon Zero Dawn Benchmark at max settings running 100% CPU.</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

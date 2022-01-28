@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user CG26.</description>
+    <pubDate>Thu, 27 Jan 2022 13:01:41 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 13:01:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/cg26.295990/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/cg26.295990/index.rss"/>
+    <item>
+      <title>dell vostro 1320</title>
+      <pubDate>Mon, 21 Dec 2009 12:20:50 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dell-vostro-1320.145/</link>
+      <guid>http://forum.notebookreview.com/media/dell-vostro-1320.145/</guid>
+      <author>invalid@example.com (CG26)</author>
+      <dc:creator>CG26</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dell-vostro-1320.145/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92810-d966dd1f9525fc41c514f4b70d750005.jpg" alt="izzyface.jpg" title="dell vostro 1320" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>my new vostro 1320 (+ little sis)</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

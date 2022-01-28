@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user ZBIGPL.</description>
+    <pubDate>Thu, 27 Jan 2022 21:20:41 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 21:20:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/zbigpl.159010/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/zbigpl.159010/index.rss"/>
+    <item>
+      <title>IMG_20210228_202601</title>
+      <pubDate>Sun, 28 Feb 2021 19:38:16 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/img_20210228_202601.2361/</link>
+      <guid>http://forum.notebookreview.com/media/img_20210228_202601.2361/</guid>
+      <author>invalid@example.com (ZBIGPL)</author>
+      <dc:creator>ZBIGPL</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/img_20210228_202601.2361/">
+			<img src="http://forum.notebookreview.com/data/xengallery/164/164346-9d016b6c09ce1713fc2953be76ac5126.jpg" alt="IMG_20210228_202601.jpg" title="IMG_20210228_202601" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

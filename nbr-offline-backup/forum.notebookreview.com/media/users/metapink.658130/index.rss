@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user metapink.</description>
+    <pubDate>Thu, 27 Jan 2022 07:27:48 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 07:27:48 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/metapink.658130/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/metapink.658130/index.rss"/>
+    <item>
+      <title>Purchased_ram</title>
+      <pubDate>Sat, 28 Mar 2015 21:55:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/purchased_ram.782/</link>
+      <guid>http://forum.notebookreview.com/media/purchased_ram.782/</guid>
+      <author>invalid@example.com (metapink)</author>
+      <dc:creator>metapink</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/purchased_ram.782/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95334-ed84c29f48283cc434ad775a01263e24.jpg" alt="purchased_ram.JPG" title="Purchased_ram" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>is this the same as 
+16GB kit (8GBx2) DDR3 PC3-12800 Unbuffered NON-ECC 1.35V 1024Meg x 64
+CT2K8G3S160BM
+Form Factor: SODIMM
+Specs: DDR3 PC3-12800 • CL=11 • Unbuffered • NON-ECC • DDR3-1600 • 1.35V • 1024Meg x 64 • lead free • halogen free • for Mac</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Original hynix RAM 1x8GB</title>
+      <pubDate>Sat, 28 Mar 2015 21:49:51 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/original-hynix-ram-1x8gb.781/</link>
+      <guid>http://forum.notebookreview.com/media/original-hynix-ram-1x8gb.781/</guid>
+      <author>invalid@example.com (metapink)</author>
+      <dc:creator>metapink</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/original-hynix-ram-1x8gb.781/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95333-e5e1a5bc622cbc399132bb6d09347cca.jpg" alt="IMG_0397.JPG" title="Original hynix RAM 1x8GB" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>this is the ram that came with the laptop. can&#039;t find 100% identical model online (new)</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

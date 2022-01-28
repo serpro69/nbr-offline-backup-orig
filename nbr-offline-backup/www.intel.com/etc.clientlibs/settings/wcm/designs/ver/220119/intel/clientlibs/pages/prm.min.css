@@ -1,0 +1,489 @@
+@font-face{font-family:"IntelClear-Pro";src:url("https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/clientlibs/us/en/Fonts/resources/intel-clear-headline.woff");src:url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/clientlibs/us/en/Fonts/resources/intel-clear-headline.woff') format('woff'),url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/clientlibs/us/en/Fonts/resources/intel-clear-headline.ttf') format('truetype');font-weight:@font-weight-normal;font-style:normal}
+.expandable span{word-break:break-word}
+.expandable.pull-up-20{margin-top:-20px}
+.expandable.pull-up-10{margin-top:-10px}
+h1,h2,h3,h4,p{font-weight:@font-weight-light;font-style:normal;-webkit-font-smoothing:antialiased;padding:0;margin:0}
+.soa-flex-container p{font-family:'IntelClear-Lt',sans-serif;font-size:1em;line-height:1.25em;color:#555;padding-bottom:11px}
+strong{font-family:'IntelClear-Bold',sans-serif}
+h1{font-size:1.5em;margin-bottom:20px;color:#2f0011}
+h2{font-size:1.5em;line-height:1.25em;padding:5px 0}
+.headColor{font-size:1.5em;color:#555 !important}
+.soa-header h1{font-size:1.25em;margin:0;padding-bottom:20px}
+.section-title{color:black;padding:20px;border-bottom:1px solid gray;margin-top:50px}
+.directory-nums .orange{color:#ffac35}
+.directory-nums .gold{color:#fed531}
+.directory-nums .green{color:#b8cc42}
+.directory-nums .grey{color:#b2b2b2}
+.soa-container{box-sizing:border-box;font-family:'IntelClear',sans-serif;font-size:1em;line-height:1.25em;color:#555}
+.soa-body{margin:0;padding:0}
+.soa{background:#ececec;width:100%}
+.soa-flex-container{background:#ececec;box-sizing:border-box;width:100%;min-width:320px;padding:20px}
+.soa-tile{background:#ececec;box-sizing:border-box;padding:5px 10px 5px 0;border-bottom:1px solid white}
+.ie10 .soa-tile,.ie11 .soa-tile{padding:5px 0}
+.soa-tile:last-child{border:0}
+.expandable{display:none}
+.expandable div{margin-top:20px}
+.soa-header{position:relative;background:0;padding-top:10px}
+.ie10 .soa-header,.ie11 .soa-header{padding:10px 10px 0 0}
+.soa-header h3{clear:right;padding-top:10px;font-size:1.5em;margin-bottom:10px}
+.title_badge_image_itpbadge{padding-left:5px;display:none;max-width:170px;margin-bottom:10px;padding-right:10px;margin-top:-15px}
+.title_badge_image_isabadge{display:none;max-width:170px;margin-bottom:10px;padding-right:10px;margin-top:-13%}
+.directory-nums{margin:20px 0 10px 0}
+.directory-nums div{display:block;margin-top:5px}
+.directory-nums h2{margin-top:0;margin-bottom:0;display:inline-block;border-right:1px solid #c9c9c9;padding-right:8px;width:50px;text-align:right;font-family:@font-family-intel-one;font-size:2.4em;line-height:30px}
+.directory-nums p{vertical-align:top;margin-top:0;margin-bottom:0;display:inline-block;padding-left:8px}
+.team-members{margin-top:10px}
+#tools a{display:block;margin-bottom:10px}
+a{text-decoration:none;color:#0071c5}
+.expand-btn{color:#555}
+.expand-btn:after{position:absolute;top:5px;right:20px;display:block;content:'\203A';color:#0071c5;font-size:2em;transform:rotate(90deg);-webkit-transform:rotate(90deg);text-align:center;width:30px;height:30px;transition:.2s ease}
+.openPanel:after{transform:rotate(-90deg);-webkit-transform:rotate(-90deg);right:10px;transition:.2s ease}
+a.mail-link{background:url('../clientlibs/pages/prm/resources/images/mail.html') no-repeat 0 2px;background-size:22px;padding-left:30px}
+.button{display:inline-block;border:3px solid;padding:10px 20px;margin:30px}
+.button:after{content:''}
+.button:hover{opacity:.8}
+h1,h2,h3,h4,p{font-weight:@font-weight-light;font-style:normal;-webkit-font-smoothing:antialiased;padding:0;margin:0}
+.soa-flex-container p{font-family:'IntelClear-Lt',sans-serif;font-size:1em;line-height:1.25em;color:#555;padding-bottom:11px}
+strong{font-family:'IntelClear-Bold',sans-serif}
+h1{font-size:1.5em;margin-bottom:20px}
+h2{font-size:1.5em;line-height:1.25em;padding:5px 0}
+.orange{color:#ffac35}
+.gold{color:#fed531}
+.green{color:#b8cc42}
+html{box-sizing:border-box;font-family:'IntelClear-Lt',sans-serif;font-size:1em;line-height:1.25em;color:#555}
+body{margin:0;padding:0}
+.soa-flex-container{box-sizing:border-box;width:auto;min-width:320px;display:flex;display:-ms-flexbox;display:-webkit-flex;flex-flow:column nowrap;-webkit-flex-direction:column;-webkit-flex-wrap:nowrap;-webkit-flex-flow:column nowrap;-ms-flex-flow:column nowrap;padding:20px;background:#ececec}
+.soa-tile{box-sizing:border-box;position:relative;width:auto;padding:5px 10px 5px 0;border-bottom:1px solid white}
+.soa-tile:last-child{border:0}
+.expandable{display:none}
+.expandable div{margin-top:20px}
+.soa-header{position:relative;background:0;padding-top:10px}
+.soa-header h3{clear:right;padding-top:10px;font-size:1.5em;margin-bottom:10px}
+img.ISA-Badge{display:inline-block;float:left;max-width:170px;margin-bottom:10px}
+.directory-nums{margin:20px 0 10px 0}
+.directory-nums div{display:block;margin-top:5px}
+.directory-nums h2{display:inline-block;border-right:1px solid #c9c9c9;padding-right:8px;width:50px;text-align:right;font-family:@font-family-intel-one;font-size:2.4em;line-height:30px}
+.solution-directory h2{span{word-break:normal}
+}
+.directory-nums p{display:inline-block;padding-left:8px}
+.team-members{margin-top:10px}
+#tools a{display:block;margin-bottom:10px}
+a{text-decoration:none;color:#0071c5}
+.expand-btn{color:#555}
+.expand-btn:after{position:absolute;top:10px;right:13px;display:block;content:'\203A';color:#0071c5;font-size:2em;transform:rotate(90deg);-webkit-transform:rotate(90deg);text-align:center;width:30px;height:30px;transition:.2s ease}
+.openPanel:after{transform:rotate(-90deg);-webkit-transform:rotate(-90deg);right:10px;transition:.2s ease}
+h2.headColor{margin:0;font-size:1.5em;padding-right:35px;cursor:default}
+a.mail-link{background:url('../clientlibs/pages/prm/resources/images/mail.html') no-repeat 0 2px;background-size:22px;padding-left:30px}
+.button{display:inline-block;border:3px solid;padding:10px 20px;margin:30px}
+.button:after{content:''}
+.button:hover{opacity:.8}
+.ie9 img.ISA-Badge{display:inline-block;max-width:100px;margin-bottom:10px;padding-right:5px}
+@media(min-width:475px){.soa-header h1{font-size:1.5em}
+h2.headColor{padding-right:35px}
+.flexbox .soa-flex-container{display:flex;display:-ms-flexbox;display:-webkit-flex;flex-flow:row wrap;-webkit-flex-direction:row;-webkit-flex-wrap:wrap;-webkit-flex-flow:row wrap}
+.no-flexbox .soa-flex-container{display:table;width:100%}
+.soa-header{flex-basis:100%;-webkit-flex-basis:100%}
+.soa-header h3{margin-bottom:0}
+.no-flexbox .soa-tile{// display:table-cell;width:25%;float:left}
+.flexbox .soa-tile{flex-grow:1;flex-basis:50%}
+.soa-tile{position:relative;width:auto;margin-top:0;border:0}
+.expandable{display:block !important}
+a.expand-btn:after{display:none}
+.ios .soa-tile,.ios8_0 .soa-tile,.ios8 .soa-tile,.iphone .soa-tile,.safari .soa-tile,.safari8 .soa-tile{margin:0;flex-grow:1;flex-basis:50%;-webkit-flex-grow:1;-webkit-flex-basis:50%}
+.ios .flexbox .soa-flex-container,.ios8_0 .flexbox .soa-flex-container,.ios8 .flexbox .soa-flex-container,.iphone .flexbox .soa-flex-container,.safari .flexbox .soa-flex-container,.safari8 .flexbox .soa-flex-container{display:flex;display:-webkit-flex;-webkit-flex-direction:row;-webkit-flex-wrap:wrap;-webkit-flex-flow:row wrap}
+@media(min-width:800px){.flexbox .soa-tile{flex-basis:25%}
+}
+@media(min-width:1350px){h2.headColor{padding-right:50px}
+}
+}
+.loader{background:url('../us/en/css/resources/img/loading_blue.html') no-repeat;z-index:2;position:fixed;width:65px;height:50px;padding:20px;display:none;left:48%;top:43%}
+.overlay-bg{background-color:rgba(0,0,0,0.25);border:medium none;bottom:auto;height:100%;left:0;margin:0;outline:medium none;padding:0;position:fixed;right:auto;top:0;width:100%;z-index:3}
+.expandable a:after{content:'\203A';margin-left:7px}
+#itpbadge,#isabadge{margin-top:-15px}
+.break-all-p{display:inline-block;word-break:break-all}
+.img-flex{width:45%}
+@media(min-width:768px){.soa-flex-container.container{padding-left:0;padding-right:0}
+}
+#CQ .font_weight{font-weight:@font-weight-bold;font-size:11px;color:black}
+.owl-stage-outer{padding-bottom:70px}
+.btn-dropdown-component{position:relative}
+.btn-dropdown-component .btn-dropdown{background-color:#00aeef}
+.btn-dropdown-component .btn-dropdown .toggle-title{color:white}
+h1.headline{font-family:@font-family-intel-one;font-weight:@font-weight-light;font-style:normal;font-size:2.5em;line-height:1.16;margin:0 0 .5em;letter-spacing:-0.0138em;@media screen and (min-width:@screen-sm-min){font-size:2.25em}
+@media screen and (min-width:@screen-lg-min){font-size:3em;letter-spacing:-0.0138em}
+}
+//-- typography ipa-support-header .h1{font-family:@font-family-intel-one;font-weight:@font-weight-light;font-style:normal;font-size:2em;line-height:1.16;margin:0 0 .5em;@media screen and (min-width:@screen-sm-min){font-size:2.25em}
+@media screen and (min-width:@screen-lg-min){font-size:3em;letter-spacing:-0.0138em}
+}
+//-- buttons //-- component related style .intel-ws .theme-dark-default{color:@white;a{color:@white;&:hover,&:focus{color:@white}
+}
+.btn-primary{color:@brand-primary;background:@white;&:hover,&:focus{color:@brand-dark-bluer;background:@gray-lightest}
+}
+}
+.ipa-support-header .greeting{font-weight:@font-weight-bold}
+.partner-welcome-padding{margin-bottom:-20px}
+@media screen and (min-width:1100px){.ipa-support-header .loggedOut-col{display:inherit}
+.ipa-support-header .loggedOut-col .content-col{width:max-content;margin:auto}
+}
+.ipa-support-header{color:white;.cta-item{font-size:.875em;line-height:1.428;margin-bottom:.3125em}
+.content-2-cols{float:right}
+}
+@media screen and (max-width:@screen-xs-max){.content-side{margin-top:1em;border-top:1px solid rgba(255,255,255,0.25);padding-top:1.25em}
+.content-2-cols{display:flex;align-items:center}
+.content-col{width:50%}
+}
+@media screen and (min-width:@screen-sm-min){.hero-content{padding:50px 0 40px;display:flex}
+.content-main{flex-grow:1;padding-right:32px}
+.content-side{padding-right:24px}
+.btn-primary{margin:8px 0 10px}
+h1{margin-bottom:.2em}
+}
+.generic-circular-darkest-blue{background-image:-webkit-radial-gradient(circle at 50% 400%,#1C80Ca 40%,#002b63 100%);background-image:radial-gradient(circle at 50% 400%,#1C80Ca 40%,#002b63 100%);background-repeat:no-repeat;padding:25px;@media screen and (min-width:@screen-sm-min){background-image:-webkit-radial-gradient(circle at 50% 400%,#1c80ca 20%,#002b63 100%);background-image:radial-gradient(circle at 50% 400%,#1c80ca 20%,#002b63 100%)}
+}
+.theme-dark-default .btn-primary{color:#0071c5;background:#FFF;position:relative;min-width:96px;border-radius:2px;padding:.3em 2em;font-size:14px;border-width:0;white-space:normal;@media screen and (min-width:992px){.btn-primary{margin:8px 0 10px}
+}
+}
+.theme-dark-default .btn{padding:.625rem 1.5rem;font-size:large;line-height:1.25}
+.theme-dark-default{color:#FFF}
+.theme-dark-default a{color:#FFF}
+.ipa-support-header.theme-dark-default a:hover,.ipa-support-header.theme-dark-default a:focus{color:#0071c5 !important}
+.ipa-support-header .cta-item{font-size:.875em;margin-bottom:.3125em}
+.ipa-support-header .content-side{float:right;position:relative}
+@media screen and (max-width:767px){.ipa-support-header .content-side{margin-top:1em;display:block;width:100%}
+.ipa-support-header .btn-primary{float:left}
+.ipa-support-header .content-2-cols{display:flex;align-items:center}
+.ipa-support-header .content-col{width:50%}
+.ipa-support-header .h1{margin-bottom:.2em;font-size:4em;letter-spacing:-0.0138em;font-family:@font-family-intel-one;font-weight:@font-weight-light;font-style:normal}
+}
+@media screen and (min-width:768px){.ipa-support-header .content-main{flex-grow:1;padding-right:32px;max-width:80%;padding:30px}
+.ipa-support-header .description{max-width:60%}
+.ipa-support-header .content-side{//padding-right:24px;padding-top:1.25em;display:flex;flex-direction:column;justify-content:center}
+.ipa-support-header .btn-primary{margin:8px 0 10px}
+.ipa-support-header .arrow-btn:after{content:"\203A";margin-left:3px}
+.ipa-support-header .hero-content{padding:50px 0 40px;display:flex}
+.ipa-support-header .hero-content{padding:30px 0 20px;line-height:1.375}
+}
+#ipa-support-header{margin-bottom:unset}
+#ipa-homepage-jumplinks{background-color:unset}
+@media(min-width:319px)and (max-width:375px){.dashBtn{padding-left:10px !important;padding-right:10px !important}
+}
+@media(min-width:768px)and (max-width:1199px){.joinReg{padding:0 !important;text-align:left !important}
+}
+.container_dashboard{margin-bottom:25px !important;padding-left:25px !important;padding-right:25px !important;padding-top:25px}
+.container_dashboard h1,.container_dashboard h2,.container_dashboard h3,.container_dashboard h4,.container_dashboard h5,.container_dashboard h6{margin-top:0;margin-bottom:0}
+.title h2,.title h3{color:#555}
+.title_text h2,.training_heading h3,.purchases_heading h3{margin-top:0 !important;margin-bottom:0 !important}
+.title h2{font-size:28px;margin-top:0;margin-bottom:0}
+.title h4{margin-top:10px;margin-bottom:0}
+.container_dashboard .title{margin-bottom:25px}
+.glyphicon-user,.glyphicon-envelope,.glyphicon-info-sign{color:#0071c5;font-size:24px;font-family:trial,serif}
+.container_dashboard span.glyphicon{top:0 !important;vertical-align:middle;padding:2px 0}
+@font-face{font-family:'Glyphicons Halflings';src:url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/us/en/Fonts/resources/glyphicons-halflings-regular.eot');src:url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/us/en/Fonts/resources/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/us/en/Fonts/glyphicons-halflings-regular.woff') format('woff'),url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/us/en/Fonts/glyphicons-halflings-regular.ttf') format('truetype'),url('https://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/220119/intel/us/en/Fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular') format('svg')}
+.mart_1{margin-top:1%}
+.mart_3{margin-top:3%}
+.mart_10{margin-top:10px}
+.marb_10{margin-bottom:10px}
+.marl_10{margin-left:10px}
+.mart_neg10{margin-top:-10px}
+.mart_25{margin-top:25px}
+.marb_25{margin-bottom:25px}
+.linehgt_26{line-height:26px}
+.pad_5{padding:5px}
+.h3{font-size:24px;font-weight:500;line-height:26px;margin:0}
+.head-description.h5{font-size:14px;font-weight:500;line-height:15px;margin:-20px 0 10px 185px}
+.txt_right{text-align:right}
+.fntweight_600{font-weight:600}
+.progress{border-radius:10px !important}
+.details_div{word-wrap:break-word;width:100%}
+.message_count_icon{background:url(../../us/en/images/resources/technology-provider/msg-count-bg.png)no-repeat;color:white;display:inline-block;float:right;height:31px;padding:3px 11px;position:relative;top:15px;width:31px;z-index:2}
+.message_count_icon_zero{margin-top:15px;width:100%;display:inline-block;position:relative;float:right;padding-left:8px;color:white;z-index:2}
+.title_badge_image_membershipbadge{float:left;width:150px;height:50px;display:none;margin:20px 15px 5px 0}
+.title_badge_image_registered{float:left;background:url("../../us/en/images/resources/technology-provider/registered-badge.png") no-repeat scroll 0 0 rgba(0,0,0,0);width:84px;height:84px;display:none;margin-left:5px;margin-right:15px}
+.title_badge_image_gold{float:left;background:url("../../us/en/images/resources/technology-provider/gold-badge.png") no-repeat scroll 0 0 rgba(0,0,0,0);width:84px;height:84px;display:none;margin-left:5px;margin-right:15px}
+.title_badge_image_platinum{float:left;background:url("../../us/en/images/resources/technology-provider/platinum-badge.png") no-repeat scroll 0 0 rgba(0,0,0,0);width:84px;height:84px;display:none;margin-left:5px;margin-right:15px}
+.alt_txt{background:white;display:none;float:left;height:84px;margin-left:5px;margin-right:15px;width:84px}
+.update_profile{width:21px;height:21px;display:inline-block;position:relative;top:9px;margin-bottom:3px}
+.progress_bar{min-width:200px;width:100%;height:105px;align:center;padding-top:20px}
+.heading_one,.heading_two,.heading_three{width:100%}
+.alertandview,.memberinfo{width:100%;padding-left:0}
+.alertMessages{margin-top:15px}
+.techprovider_img{margin-right:15px}
+.mar_017{margin:17px 0 0}
+div.image_badge span{font-size:16px;color:#555}
+.message_text,.profile_text{font-size:16px;color:#0071c5;padding-left:5px}
+.benefits_link_text{margin-top:15px}
+.training_heading,.training_progress_div,.purchases_progress_div,.purchases_heading{width:100%}
+.indivtraining_icon{background:#fdb813;width:10px;height:10px}
+.companytraining_icon{background:#ffda00;width:10px;height:10px}
+.purchase_icon{background:#a6ce39;width:10px;height:10px}
+.status_labels{font-size:13px;color:#555}
+.training_link,.purchases_link{margin-top:20px}
+.title_text h2{font-weight:200 !important}
+.title_text{float:left}
+.title_description{float:left}
+.title_description h4{margin-top:10px !important}
+hr{height:1px;width:80%;border:0;border-top:1px solid #e0e0e0 !important;margin-top:25px !important;margin-bottom:25px !important}
+.alert_module,.info-div{border:1px solid #e0e0e0;border-collapse:collapse;border-radius:4px}
+.alert_table,.info-div{font-size:16px;color:#555;background:#f7f7f7}
+.vertical_divider{line-height:31px;margin:0 9px;float:left;font-size:28px;font-weight:300;color:#555;display:block}
+#training_dots,#purchases_dots{margin-left:0 !important;margin-right:0 !important}
+a.message_icon_text{color:white !important}
+.image_badge{font-size:16px;text-align:left;font-weight:400;color:#555}
+.icon_width{width:46% !important;margin-right:10px}
+.welcome_name{margin-top:15px !important;margin-bottom:10px !important}
+.welcome_name_zero{margin-top:0 !important;margin-bottom:10px !important}
+.training_row,.purchase_row{margin-left:15px !important;margin-right:15px !important}
+.wid_49{padding-top:5px !important;min-height:50px}
+.container_dashboard .message_div,.profile_div{margin-left:0;margin-right:0}
+.container_dashboard .table_prop{padding-left:5px}
+.membershipinfo-only .heading_one{width:100%}
+.membershipinfo-only hr{display:none}
+.membershipinfo-alert-message .heading_one{width:50%}
+.membershipinfo-alert-message .heading_two{width:50%}
+.membershipinfo-alert-message hr{display:none}
+.membershipinfo-alert .heading_one,.membershipinfo-messages .heading_one{width:50%}
+.membershipinfo-alert .heading_two,.membershipinfo-messages .heading_two{width:50%}
+.membershipinfo-alert hr,.membershipinfo-messages hr{display:none}
+.id_background{float:left;height:256px;display:block}
+.id-mobile,.id-mobile-note{display:none;float:left}
+.img-front,.img-back{position:absolute}
+.idtext_overlay{padding:25px;position:relative;width:405px;top:110px}
+.id_back_background{float:left;height:256px;display:block;padding-left:10px}
+.title_badge_text{color:white;font-size:26px;width:128px;font-weight:bold}
+#membershipDashboard table.no_print_table tr td{border:0 none !important}
+.id-mobile-note .info-div,.certificate-img .info-div{border:1px solid #e0e0e0;border-radius:5px;background-color:#f7f7f7}
+.badge_membername{color:#555;font-weight:600;font-size:20px}
+.badge_label{color:#555;font-weight:600;font-size:16px}
+.badge_description{color:#555;font-weight:400;font-size:16px}
+#training-container table.training_nocourse_table tr td{border:0 none !important}
+#print_id,#print_certificate{display:block}
+#print_id_disabled,#print_certificate_disabled{display:none}
+.certificate_div{position:relative}
+.certificate-img{position:relative}
+.certificate-text_overlay{position:absolute;left:9%;line-height:22px;top:55%}
+img.img-certificate{width:100%}
+.soa-emulation .heading_one{width:33.33%}
+.soa-emulation .form-input{max-width:370px}
+.form-control.form-input.martop_8,#startEmulationSubmit{margin-top:8px}
+.end-emulation .glyphicon-info-sign{color:red}
+#membershipDashboard .soa-emulation .end-emulation table td{background-color:#f7f7f7;vertical-align:middle}
+.soa-emulation .end-emulation table td p{margin-bottom:0}
+.soa-emulation .end-emulation{max-width:375px}
+.soa-emulation .error.validation-messages{float:left;text-align:center;width:54%;max-width:220px;margin:13px 0 0 0}
+.soa-emulation .start-emulation input.invalid{border-color:#ed1c24}
+.emulation-validation .rule.broken{display:none}
+.soa-emulation .error-container{float:left;width:100%}
+.info-div .txt_left.no_bord{border-left:0 none;border-right:0 none}
+p.emulation-text{margin:1em 0}
+.flt_lft{float:left}
+.soa-emulation .heading_one #soaEmulation-hr{display:block;margin-bottom:10px;margin-top:10px}
+@media only screen and (min-width :1650px){hr{display:none}
+.container_dashboard{padding-left:25px !important;padding-right:25px !important}
+.heading_one{width:33.33%}
+.heading_two,.heading_three{width:33.33%;padding-left:50px}
+.wid_49{width:44% !important}
+.wid_47{width:47% !important}
+.title_button{margin-top:0;width:30%;float:right}
+.training_link,.purchases_link{margin-bottom:15px}
+#training_dots,#purchases_dots{margin-top:25px !important}
+.title_button a{float:right !important}
+.title{width:68%}
+.membershipinfo-alert-message .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert-message .alertandview{width:100%}
+.membershipinfo-alert .memberinfo,.membershipinfo-messages .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert .alertandview,.membershipinfo-messages .alertandview{width:100%}
+.membershipinfo-purchase .heading_one{width:50%;padding-right:50px}
+.membershipinfo-purchase .heading_three{width:50%}
+.membershipinfo-training .heading_one{width:50%;padding-right:50px}
+.membershipinfo-training .heading_two{width:50%}
+.certificate-text_overlay{left:6%;top:55%}
+}
+@media only screen and (min-width :1200px) and (max-width :1649px){hr{display:none}
+.container_dashboard{padding-left:25px !important;padding-right:25px !important}
+.heading_one{width:33.33%}
+.heading_two,.heading_three{width:33.33%;padding-left:15px}
+.title_button{margin-top:0;width:20%;float:right}
+.training_link,.purchases_link{margin-bottom:15px}
+#training_dots,#purchases_dots{margin-top:25px !important}
+.title_button a{float:right !important}
+.title{width:80%}
+.membershipinfo-alert-message .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert-message .alertandview{width:100%}
+.membershipinfo-alert .memberinfo,.membershipinfo-messages .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert .alertandview,.membershipinfo-messages .alertandview{width:100%}
+.membershipinfo-purchase .heading_one{width:50%;padding-right:50px}
+.membershipinfo-purchase .heading_three{width:50%}
+.membershipinfo-training .heading_one{width:50%;padding-right:50px}
+.membershipinfo-training .heading_two{width:50%}
+.certificate-text_overlay{left:8%;top:55%}
+}
+@media only screen and (min-width :992px)and (max-width :1199px){hr{display:none}
+.container_dashboard{padding-left:25px !important;padding-right:25px !important}
+.heading_one{width:33.33%}
+.heading_two,.heading_three{width:33.33%;padding-left:15px}
+.title_button{margin-top:0;width:30%;float:right}
+.training_link,.purchases_link{margin-bottom:15px}
+#training_dots,#purchases_dots{margin-top:25px !important}
+.title_button a{float:right !important}
+.title{width:70%}
+.heading_one hr{display:none !important}
+div.membershipinfo-alert-message div.heading_one{width:50% !important}
+div.membershipinfo-alert-message div.heading_two{width:50% !important}
+.membershipinfo-alert-message .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert-message .alertandview{width:100%}
+div.membershipinfo-alert div.heading_one,.membershipinfo-messages div.heading_one{width:50% !important}
+.membershipinfo-alert .heading_two,.membershipinfo-messages .heading_two{width:50%}
+.membershipinfo-alert .memberinfo,.membershipinfo-messages .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert .alertandview,.membershipinfo-messages .alertandview{width:100%}
+.membershipinfo-purchase .heading_one{width:50%;padding-right:50px}
+.membershipinfo-purchase .heading_three{width:50%}
+.membershipinfo-purchase .heading_one hr{display:none}
+.membershipinfo-training .heading_one{width:50%;padding-right:50px}
+.membershipinfo-training .heading_two{width:50%}
+.membershipinfo-training .heading_one hr{display:none}
+.membershipinfo-only .heading_one{width:100%}
+.id_background{display:block}
+.id-mobile,.id-mobile-note{display:none;width:50%}
+.id_back_background{display:block;padding-left:10px}
+.certificate-text_overlay{left:9%;top:55%}
+}
+@media only screen and (min-width :481px) and (max-width :991px){.heading_one,.heading_two,.heading_three{width:100%;margin-left:0 !important}
+.container_dashboard{padding-left:25px !important;padding-right:25px !important}
+.alertandview{width:49%;padding-right:0;padding-left:20px;margin-top:0}
+.alertMessages{margin-top:0}
+.memberinfo{width:51%}
+.techprovider_img{margin-right:15px}
+.benefits_link_text{margin-top:10px}
+.training_heading,.training_progress_div,.purchases_progress_div,.purchases_heading{width:49%}
+.training_progress_div,.purchases_progress_div{padding-left:20px}
+.training_link,.purchases_link{margin-top:15px}
+.status_text{margin-right:80px;float:right;width:50%}
+.title_text{width:98% !important;float:left}
+.title_description{width:98% !important;float:left}
+hr{display:block;margin-top:25px !important;margin-bottom:25px !important}
+.title_button{margin-top:0;width:30%;float:right}
+.vertical_divider{display:none}
+.training_link,.purchases_link{margin-bottom:0}
+#training_dots,#purchases_dots{margin-top:10px !important}
+.title_button a{float:right !important}
+.title{width:70%}
+.membershipinfo-only .heading_one hr{display:none !important}
+.membershipinfo-only .heading_one{padding-right:0}
+.membershipinfo-only .memberinfo{width:100%}
+.membershipinfo-alert-message .heading_one{width:56% !important}
+.membershipinfo-alert-message .heading_two{width:44%}
+.membershipinfo-alert-message .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert-message .alertandview{width:100%}
+.membershipinfo-alert-message hr{display:none !important}
+div.membershipinfo-alert div.heading_one,.membershipinfo-messages div.heading_one{width:56% !important}
+.membershipinfo-alert .heading_two,.membershipinfo-messages .heading_two{width:44%}
+.membershipinfo-alert .memberinfo,.membershipinfo-messages .memberinfo{width:100%;padding-right:25px}
+.membershipinfo-alert .alertandview,.membershipinfo-messages .alertandview{width:100%}
+.membershipinfo-alert hr,.membershipinfo-messages hr{display:none !important}
+.membershipinfo-purchase .heading_one{width:51%;padding-right:0}
+.membershipinfo-purchase .memberinfo{width:100%}
+.membershipinfo-purchase .heading_three{width:49%}
+.membershipinfo-purchase .purchases_heading{text-align:center;width:100%}
+.membershipinfo-purchase .purchases_heading .description_text{text-align:left}
+.membershipinfo-purchase .purchases_progress_div{width:100%}
+.membershipinfo-purchase .status_text{width:100%}
+.membershipinfo-purchase .heading_three hr{display:none}
+.membershipinfo-purchase hr{display:none !important}
+.membershipinfo-training .heading_one{width:51%;padding-right:0}
+.membershipinfo-training .memberinfo{width:100%}
+.membershipinfo-training .heading_two{width:49%}
+.membershipinfo-training .training_heading{text-align:center;width:100%}
+.membershipinfo-purchase .training_heading .description_text{text-align:left}
+.membershipinfo-training .training_progress_div{width:100%}
+.membershipinfo-training .status_text{width:100%}
+.membershipinfo-training .heading_two hr{display:none}
+.membershipinfo-training hr{display:none}
+.id_background{display:block;width:100%}
+.id-mobile,.id-mobile-note{display:none;width:100%}
+.id_back_background{display:block;width:100%;padding-left:0}
+.idtext_overlay{top:110px;width:405px}
+#print_id,#print_certificate{display:block}
+#print_id_disabled,#print_certificate_disabled{display:none}
+.certificate-text_overlay{left:9%;line-height:14px;top:55%}
+.certificate-text_overlay .badge_membername{font-size:15px}
+.certificate-text_overlay .badge_label,.certificate-text_overlay .badge_description{font-size:13px}
+.soa-emulation .heading_one{width:100%}
+}
+@media all and (max-width:940px){.certificate-text_overlay{display:none}
+.soa-emulation .heading_one{width:100%}
+}
+@media only screen and (max-width :715px){.id_background{width:100%}
+.id-mobile{width:100%;height:auto}
+.id_back_background{width:100%;padding-left:0}
+.idtext_overlay{top:110px;width:405px}
+.id-mobile-note{max-width:405px;margin-top:25px}
+}
+@media only screen and (max-width :680px){.certificate-text_overlay{top:55%}
+.certificate-text_overlay .badge_membername{font-size:13px}
+.certificate-text_overlay .badge_label,.certificate-text_overlay .badge_description{font-size:11px}
+}
+@media only screen and (max-width :590px){.certificate-text_overlay{top:55%;line-height:11px}
+.certificate-text_overlay .badge_membername{font-size:11px}
+.certificate-text_overlay .badge_label,.certificate-text_overlay .badge_description{font-size:10px}
+}
+@media only screen and (max-width :530px){.certificate-text_overlay{top:55%;line-height:9px}
+.certificate-text_overlay .badge_membername{font-size:10px}
+.certificate-text_overlay .badge_label,.certificate-text_overlay .badge_description{font-size:9px}
+}
+@media only screen and (min-width :481px) and (max-width :525px){.message_text,.profile_text{font-size:14px}
+.profile_column div.bord_1.marl_10{margin-left:5px}
+.progress_labels{font-size:10px}
+.glyphicon-user,.glyphicon-envelope,.glyphicon-info-sign{font-size:20px}
+}
+@media only screen and (min-width :320px) and (max-width :480px){.heading_one,.heading_two,.heading_three{width:100%}
+.techprovider_img{margin-left:20px;margin-right:15px}
+.benefits_link_text{margin-top:15px}
+.title,.title_button{width:100%}
+.container_dashboard .title_button{margin-top:0 !important;float:left !important;margin-bottom:25px !important}
+.title_text{width:98% !important;float:left}
+.title_description{width:98% !important;float:left}
+hr{display:block !important;margin-top:12px !important;margin-bottom:12px !important}
+.vertical_divider{display:none !important}
+.training_link,.purchases_link{margin-bottom:0;margin-top:20px}
+#training_dots,#purchases_dots{margin-top:25px !important}
+.title_button a{float:left !important}
+.status_text{padding-left:0}
+.container_dashboard .message_div{margin-left:10px}
+.profile_div{margin-right:10px}
+.membershipinfo-only .heading_one hr{display:none !important}
+.membershipinfo-alert-message .heading_one{width:100%}
+.membershipinfo-alert-message .heading_two{width:100%}
+.membershipinfo-alert-message .memberinfo,.membershipinfo-alert-message .alertandview{width:100%}
+.membershipinfo-alert-message hr{display:none !important}
+.membershipinfo-alert-message .details_div{width:100%}
+.membershipinfo-alert .heading_one,.membershipinfo-messages .heading_one{width:100%}
+.membershipinfo-alert .heading_two,.membershipinfo-messages .heading_two{width:100%}
+.membershipinfo-alert .memberinfo,.membershipinfo-alert .alertandview,.membershipinfo-messages .memberinfo,.membershipinfo-messages .alertandview{width:100%}
+.membershipinfo-alert hr,.membershipinfo-messages hr{display:none !important}
+.membershipinfo-alert .details_div,.membershipinfo-messages .details_div{width:100%}
+.membershipinfo-purchase .heading_one{width:100%}
+.membershipinfo-purchase .heading_three{width:100%}
+.membershipinfo-purchase .heading_three hr{display:none !important}
+.membershipinfo-purchase hr{display:block !important}
+.membershipinfo-training .heading_one{width:100%}
+.membershipinfo-training .heading_two{width:100%}
+.membershipinfo-training .heading_two hr{display:none !important}
+.membershipinfo-training hr{display:block !important}
+.id_background{display:none;width:100%}
+.id-mobile,.id-mobile-note{display:block}
+.id-mobile{width:100%;height:auto}
+.id-mobile-note{margin-top:25px;width:100%;max-width:405px}
+.id_back_background{display:none;width:100%}
+#print_id,#print_certificate{display:none}
+#print_id_disabled,#print_certificate_disabled{display:block}
+.certificate-text_overlay{left:9%;display:none}
+.certificate_div .id-mobile-note{margin-top:0;margin-bottom:25px}
+.certificate_div.registeredUser .id-mobile-note{display:none}
+}
+.end-emulation-bar{margin-top:25px;height:50px}
+.emulation-margins{margin-bottom:5px}
+.end-emulation-bar table p{margin-bottom:-3px;margin-top:5px}
+.rwd .table.emulation-margins{margin-bottom:0}
+.margin_top_1p{margin-top:1px}
+.info-div{width:377px}
+.styleDiv{width:auto}

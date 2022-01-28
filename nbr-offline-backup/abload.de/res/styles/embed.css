@@ -1,0 +1,39 @@
+* {
+margin: 0;
+padding: 0;
+}
+
+a {
+color: inherit;
+}
+
+body {
+font-family: Verdana, sans-serif;
+font-size: 0.9em;
+padding: 10px;
+}
+
+#logo {
+display: block;
+text-align: center;
+background-color: #FFF;
+}
+
+img {
+border: none 0;
+}
+
+fieldset {
+border: none 0;
+border-top: solid 2px #DDD;
+padding: 5px 0;
+text-align: center;
+}
+
+input[type=text] {
+width: 170px;
+}
+
+select {
+width: 170px;
+}

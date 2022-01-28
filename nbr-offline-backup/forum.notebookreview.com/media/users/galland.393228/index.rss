@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Galland.</description>
+    <pubDate>Wed, 26 Jan 2022 05:13:35 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:13:35 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/galland.393228/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/galland.393228/index.rss"/>
+    <item>
+      <title>Screenshot (6)</title>
+      <pubDate>Thu, 02 Jul 2015 13:47:53 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screenshot-6.929/</link>
+      <guid>http://forum.notebookreview.com/media/screenshot-6.929/</guid>
+      <author>invalid@example.com (Galland)</author>
+      <dc:creator>Galland</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screenshot-6.929/">
+			<img src="http://forum.notebookreview.com/data/xengallery/97/97848-886e9c81e90115f403e19befc87a2070.jpg" alt="Screenshot (6).png" title="Screenshot (6)" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Screenshot (5)</title>
+      <pubDate>Thu, 02 Jul 2015 13:28:37 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screenshot-5.928/</link>
+      <guid>http://forum.notebookreview.com/media/screenshot-5.928/</guid>
+      <author>invalid@example.com (Galland)</author>
+      <dc:creator>Galland</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screenshot-5.928/">
+			<img src="http://forum.notebookreview.com/data/xengallery/97/97847-73c685da7b30a2806694d03a88f52147.jpg" alt="Screenshot (5).png" title="Screenshot (5)" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

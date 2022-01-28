@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user chip ahoy.</description>
+    <pubDate>Wed, 26 Jan 2022 23:45:36 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 23:45:36 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/chip-ahoy.658256/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/chip-ahoy.658256/index.rss"/>
+    <item>
+      <title>No Setting</title>
+      <pubDate>Sat, 25 Apr 2015 00:20:07 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/no-setting.841/</link>
+      <guid>http://forum.notebookreview.com/media/no-setting.841/</guid>
+      <author>invalid@example.com (chip ahoy)</author>
+      <dc:creator>chip ahoy</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/no-setting.841/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96112-4ce9a24eb7c9ca4eff1d44c09c4eb571.jpg" alt="no setting.png" title="No Setting" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>no setting2.png</title>
+      <pubDate>Sat, 25 Apr 2015 00:18:12 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/no-setting2-png.840/</link>
+      <guid>http://forum.notebookreview.com/media/no-setting2-png.840/</guid>
+      <author>invalid@example.com (chip ahoy)</author>
+      <dc:creator>chip ahoy</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/no-setting2-png.840/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96111-b3208360444822e3d385aa01f7cb20e7.jpg" alt="no setting2.png" title="no setting2.png" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

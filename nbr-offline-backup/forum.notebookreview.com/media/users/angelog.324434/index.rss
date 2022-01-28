@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user angelog.</description>
+    <pubDate>Thu, 27 Jan 2022 13:10:55 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 13:10:55 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/angelog.324434/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/angelog.324434/index.rss"/>
+    <item>
+      <title>Reg Screen Grab for PowerMizer settings</title>
+      <pubDate>Fri, 19 Mar 2010 15:36:44 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/reg-screen-grab-for-powermizer-settings.332/</link>
+      <guid>http://forum.notebookreview.com/media/reg-screen-grab-for-powermizer-settings.332/</guid>
+      <author>invalid@example.com (angelog)</author>
+      <dc:creator>angelog</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/reg-screen-grab-for-powermizer-settings.332/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92997-19104ab2c50e354e895895d4158b51ed.jpg" alt="RegNvidiaPwrMizer.JPG" title="Reg Screen Grab for PowerMizer settings" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user sk3tch.</description>
+    <pubDate>Thu, 27 Jan 2022 08:10:36 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 08:10:36 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/sk3tch.401428/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/sk3tch.401428/index.rss"/>
+    <item>
+      <title>MSI GS43VR 7RE Phantom Pro on a Roost Laptop Stand</title>
+      <pubDate>Tue, 02 May 2017 23:55:37 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/msi-gs43vr-7re-phantom-pro-on-a-roost-laptop-stand.1639/</link>
+      <guid>http://forum.notebookreview.com/media/msi-gs43vr-7re-phantom-pro-on-a-roost-laptop-stand.1639/</guid>
+      <author>invalid@example.com (sk3tch)</author>
+      <dc:creator>sk3tch</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/msi-gs43vr-7re-phantom-pro-on-a-roost-laptop-stand.1639/">
+			<img src="http://forum.notebookreview.com/data/xengallery/117/117318-2c4aaf857e64b86749627681196a3c56.jpg" alt="FullSizeRender.jpg" title="MSI GS43VR 7RE Phantom Pro on a Roost Laptop Stand" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Gaming in style on the road for work...GTX 1060 GPU tops out at 78C thanks to the max airflow.</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<script type="text/javascript">
+	$('#leftmenu a:lt(2)').remove()
+	$('#leftmenu h1').after($('<div>').css("padding", "5px").html("Bitte melde dich jetzt rechts an."))
+        $('#navigation').css('line-height', '1.2em');
+</script>
+
+
+<form name="login" action="#" method="post">
+	<table style="text-align:left; margin: auto; border-spacing: 10px;">
+		<tr>
+			<td>Benutzername oder<br />E-Mail-Adresse</td>
+			<td><input type="text" name="name" /></td>
+		</tr>
+		<tr>
+			<td>Passwort</td>
+			<td><input type="password" name="password" /></td>
+		</tr>
+		<tr>
+			<td colspan="2"><input type="checkbox" name="cookie" id="cookie" />&nbsp;<label for="cookie">Auf diesem Computer angemeldet bleiben</label></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><input type="submit" value="anmelden" /></td>
+		</tr>
+		<tr>
+			<td colspan="2" style="padding-top: 10px"><a href="register.html">Noch keinen Account?</a><br /><a href="lostPassword.html">Passwort vergessen?</a><br /><a href="lostActivation.html">Aktivierungslink verloren?</a></td>
+		</tr>
+	</table>
+</form>

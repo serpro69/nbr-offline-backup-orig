@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user BillyBrownEyes.</description>
+    <pubDate>Thu, 27 Jan 2022 04:08:55 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 04:08:55 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/billybrowneyes.657955/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/billybrowneyes.657955/index.rss"/>
+    <item>
+      <title>F5521GWSW</title>
+      <pubDate>Wed, 25 Mar 2015 21:51:10 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/f5521gwsw.769/</link>
+      <guid>http://forum.notebookreview.com/media/f5521gwsw.769/</guid>
+      <author>invalid@example.com (BillyBrownEyes)</author>
+      <dc:creator>BillyBrownEyes</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/f5521gwsw.769/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95253-1c4fd39c3b3e35d6486d179d42072e25.jpg" alt="F5521GWSW.jpg" title="F5521GWSW" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Screenshot Device HW IDs</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>F5521GW</title>
+      <pubDate>Wed, 25 Mar 2015 21:42:48 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/f5521gw.768/</link>
+      <guid>http://forum.notebookreview.com/media/f5521gw.768/</guid>
+      <author>invalid@example.com (BillyBrownEyes)</author>
+      <dc:creator>BillyBrownEyes</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/f5521gw.768/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95252-27411feb89623b6be787e7ec549ff949.jpg" alt="F5521GW.jpg" title="F5521GW" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Ericsson F5521GW that worked in a CF-52mk3</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

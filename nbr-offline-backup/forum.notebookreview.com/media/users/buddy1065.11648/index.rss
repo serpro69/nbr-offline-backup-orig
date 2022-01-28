@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user buddy1065.</description>
+    <pubDate>Thu, 27 Jan 2022 08:57:53 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 08:57:53 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/buddy1065.11648/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/buddy1065.11648/index.rss"/>
+    <item>
+      <title>Screenshot_20180413-075619_Gallery</title>
+      <pubDate>Fri, 13 Apr 2018 12:00:07 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screenshot_20180413-075619_gallery.1854/</link>
+      <guid>http://forum.notebookreview.com/media/screenshot_20180413-075619_gallery.1854/</guid>
+      <author>invalid@example.com (buddy1065)</author>
+      <dc:creator>buddy1065</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screenshot_20180413-075619_gallery.1854/">
+			<img src="http://forum.notebookreview.com/data/xengallery/130/130041-d830ddb7a77f09245ef17f861ba649b5.jpg" alt="Screenshot_20180413-075619_Gallery.jpg" title="Screenshot_20180413-075619_Gallery" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Screenshot_20180413-075633_Gallery</title>
+      <pubDate>Fri, 13 Apr 2018 12:00:07 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screenshot_20180413-075633_gallery.1853/</link>
+      <guid>http://forum.notebookreview.com/media/screenshot_20180413-075633_gallery.1853/</guid>
+      <author>invalid@example.com (buddy1065)</author>
+      <dc:creator>buddy1065</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screenshot_20180413-075633_gallery.1853/">
+			<img src="http://forum.notebookreview.com/data/xengallery/130/130040-8bc54d2fadf69aa52db44a4aa266ffd0.jpg" alt="Screenshot_20180413-075633_Gallery.jpg" title="Screenshot_20180413-075633_Gallery" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

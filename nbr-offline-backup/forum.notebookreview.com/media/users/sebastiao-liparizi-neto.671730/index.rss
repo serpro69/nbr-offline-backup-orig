@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Sebastiao Liparizi Neto.</description>
+    <pubDate>Wed, 26 Jan 2022 05:10:53 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:53 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/sebastiao-liparizi-neto.671730/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/sebastiao-liparizi-neto.671730/index.rss"/>
+    <item>
+      <title>3dmark11</title>
+      <pubDate>Wed, 24 Feb 2016 04:34:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/3dmark11.1283/</link>
+      <guid>http://forum.notebookreview.com/media/3dmark11.1283/</guid>
+      <author>invalid@example.com (Sebastiao Liparizi Neto)</author>
+      <dc:creator>Sebastiao Liparizi Neto</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/3dmark11.1283/">
+			<img src="http://forum.notebookreview.com/data/xengallery/104/104449-c50ff0a8644264ae1c81509b642af90d.jpg" alt="3dmark11.png" title="3dmark11" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

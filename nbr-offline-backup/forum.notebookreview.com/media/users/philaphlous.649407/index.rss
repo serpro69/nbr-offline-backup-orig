@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Philaphlous.</description>
+    <pubDate>Fri, 28 Jan 2022 09:26:15 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 09:26:15 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/philaphlous.649407/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/philaphlous.649407/index.rss"/>
+    <item>
+      <title>Asus G14 CinebenchR15</title>
+      <pubDate>Tue, 01 Dec 2020 14:09:37 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/asus-g14-cinebenchr15.2341/</link>
+      <guid>http://forum.notebookreview.com/media/asus-g14-cinebenchr15.2341/</guid>
+      <author>invalid@example.com (Philaphlous)</author>
+      <dc:creator>Philaphlous</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/asus-g14-cinebenchr15.2341/">
+			<img src="http://forum.notebookreview.com/data/xengallery/162/162228-6125326418993a65c9fe3357b185d2e6.jpg" alt="image_2020-12-01_090922.png" title="Asus G14 CinebenchR15" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

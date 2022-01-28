@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user win32asmguy.</description>
+    <pubDate>Thu, 27 Jan 2022 21:55:22 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 21:55:22 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/win32asmguy.32830/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/win32asmguy.32830/index.rss"/>
+    <item>
+      <title>WT75back</title>
+      <pubDate>Wed, 26 Sep 2018 12:30:41 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/wt75back.1956/</link>
+      <guid>http://forum.notebookreview.com/media/wt75back.1956/</guid>
+      <author>invalid@example.com (win32asmguy)</author>
+      <dc:creator>win32asmguy</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/wt75back.1956/">
+			<img src="http://forum.notebookreview.com/data/xengallery/136/136575-fb3ba5623c6ddc2c41a084f8881fb9ff.jpg" alt="WT75back.jpg" title="WT75back" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>P750zm backlight bleed</title>
+      <pubDate>Wed, 10 Jun 2015 05:29:33 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/p750zm-backlight-bleed.910/</link>
+      <guid>http://forum.notebookreview.com/media/p750zm-backlight-bleed.910/</guid>
+      <author>invalid@example.com (win32asmguy)</author>
+      <dc:creator>win32asmguy</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/p750zm-backlight-bleed.910/">
+			<img src="http://forum.notebookreview.com/data/xengallery/97/97300-3c1d2cd51af393ec6966172d6b5a7d25.jpg" alt="image.jpg" title="P750zm backlight bleed" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>P750ZM Box</title>
+      <pubDate>Wed, 04 Feb 2015 18:52:32 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/p750zm-box.565/</link>
+      <guid>http://forum.notebookreview.com/media/p750zm-box.565/</guid>
+      <author>invalid@example.com (win32asmguy)</author>
+      <dc:creator>win32asmguy</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/p750zm-box.565/">
+			<img src="http://forum.notebookreview.com/data/xengallery/93/93511-56ec48610b5bef40fbc635c5495040fe.jpg" alt="IMG_0203sm.JPG" title="P750ZM Box" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

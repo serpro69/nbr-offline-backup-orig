@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user 2CPU.</description>
+    <pubDate>Fri, 28 Jan 2022 00:45:02 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 00:45:02 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/2cpu.709913/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/2cpu.709913/index.rss"/>
+    <item>
+      <title>Fan</title>
+      <pubDate>Mon, 24 Sep 2018 19:14:45 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/fan.1955/</link>
+      <guid>http://forum.notebookreview.com/media/fan.1955/</guid>
+      <author>invalid@example.com (2CPU)</author>
+      <dc:creator>2CPU</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/fan.1955/">
+			<img src="http://forum.notebookreview.com/data/xengallery/136/136515-13b8a545982f0f123395f60f8d0ccd68.jpg" alt="fan.jpg" title="Fan" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>6 stator M4700 fan inside M15x CPU shroud</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>PSU</title>
+      <pubDate>Mon, 24 Sep 2018 19:12:38 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/psu.1954/</link>
+      <guid>http://forum.notebookreview.com/media/psu.1954/</guid>
+      <author>invalid@example.com (2CPU)</author>
+      <dc:creator>2CPU</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/psu.1954/">
+			<img src="http://forum.notebookreview.com/data/xengallery/136/136514-13680be367de38eff875fcdf41cbaea6.jpg" alt="PSU.jpg" title="PSU" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>330W modded chip id</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

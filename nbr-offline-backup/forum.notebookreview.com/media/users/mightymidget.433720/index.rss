@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user MightyMidget.</description>
+    <pubDate>Thu, 27 Jan 2022 10:18:04 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:18:04 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/mightymidget.433720/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/mightymidget.433720/index.rss"/>
+    <item>
+      <title>AW13_screen_compare3</title>
+      <pubDate>Thu, 02 Apr 2015 03:33:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/aw13_screen_compare3.807/</link>
+      <guid>http://forum.notebookreview.com/media/aw13_screen_compare3.807/</guid>
+      <author>invalid@example.com (MightyMidget)</author>
+      <dc:creator>MightyMidget</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/aw13_screen_compare3.807/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95530-f6b56d4b084bfd24697b73533f2ad177.jpg" alt="AW13_screen_compare3.jpg" title="AW13_screen_compare3" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>AW13_screen_compare2</title>
+      <pubDate>Thu, 02 Apr 2015 03:33:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/aw13_screen_compare2.806/</link>
+      <guid>http://forum.notebookreview.com/media/aw13_screen_compare2.806/</guid>
+      <author>invalid@example.com (MightyMidget)</author>
+      <dc:creator>MightyMidget</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/aw13_screen_compare2.806/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95529-a754c52c93a2faf0bfd007fdc279d4f0.jpg" alt="AW13_screen_compare2.jpg" title="AW13_screen_compare2" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>AW13_screen_compare</title>
+      <pubDate>Thu, 02 Apr 2015 03:33:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/aw13_screen_compare.805/</link>
+      <guid>http://forum.notebookreview.com/media/aw13_screen_compare.805/</guid>
+      <author>invalid@example.com (MightyMidget)</author>
+      <dc:creator>MightyMidget</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/aw13_screen_compare.805/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95528-3ac937b929df73a184c3d7dea09ab46c.jpg" alt="AW13_screen_compare.jpg" title="AW13_screen_compare" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

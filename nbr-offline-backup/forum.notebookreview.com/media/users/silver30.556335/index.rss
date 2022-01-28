@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user silver30.</description>
+    <pubDate>Fri, 28 Jan 2022 02:40:36 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 02:40:36 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/silver30.556335/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/silver30.556335/index.rss"/>
+    <item>
+      <title>Cf-30_3g</title>
+      <pubDate>Thu, 12 Feb 2015 23:20:50 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cf-30_3g.601/</link>
+      <guid>http://forum.notebookreview.com/media/cf-30_3g.601/</guid>
+      <author>invalid@example.com (silver30)</author>
+      <dc:creator>silver30</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cf-30_3g.601/">
+			<img src="http://forum.notebookreview.com/data/xengallery/93/93777-7d34e6288c8aac7e049d0ab5524174e1.jpg" alt="cf-30_3g.jpg" title="Cf-30_3g" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

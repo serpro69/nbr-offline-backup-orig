@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user OsamaBinGaming.</description>
+    <pubDate>Thu, 27 Jan 2022 13:30:19 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 13:30:19 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/osamabingaming.504718/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/osamabingaming.504718/index.rss"/>
+    <item>
+      <title>Cinebench OpenGL</title>
+      <pubDate>Wed, 09 May 2018 05:10:22 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cinebench-opengl.1869/</link>
+      <guid>http://forum.notebookreview.com/media/cinebench-opengl.1869/</guid>
+      <author>invalid@example.com (OsamaBinGaming)</author>
+      <dc:creator>OsamaBinGaming</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cinebench-opengl.1869/">
+			<img src="http://forum.notebookreview.com/data/xengallery/131/131060-4ed76379cfa5ac99e4655efc5ce50c99.jpg" alt="Cinebench OpenGL.PNG" title="Cinebench OpenGL" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Cinebench CPU</title>
+      <pubDate>Wed, 09 May 2018 05:10:22 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cinebench-cpu.1868/</link>
+      <guid>http://forum.notebookreview.com/media/cinebench-cpu.1868/</guid>
+      <author>invalid@example.com (OsamaBinGaming)</author>
+      <dc:creator>OsamaBinGaming</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cinebench-cpu.1868/">
+			<img src="http://forum.notebookreview.com/data/xengallery/131/131059-ea02f6d9d34765ba4b389ea9a76d04a4.jpg" alt="Cinebench CPU.PNG" title="Cinebench CPU" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

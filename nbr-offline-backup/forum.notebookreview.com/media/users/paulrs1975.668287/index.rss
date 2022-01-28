@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user paulrs1975.</description>
+    <pubDate>Thu, 27 Jan 2022 22:10:05 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 22:10:05 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/paulrs1975.668287/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/paulrs1975.668287/index.rss"/>
+    <item>
+      <title>Screen Shot 06-23-18 At 09.55 PM</title>
+      <pubDate>Sun, 24 Jun 2018 20:25:16 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screen-shot-06-23-18-at-09-55-pm.1906/</link>
+      <guid>http://forum.notebookreview.com/media/screen-shot-06-23-18-at-09-55-pm.1906/</guid>
+      <author>invalid@example.com (paulrs1975)</author>
+      <dc:creator>paulrs1975</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screen-shot-06-23-18-at-09-55-pm.1906/">
+			<img src="http://forum.notebookreview.com/data/xengallery/132/132763-14074cca239f73de67f4279d63cbb6f5.jpg" alt="Screen Shot 06-23-18 at 09.55 PM.PNG" title="Screen Shot 06-23-18 At 09.55 PM" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>COD WW2 temps (ultra 1440P)</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Derek712.</description>
+    <pubDate>Wed, 26 Jan 2022 23:46:40 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 23:46:40 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/derek712.568199/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/derek712.568199/index.rss"/>
+    <item>
+      <title>DSC_0195</title>
+      <pubDate>Sat, 18 Apr 2015 00:50:32 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dsc_0195.833/</link>
+      <guid>http://forum.notebookreview.com/media/dsc_0195.833/</guid>
+      <author>invalid@example.com (Derek712)</author>
+      <dc:creator>Derek712</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dsc_0195.833/">
+			<img src="http://forum.notebookreview.com/data/xengallery/95/95947-6da1289f8d7cd76390d7f59e764fa8ea.jpg" alt="DSC_0195.JPG" title="DSC_0195" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Charles P. Jefferies.</description>
+    <pubDate>Thu, 27 Jan 2022 15:52:33 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 15:52:33 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/charles-p-jefferies.16273/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/charles-p-jefferies.16273/index.rss"/>
+    <item>
+      <title>wPrime - Core i7 920XM Extreme</title>
+      <pubDate>Sat, 14 Nov 2009 23:00:29 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/wprime-core-i7-920xm-extreme.119/</link>
+      <guid>http://forum.notebookreview.com/media/wprime-core-i7-920xm-extreme.119/</guid>
+      <author>invalid@example.com (Charles P. Jefferies)</author>
+      <dc:creator>Charles P. Jefferies</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/wprime-core-i7-920xm-extreme.119/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92784-ba929cf8c87e1c80e7d42e2ce1b6a5e9.jpg" alt="wPrime.jpg" title="wPrime - Core i7 920XM Extreme" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>wPrime on an Alienware M15x with a Core i7 920XM Extreme processor (2.0GHz, 3.2GHz Turbo).</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

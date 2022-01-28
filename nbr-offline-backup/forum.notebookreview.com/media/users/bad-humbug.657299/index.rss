@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Bad Humbug.</description>
+    <pubDate>Fri, 28 Jan 2022 08:38:32 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 08:38:32 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/bad-humbug.657299/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/bad-humbug.657299/index.rss"/>
+    <item>
+      <title>4870HQ_1</title>
+      <pubDate>Fri, 13 Mar 2015 10:25:11 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/4870hq_1.730/</link>
+      <guid>http://forum.notebookreview.com/media/4870hq_1.730/</guid>
+      <author>invalid@example.com (Bad Humbug)</author>
+      <dc:creator>Bad Humbug</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/4870hq_1.730/">
+			<img src="http://forum.notebookreview.com/data/xengallery/94/94896-249a3d029e63f5ffd59585584ae0ebf2.jpg" alt="4870HQ_1.PNG" title="4870HQ_1" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>P651SE with 4870HQ in Intel XTU</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

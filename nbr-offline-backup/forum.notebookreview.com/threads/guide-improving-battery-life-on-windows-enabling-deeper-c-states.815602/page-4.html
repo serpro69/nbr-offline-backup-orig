@@ -1,0 +1,4580 @@
+<!DOCTYPE html>
+<html id="XenForo" lang="en-US" dir="LTR" class="Public NoJs GalleryLazyLoader LoggedIn Sidebar Responsive" xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<!-- Mirrored from forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/page-4 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jan 2022 15:23:50 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+
+	<meta charset="utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	
+		<base  />
+		<script>
+			var _b = document.getElementsByTagName('base')[0], _bH = "http://forum.notebookreview.com/";
+			if (_b && _b.href != _bH) _b.href = _bH;
+		</script>
+	
+
+	<title>[Guide] Improving Battery Life on Windows [+Enabling Deeper C States] | Page 4 | NotebookReview</title>
+	
+	<noscript><style>.JsOnly, .jsOnly { display: none !important; }</style></noscript>
+	<link rel="stylesheet" href="http://forum.notebookreview.com/css.php?css=xenforo,form,public&amp;style=3&amp;dir=LTR&amp;d=1642911004" />
+	<link rel="stylesheet" href="http://forum.notebookreview.com/css.php?css=attached_files,attachment_editor,bb_code,editor_ui,likes_summary,message,message_user_info,polls,quick_reply,share_page,sidebar_share_page,thread_view,wf_default,xengallery_tab_links&amp;style=3&amp;dir=LTR&amp;d=1642911004" />
+	
+	
+	<link href="../../../maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+	<!-- CMP --><script src="../../../cdn.ttgtmedia.com/cmp/sourcepoint/ccpa-config.min.js"></script>
+<script src="../../../cdn.ttgtmedia.com/cmp/sourcepoint/gdprTCFv2-config.min.js"></script>
+<script src="../../../cdn.ttgtmedia.com/cmp/ttCmpApi.min.js"></script><!-- CMP END -->
+<div id="cmp-banner"></div>
+
+<style>
+#cmp-banner {
+     position: fixed;
+     bottom: 0;
+     right: 0;
+     z-index: 100; }
+     @media (min-width: 960px) {
+    #cmp-banner {
+      bottom: 20px; } }
+</style>
+		<script src="../../js/jquery/jquery-1.11.0.min.js"></script>	
+		
+	<script src="../../js/xenforo/xenforo6698.js?_v=14ed81ff"></script>
+	<script src="../../js/xenforo/discussion6698.js?_v=14ed81ff"></script>
+	<script src="../../js/redactor/redactor6698.js?_v=14ed81ff"></script>
+	<script src="../../js/xengallery/min/gallery_bb_codedae4.js?_v=5ede8a70"></script>
+	<script src="../../js/xenforo/bb_code_edit6698.js?_v=14ed81ff"></script>
+	<script src="../../js/xenforo/attachment_editor6698.js?_v=14ed81ff"></script>
+	
+	
+<script language="javascript">
+
+
+
+
+tg_page_id = "15";
+tg_forumname = "Windows OS and Software";
+
+
+</script>
+  
+	<link rel="shortcut icon" href="http://forum.notebookreview.com/favicon.ico" />
+<meta name="google-site-verification" content="iOkwPvXh51jTVIjgkbopikWQDslmWYwolJjhOjeFlx8" />
+<script src="../../../acdn.adnxs.com/prebid/c/8156/pb.js" async=true></script> 
+<script>var googletag=googletag||{};googletag.cmd=googletag.cmd||[],googletag.cmd.push(function()
+{googletag.pubads().disableInitialLoad();});</script>
+<script type='text/javascript'>
+
+//initialize at top of page
+function getURLParamValue(param) {
+		var paramValue = param + "=";
+		var searchValue = window.location.search.toLowerCase();
+		var searchValueParam = "";
+		if (searchValue.indexOf(paramValue) != -1) {
+			searchValueParam = window.location.search.substring(searchValue.indexOf(paramValue),searchValue.length);
+			if (searchValueParam.indexOf("&") != -1) searchValueParam = searchValueParam.substring(0,searchValueParam.indexOf("&"));
+		}
+		searchValueParam = searchValueParam.substring((param.length)+1,searchValueParam.length);
+		return searchValueParam;
+	}
+</script>
+
+<script type="text/javascript" src="../../../cdn.ttgtmedia.com/rms/ux/javascript/gpt-1.0.min.js"></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var adParams = {"acct":"atgnb","viewport":""};
+/* ]-]-> */
+</script>
+<script type='text/javascript'> 
+// Ad resizing functions for GPT
+var resizeTimer;
+
+function adRange() {
+	var ww = jQuery(window).width();
+	trace("window size: " + ww);
+	if (ww < 727) {
+		return 1;
+	} else if (ww < 970) {
+		return 2;
+	} else if (ww<1000) {
+		return 3;
+	} else {
+		return 4;
+	}
+}
+
+function trace(s) {
+	try { console.log(s) } catch (e) { 
+		//alert(s) 
+	}
+}
+
+jQuery(document).ready(function() {
+	adParams.viewport = adRange();
+	trace("viewport: " + adParams.viewport);	
+	trace("adParams.viewport" + adParams.viewport);
+	if (adParams.viewport > 2) {
+		// hide ad divs
+		 jQuery(".bodyAd").hide();  
+	}
+	var resizeTimer;
+	jQuery(window).resize(function() {
+				
+		if (adParams.viewport != adRange()) {
+			adParams.viewport = adRange();
+			trace("resizing for viewport: " + adParams.viewport);
+			googletag.pubads().refresh();
+		}
+		// track resize in Analytics
+		// Use resizeTimer to throttle the resize handler
+		clearTimeout( resizeTimer );
+		resizeTimer = setTimeout(function() {
+	 
+		 /* Send the event to Google Analytics
+		  *
+		  * https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiEventTracking
+		  * _trackEvent(category, action, opt_label, opt_value, opt_noninteraction)   
+		  */
+		var ga_wrData = false;
+		if (window.location.search.indexOf("wrData=on") != "-1") ga_wrData = true;
+		if (ga_wrData) {
+			// only track this on the live site
+			var jQuerywindow = jQuery( window );
+			_gaq.push( [ "_trackEvent", "User Actions", "Browser Resize", jQuerywindow.width() + " x " + jQuerywindow.height() ] );
+		}
+		}, 1000);			
+	});
+});
+</script>
+<script type="text/javascript">
+            	var cmpApi;
+                cmpApi = new ttCmpApi();
+                var googleIabPuropseList = [1];
+                var googleAdsLegitimateInterestsPurposeIds =[2,7,9,10];
+                var isGoogleEnabled = true;
+                var googlePersonalizedAdsPurposeIds = [3,4];
+                var isGooglePersonalizedAdsEnabled = true;
+                /*
+                * Check for debug mode for url param debug_gdpr
+                */
+                this.debug = (function() {
+                  var sParam = 'debug_gdpr';
+                  var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+                    sURLVariables = sPageURL.split('&'),sParameterName,i;
+                  for (i = 0; i < sURLVariables.length; i++) {
+                    sParameterName = sURLVariables[i].split('=');
+                    if (sParameterName[0] === sParam) {
+                      return sParameterName[1] === undefined ? true : sParameterName[1];
+                    }
+                  }
+                  return false;
+                })();
+                 if (typeof tg_page_id == "undefined") var tg_page_id = "";
+                 if (typeof tg_page == "undefined") var tg_page = "";
+                 if (typeof tg_forumname == "undefined") var tg_forumname = "";
+                 if (typeof adSes == "undefined") var adSes = getURLParamValue("ses");
+                GPT(function () {
+			this.unitName = "/3618/atgnb/forums";
+			var pubads = this.googletag.pubads();
+			pubads.setTargeting("tg_page_id", tg_page_id);
+                          pubads.setTargeting("fid", tg_page_id);
+			pubads.setTargeting("tg_page", tg_page);
+			pubads.setTargeting("tg_forumname", tg_forumname);
+                        pubads.setTargeting("ses", adSes); 
+			pubads.setTargeting("section", "forums"); 
+			pubads.setTargeting("site", "notebookreview");
+			//START CMP
+		    //Check CMP with vendor ID mapped to external ID in ttCmpApi.js	
+		    var cmp = "1";
+			window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+         if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+             if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                 var gdprApplies = tcData.gdprApplies;
+                 if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                     window.__tcfapi('removeEventListener', 2, function (success) {
+                         if (success) {
+                             window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                 if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                     window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                         if (success) {
+                                             if (Object.keys(tcData.purpose.consents).length === 0 && tcData.purpose.consents.constructor === Object) {
+                                                 isGoogleEnabled = false;
+                                             } else {
+                                                 for (var purposeid in googleIabPuropseList) {
+                                                     if (tcData.purpose.consents[googleIabPuropseList[purposeid]] === null || tcData.purpose.consents[googleIabPuropseList[purposeid]] === undefined || tcData.purpose.consents[googleIabPuropseList[purposeid]] === false) {
+                                                         isGoogleEnabled = false;
+                                                     }
+                                                 }
+                                                 for (var purposeid in googleAdsLegitimateInterestsPurposeIds) {
+                                                     if (tcData.purpose.legitimateInterests[googleAdsLegitimateInterestsPurposeIds[purposeid]] === null || tcData.purpose.legitimateInterests[googleAdsLegitimateInterestsPurposeIds[purposeid]] === undefined || tcData.purpose.legitimateInterests[googleAdsLegitimateInterestsPurposeIds[purposeid]] === false) {
+                                                         isGoogleEnabled = false;
+                                                     }
+                                                 }
+                                                  //checking if we can serve personalized ads
+                                                for (var purposeid in googlePersonalizedAdsPurposeIds) {
+                                                  if (tcData.purpose.consents[googlePersonalizedAdsPurposeIds[purposeid]] === null || tcData.purpose.consents[googlePersonalizedAdsPurposeIds[purposeid]] === undefined || tcData.purpose.consents[googlePersonalizedAdsPurposeIds[purposeid]] === false){
+                                                    isGooglePersonalizedAdsEnabled = false;
+                                                  }
+                                                }
+                                             }
+
+                                             if (isGoogleEnabled) {
+                                               if (isGooglePersonalizedAdsEnabled) {
+                                                 console.log("CMP personalized ads can be served");
+                                                 pubads.setTargeting("cmp",cmp);
+                                                 pubads.setRequestNonPersonalizedAds(0);
+                                               } else {
+                                                console.log("CMP - no personalized ads can be served");
+                                                pubads.setRequestNonPersonalizedAds(1);
+                                                cmp = "0";
+                                                pubads.setTargeting("cmp",cmp);
+                                              }
+                                             }
+                                           }
+                                     });
+                                     window.__tcfapi('removeEventListener', 2, function (success) {
+                                         if (success) {
+                                         }
+                                     }, tcData.listenerId);
+                                 }
+                             });
+                         }
+                     }, tcData.listenerId);
+
+     } else {
+         window.__tcfapi('removeEventListener', 2, function (success) {
+             if (success) {
+               if (gdprApplies && (cmpApi.getConsentforVendorV2(googlePersonalizedAdsPurposeIds))) {
+                 console.log("CMP personalized ads can be served");
+                  pubads.setTargeting("cmp",cmp);
+                  pubads.setRequestNonPersonalizedAds(0);
+               } else if (!gdprApplies) {
+                 console.log("CMP personalized ads can be served because GDPR does not apply");
+                 pubads.setTargeting("cmp",cmp);
+                 pubads.setRequestNonPersonalizedAds(0);
+               } else {
+                console.log("CMP - no personalized ads can be served");
+                cmp = "0";
+                pubads.setTargeting("cmp",cmp);
+                pubads.setRequestNonPersonalizedAds(1);
+               }
+             }
+         }, tcData.listenerId);
+     }
+     }
+     }
+     });
+		});
+		
+function refreshAd() {
+        googletag.pubads().refresh();
+         return false;
+}	
+
+
+$(document).ready(function() {
+//simple refresh for ads
+// Handler for refresh when ready
+//setInterval( 'refreshAd()', 180000 );
+});		
+		
+
+</script>
+<!---ChartBeat -->
+<script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+<!---ChartBeat -->
+<script type="text/javascript">
+//DPM DATAPOINT
+
+                var dpmSpVendorInternalId = '5f19fbbb772c4f2f5f99fcc0';
+                var spPuropseId = ['5ebec2c47b021339dc19dc02', '5ebec2c47b021339dc19dc04','5ebec2c47b021339dc19dc07','5ebec2c47b021339dc19dc09','5ebec2c47b021339dc19dc11'];
+
+                if(this.debug) console.log("Inside dpm execution");
+                window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                    if ((typeof (tcData) !== 'undefined') && (tcData !== null)) {
+                        if(this.debug) console.log("DPM ADDING EVENT LISTENER");
+                        if(this.debug) console.log("DPM LISTENDER ID " + tcData.listenerId);
+                        if (listenerSuccess && tcData.eventStatus === 'cmpuishown') {
+                            if(this.debug) console.log("DPM CMPUISSHOWN");
+                        }
+                        if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                            var gdprApplies = tcData.gdprApplies;
+                            if(this.debug) console.log("DPM tcloaded eventstatus");
+                            if(this.debug) console.log("DPM logging out gdprapplies " + gdprApplies);
+                            if (gdprApplies && !(cmpApi.getCustomVendorGrantConsent(dpmSpVendorInternalId))) {
+                                if(this.debug) console.log("DPM GDPR IS APPLICABLE AND CONTEXT DOES NOT HAVE CONSENT");
+                                //remove the listener ourself to not get called more than once
+                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                    if(this.debug) console.log('DPM Inside remove event listener ' + success);
+                                    if (success) {
+                                        if(this.debug) console.log('removed: listener for DPM LOADING ' + tcData.listenerId);
+                                        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                            if(this.debug) console.log("DPM AddEventUserAction " + tcData);
+                                            if(this.debug) console.log('DPM Event listener has been registered due to no consent being set');
+                                            if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                                if(this.debug) console.log("DPM useractioniscomplete");
+
+                                                window.__tcfapi('getCustomVendorConsents', 2, function (customVendorConsentData, nonIabSuccess) {
+                                                    if(this.debug) console.log("DPM getting custom vendor consent by command ");
+
+                                                    if (customVendorConsentData != null) {
+                                                        console.log('DPM COMMAND customvendorconsent grant = ' + customVendorConsentData.grants);
+                                                        for (var key in customVendorConsentData.grants) {
+                                                            var obj = customVendorConsentData.grants[key];
+                                                            if (key === dpmSpVendorInternalId) {
+                                                                console.log("DPM returning vendor grant for " + dpmSpVendorInternalId + " = " + obj.vendorGrant);
+                                                                if (obj.vendorGrant) {
+                                                                  (function() {
+                                                                  var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script');
+                                                                  s.type='text/javascript';
+                                                                  s.async=true;
+                                                                  s.src='../../../s.dpmsrv.com/dpm_b7eb6c689c037217079766fdb77c3bac3e51cb4c.min.js';
+                                                                  h.appendChild(s);
+                                                                  })();
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                });
+
+                                                window.__tcfapi('removeEventListener', 2, function (success) {
+                                                    if (success) {
+                                                        //listener Removed
+                                                        if(this.debug) console.log('removed: ' + tcData.listenerId);
+                                                    }
+                                                }, tcData.listenerId);
+
+                                            }
+                                        });
+                                    }
+                                }, tcData.listenerId);
+                            } else {
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                  if (success) {
+                                    console.log("Executing DPM because Either gdpr does not apply or user has given consent");
+                                    (function() {
+                                    var d=document,h=d.getElementsByTagName('head')[0],s=d.createElement('script');
+                                    s.type='text/javascript';
+                                    s.async=true;
+                                    s.src='../../../s.dpmsrv.com/dpm_b7eb6c689c037217079766fdb77c3bac3e51cb4c.min.js';
+                                    h.appendChild(s);
+                                  })();
+                                  }
+                              }, tcData.listenerId);
+                            }
+                        }
+                    }
+                });
+                
+</script>
+<!--Begin Google analytics -->
+<script>
+            var googleAnalyticsPurposes = [1,8];
+            var vendorName = "GoogleAnalytics";
+            var isGaEnabled = true;
+            window['gtag_enable_tcf_support'] = true
+            window.dataLayer = window.dataLayer || [];
+            dataLayer = window.dataLayer;
+
+            if(this.debug) console.log("Inside Google Analytics execution");
+            window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                    if(this.debug) console.log("GA ADDING EVENT LISTENER");
+                    if(this.debug) console.log("GA LISTENDER ID " + tcData.listenerId);
+                    if (listenerSuccess && tcData.eventStatus === 'cmpuishown') {
+                        if(this.debug) console.log("GA CMPUISSHOWN");
+                    }
+                    if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                        var gdprApplies = tcData.gdprApplies;
+                        if(this.debug) console.log("tcloaded eventstatus");
+                        if(this.debug) console.log("logging out gdprapplies " + gdprApplies);
+                        if (gdprApplies && !(cmpApi.getConsentforVendorV2(googleAnalyticsPurposes))) {
+                            if(this.debug) console.log("GDPR IS APPLICABLE AND CONTEXT DOES NOT HAVE CONSENT");
+                            //remove the listener ourself to not get called more than once
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                if(this.debug) console.log('Inside remove event listener ' + success);
+                                if (success) {
+                                    if(this.debug) console.log('removed: listener for GA LOADING ' + tcData.listenerId);
+                                    window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                        if(this.debug) console.log("AddEventUserAction " + tcData);
+                                        if(this.debug) console.log('Event listener for Google Analytics has been registered due to no consent being set');
+                                        if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                            if(this.debug) console.log("useractioniscomplete inside GA");
+
+                                            window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                                if(this.debug) console.log("Event GAD useractioncomplete is running, getting vendor consent");
+                                                if (success) {
+                                                    if (Object.keys(tcData.purpose.consents).length === 0 && tcData.purpose.consents.constructor === Object) {
+                                                        if(this.debug) console.log("GA does not have consent due to No consents ");
+                                                        isGaEnabled = false;
+                                                    } else {
+                                                        for (var purposeid in googleAnalyticsPurposes) {
+                                                            if (tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === null || tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === undefined || tcData.purpose.consents[googleAnalyticsPurposes[purposeid]] === false){
+                                                                isGaEnabled = false;
+                                                            }
+                                                        }
+                                                    }
+
+                                                    if(this.debug) console.log("isGAEnabled = " + isGaEnabled);
+                                                    if (isGaEnabled){
+                                                        var eventAction = 'GaEnabled';
+                                                        var eventCategory = 'GA';
+                                                        var eventLabel = 'GaEnabled';
+                                                        if (typeof window.dataLayer !== 'undefined') {
+                                                            args=[eventCategory,eventAction,eventLabel];
+                                                            dataLayer.push({eventCategory:args[0],eventAction:args[1], eventLabel:args[2]});
+                                                            dataLayer.push({'event': 'GaEnabled'});
+                                                        }
+                                                    }
+
+                                                }
+                                            });
+
+                                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                                if (success) {
+                                                    //listener Removed
+                                                    if(this.debug) console.log('removed: ' + tcData.listenerId);
+                                                }
+                                            }, tcData.listenerId);
+
+                                        }
+                                    });
+                                }
+                            }, tcData.listenerId);
+                        } else {
+                            window.__tcfapi('removeEventListener', 2, function (success) {
+                                if(this.debug) console.log("CONTEXT HAS CONSENT OR GDPR IS NOT APPLICABLE");
+                                if (success) {
+                                    var eventAction = 'GaEnabled';
+                                    var eventCategory = 'GA';
+                                    var eventLabel = 'GaEnabled';
+                                    if (typeof window.dataLayer !== 'undefined') {
+                                        args=[eventCategory,eventAction,eventLabel];
+                                        dataLayer.push({eventCategory:args[0],eventAction:args[1], eventLabel:args[2]});
+                                        dataLayer.push({'event': 'GaEnabled'});
+                                    }
+                                }
+                            }, tcData.listenerId);
+                        }
+
+                    }
+                }
+            });
+</script>
+<!--End Google analytics -->
+<!--Cookie preferences footer link -->
+<script>
+    window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+        if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+            if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                window.__tcfapi('removeEventListener', 2, function (success) {
+                    if (success) {
+			window.__tcfapi('ping', 2, function (pingReturn) {
+				if (!(pingReturn.gdprApplies)) {
+					$('#cPref').hide();
+				} else {
+					$('#cPref').attr("href", document.URL + '#');
+				}
+                        });
+                    }
+                }, tcData.listenerId);
+            }
+        }
+    });
+</script>
+<!--End Cookie preferences footer link -->
+  
+	<script>
+
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','../../../www.google-analytics.com/analytics.js','ga');
+	
+	ga('create', 'UA-4207262-4', 'auto');
+	ga('send', 'pageview');
+
+</script>
+	
+	<link rel="alternate" type="application/rss+xml" title="RSS feed for NotebookReview" href="http://forum.notebookreview.com/forums/-/index.rss" />
+	
+	<link rel="prev" href="page-3.html" /><link rel="next" href="page-5.html" />
+	<link rel="canonical" href="page-4.html" />
+	<meta name="description" content="And, in Windows 10 it sounds like every Update resets settings and you need to recheck *all* of them, everywhere.
+
+I seriously doubt MSFT would do..." />	<meta property="og:site_name" content="NotebookReview" />
+	<meta property="og:image" content="http://forum.notebookreview.com/data/avatars/m/685/685157.jpg?1538733066" />
+	<meta property="og:image" content="https://cdn.ttgtmedia.com/techguide/forum/nbr/nbr_fb_logo.png" />
+	<meta property="og:type" content="article" />
+	<meta property="og:url" content="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/" />
+	<meta property="og:title" content="[Guide] Improving Battery Life on Windows [+Enabling Deeper C States]" />
+	<meta property="og:description" content="And, in Windows 10 it sounds like every Update resets settings and you need to recheck *all* of them, everywhere.
+
+I seriously doubt MSFT would do..." />
+	
+	
+	
+
+        <!-- App Indexing for Google Search -->
+        <link href="http://forum.notebookreview.com/android-app://com.quoord.tapatalkpro.activity/tapatalk/forum.notebookreview.com?user_id=685420&amp;location=topic&amp;tid=815602&amp;page=4&amp;perpage=10&amp;channel=google-indexing" rel="alternate" />
+        <link href="http://forum.notebookreview.com/ios-app://307880732/tapatalk/forum.notebookreview.com?user_id=685420&amp;location=topic&amp;tid=815602&amp;page=4&amp;perpage=10&amp;channel=google-indexing" rel="alternate" />
+        <!-- Tapatalk Detect style start -->
+<style type="text/css">
+.ui-mobile [data-role="page"], .ui-mobile [data-role="dialog"], .ui-page
+{
+top:auto;
+}
+</style>
+<!-- Tapatalk Detect banner style end -->
+                
+</head>
+
+<body class="node15 node1008 SelectQuotable">
+
+
+
+
+<div id="headerMover">
+	<div id="headerProxy"></div>
+
+<div id="content" class="thread_view">
+	<div class="pageWidth">
+		<div class="pageContent">
+		        
+
+<div class="ttad-container">
+<div id="div-gpt970x250X728x90"> 
+<script type="text/javascript">
+		GPT(function () {
+		//var adstring = [[970,250], [728,90]];
+		var adstring = [[728,90], [970,250]];
+		var viewport = adRange();
+		var slot = "noad";
+		
+			if (viewport == 1) {
+				adstring = [300,50];				
+			} else if (viewport == 2) {
+				adstring = [728,90];
+			} else if (viewport == 3) {
+				adstring = [728,90];
+			} 	var slot = this.googletag.defineSlot(this.unitName, adstring, "div-gpt970x250X728x90");
+				slot.setTargeting("pos", "top");
+			
+	if (slot != "noad") {
+	
+			window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+               if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                   if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                       var gdprApplies = tcData.gdprApplies;
+                       console.log("GDPRAPPLIES : "+ gdprApplies);
+                       if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                           window.__tcfapi('removeEventListener', 2, function (success) {
+                               if (success) {
+                                   window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                       if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                           window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                               if (success) {
+                                                 console.log("isGoogleEnabled= " + isGoogleEnabled);
+                                                   if (isGoogleEnabled) {
+                                                     console.log("Making the call after consent div - ADD DIV ID HERE ");
+                                                     slot.display();
+                                                   }
+                                                 }
+                                           });
+                                           window.__tcfapi('removeEventListener', 2, function (success) {
+                                               if (success) {
+                                               }
+                                           }, tcData.listenerId);
+                                       }
+                                   });
+                               }
+                           }, tcData.listenerId);
+    
+           } else {
+               window.__tcfapi('removeEventListener', 2, function (success) {
+                   if (success) {
+                     console.log("Making the call without asking for consent");
+                     console.log("Gdprapplies: " + gdprApplies);
+                     console.log("CMP - serving ads");
+                     slot.display();
+                   }
+               }, tcData.listenerId);
+           }
+           }
+           }
+           });
+		}
+		
+		});
+	</script>
+	
+</div>
+</div>
+<div id="div-atg-oop">
+<script type="text/javascript">
+		GPT(function () {
+                                 if(window.location.search.indexOf("int=off") == "-1") 
+             			{
+				var slot = this.googletag.defineOutOfPageSlot(this.unitName, "div-atg-oop");
+				slot.setTargeting("pos", "top");
+				window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                   if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                       if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                           var gdprApplies = tcData.gdprApplies;
+                           console.log("GDPRAPPLIES : "+ gdprApplies);
+                           if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                               window.__tcfapi('removeEventListener', 2, function (success) {
+                                   if (success) {
+                                       window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                           if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                               window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                                   if (success) {
+                                                     console.log("isGoogleEnabled= " + isGoogleEnabled);
+                                                       if (isGoogleEnabled) {
+                                                         console.log("Making the call after consent div - ADD DIV ID HERE ");
+                                                         slot.display();
+                                                       }
+                                                     }
+                                               });
+                                               window.__tcfapi('removeEventListener', 2, function (success) {
+                                                   if (success) {
+                                                   }
+                                               }, tcData.listenerId);
+                                           }
+                                       });
+                                   }
+                               }, tcData.listenerId);
+        
+               } else {
+                   window.__tcfapi('removeEventListener', 2, function (success) {
+                       if (success) {
+                         console.log("Making the call without asking for consent");
+                         console.log("Gdprapplies: " + gdprApplies);
+                         console.log("CMP - serving ads");
+                         slot.display();
+                       }
+                   }, tcData.listenerId);
+               }
+               }
+               }
+               });
+                               }
+			});
+		</script>
+
+
+</div>
+
+ 
+			<!-- main content area -->
+			
+			
+			
+			
+				<div class="mainContainer">
+					<div class="mainContent">
+						
+						<!-- ad above top breadcrumb -->
+						
+						
+						<div class="breadBoxTop ">
+							
+							
+
+<nav>
+	
+		
+			
+				
+			
+		
+			
+				
+			
+		
+	
+
+	<fieldset class="breadcrumb">
+		<a href="http://forum.notebookreview.com/misc/quick-navigation-menu?selected=node-15" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>NotebookReview</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://notebookreview.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+					<a href="http://forum.notebookreview.com/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://forum.notebookreview.com/#hardware-software-and-accessories.1008" class="crumb" rel="up" itemprop="url"><span itemprop="title">Hardware, Software and  Accessories</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+						<a href="http://forum.notebookreview.com/forums/windows-os-and-software.15/" class="crumb" rel="up" itemprop="url"><span itemprop="title">Windows OS and Software</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav>
+						</div>
+						
+						
+						
+
+
+
+
+
+
+					
+						<!--[if lt IE 8]>
+							<p class="importantMessage">You are using an out of date browser. It  may not display this or other websites correctly.<br />You should upgrade or use an <a href="https://www.google.com/chrome/browser/" target="_blank">alternative browser</a>.</p>
+						<![endif]-->
+
+						
+						
+
+						
+						
+						
+						
+												
+							<!-- h1 title, description -->
+							<div class="titleBar">
+								
+								<h1>[Guide] Improving Battery Life on Windows [+Enabling Deeper C States]</h1>
+								
+								<p id="pageDescription" class="muted ">
+	Discussion in '<a href="http://forum.notebookreview.com/forums/windows-os-and-software.15/">Windows OS and Software</a>' started by <a href="http://forum.notebookreview.com/members/che0063.685157/" class="username" dir="auto">Che0063</a>, <a href="index.html"><span class="DateTime" title="Apr 14, 2018 at 11:05 AM">Apr 14, 2018</span></a>.
+</p>
+							</div>
+						
+						
+						
+						
+						
+						<!-- main template -->
+						
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div class="tagBlock TagContainer">
+	Tags:
+	
+		<ul class="tagList">
+		
+			<li><a href="http://forum.notebookreview.com/tags/battery/" class="tag"><span class="arrow"></span>battery</a></li>
+		
+			<li><a href="http://forum.notebookreview.com/tags/battery-life/" class="tag"><span class="arrow"></span>battery life</a></li>
+		
+			<li><a href="http://forum.notebookreview.com/tags/c-states/" class="tag"><span class="arrow"></span>c states</a></li>
+		
+			<li><a href="http://forum.notebookreview.com/tags/power-options/" class="tag"><span class="arrow"></span>power options</a></li>
+		
+			<li><a href="http://forum.notebookreview.com/tags/windows/" class="tag"><span class="arrow"></span>windows</a></li>
+		
+		</ul>
+	
+	
+</div>
+
+
+
+
+
+	
+
+
+<div class="NoAutoHeader PollContainer">
+	<form action="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/poll/vote" method="post"
+	class="sectionMain pollBlock AutoValidator PollVoteForm" data-max-votes="1">
+	
+		<div class="secondaryContent">	
+			<div class="pollContent">
+				<div class="questionMark">?</div>
+			
+				<div class="question">
+					<h2 class="questionText">What was your increase in battery life after following this guide?</h2>
+					
+					
+					
+				</div>
+					
+				
+			
+				
+		
+<div>		
+	<ol class="pollOptions">
+		
+			<li class="pollOption"><label>
+				<input type="radio" name="response" value="26914" />
+				None (decreased)</label></li>				
+		
+			<li class="pollOption"><label>
+				<input type="radio" name="response" value="26915" />
+				20%</label></li>				
+		
+			<li class="pollOption"><label>
+				<input type="radio" name="response" value="26916" />
+				40%</label></li>				
+		
+			<li class="pollOption"><label>
+				<input type="radio" name="response" value="26917" />
+				50% +</label></li>				
+		
+	</ol>
+	
+	<div class="buttons">
+		
+			<div class="pollNotes">
+			
+				
+				
+					<span class="publicWarning muted">Your vote will be publicly visible.</span>
+				
+				
+			
+			</div>
+		
+			
+		<input type="submit" class="button primary" value="Cast Your Vote" accesskey="s" />
+		
+			<input type="button" value="View Results" class="button OverlayTrigger JsOnly" data-href="threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/poll/results" />
+			<noscript><a href="poll/results.html" class="button">View Results</a></noscript>
+		
+	</div>
+</div>
+			
+		
+			</div>
+		</div>
+	
+		<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+	</form>
+</div>
+
+
+
+
+
+
+	
+
+
+
+
+<div class="pageNavLinkGroup">
+	<div class="linkGroup SelectionCountContainer">
+		
+		
+
+
+			<a href="watch-confirm.html" class="OverlayTrigger" data-cacheOverlay="false">Watch Thread</a>
+		
+	</div>
+
+	
+
+
+<div class="PageNav"
+	data-page="4"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="40"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 4 of 40</span>
+	
+	<nav>
+		
+			<a href="page-3.html" class="text">&lt; Prev</a>
+			
+		
+		
+		<a href="index.html" class="" rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="page-2.html" class="">2</a>
+		
+			<a href="page-3.html" class="">3</a>
+		
+			<a href="page-4.html" class="currentPage ">4</a>
+		
+			<a href="page-5.html" class="">5</a>
+		
+			<a href="page-6.html" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="page-40.html" class="">40</a>
+		
+		
+			<a href="page-5.html" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+		<a href="page-40%23post-11138690.html" class="text distinct unreadLink">Go to First Unread</a>
+	
+</div>
+
+</div>
+
+
+
+
+
+
+
+<form action="http://forum.notebookreview.com/inline-mod/post/switch" method="post"
+	class="InlineModForm section"
+	data-cookieName="posts"
+	data-controls="#InlineModControls"
+	data-imodOptions="#ModerationSelect option">
+
+	<ol class="messageList" id="messageList">
+		
+			
+				
+
+
+
+<div id="post10768212"></div>
+
+<li id="post-10768212" class="message   " data-author="Vasudev">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/vasudev.677607/" class="avatar Av677607m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="Vasudev" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/vasudev.677607/" class="username" dir="auto" itemprop="name">Vasudev</a>
+			<em class="userTitle" itemprop="title">Notebook Nobel Laureate</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10768212/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">12,025</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=677607" class="concealed" rel="nofollow">11,276</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>8,813</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/vasudev.677607/trophies" class="OverlayTrigger concealed">931</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="hmscott">
+	<aside>
+		
+			<div class="attribution type">hmscott said:
+				
+					<a href="page-3%23post-10768084.html?id=10768084#post-10768084" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">And, in Windows 10 it sounds like every Update resets settings and you need to recheck *all* of them, everywhere.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>I seriously doubt MSFT would do that. I haven&#039;t seen that ever. But W10 resets everything when it upgrades to new OS.<br />
+Then again thanks for the heads up!
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside><b><a href="http://www.3dmark.com/fs/12119848" target="_blank" class="externalLink" rel="nofollow">3DMark Firestrike</a><br />
+<a href="http://www.3dmark.com/sd/4449360" target="_blank" class="externalLink" rel="nofollow">3DMark Sky diver</a><br />
+<a href="http://www.3dmark.com/3dm11/12075328" target="_blank" class="externalLink" rel="nofollow">3DM 11 Performance</a></b><br />
+<a href="http://hwbot.org/team/premamod/" target="_blank" class="externalLink" rel="nofollow"><b><span style="color: #ff0000">Team PremaMod</span></b></a><br />
+
+
+
+<div class="ToggleTriggerAnchor bbCodeSpoilerContainer">
+	<button type="button" class="button bbCodeSpoilerButton ToggleTrigger Tooltip JsOnly"
+		title="Click to reveal or hide spoiler"
+		data-target="> .SpoilerTarget"><span>Spoiler: <span class="SpoilerTitle">System Specs and Benchmarks</span></span></button>
+	<div class="SpoilerTarget bbCodeSpoilerText"><span style="font-size: 18px"><span style="color: #ff0000"><b>Dell AW 15 R2: </b></span></span><br />
+i7 6700HQ | 16GB DDR4 2133MHz SK Hynix (Stock) | NV GTX 980M (Prema vBIOS) w/ Intel HD 530 | 1TB HGST 7.2k rpm | 1TB Crucial P1 | 256GB Samsung 850 EVO M.2 SATA<br />
+<b>3DM Cloud Gate<br />
+<a href="http://www.3dmark.com/spy/1445146" target="_blank" class="externalLink" rel="nofollow">3DM Time Spy</a><br />
+<a href="http://www.3dmark.com/is/4114648" target="_blank" class="externalLink" rel="nofollow">3DM Ice Storm Unlimited</a><br />
+<a href="http://www.3dmark.com/is/4030424" target="_blank" class="externalLink" rel="nofollow">3DM Ice Storm</a></b></div>
+</div></aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/vasudev.677607/" class="username author" dir="auto">Vasudev</a>,</span>
+					<a href="page-4.html#post-10768212" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 22, 2018 at 8:44 PM">Jul 22, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10768212/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768212/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10768212" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10768212/permalink">#31</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768212/like" class="LikeLink item control like" data-container="#likes-post-10768212"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768212"
+						data-messageid="10768212"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768212"
+						data-postUrl="posts/10768212/quote"
+						data-tip="#MQ-10768212"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10768212">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="http://forum.notebookreview.com/members/hmscott.130744/" class="username" dir="auto">hmscott</a> likes this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10768306"></div>
+
+<li id="post-10768306" class="message   " data-author="hmscott">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/hmscott.130744/" class="avatar Av130744m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_m.png" width="96" height="96" alt="hmscott" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/hmscott.130744/" class="username" dir="auto" itemprop="name">hmscott</a>
+			<em class="userTitle" itemprop="title">Notebook Nobel Laureate</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10768306/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">7,110</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=130744" class="concealed" rel="nofollow">20,384</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>25,139</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/hmscott.130744/trophies" class="OverlayTrigger concealed">931</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Vasudev">
+	<aside>
+		
+			<div class="attribution type">Vasudev said:
+				
+					<a href="page-4%23post-10768212.html?id=10768212#post-10768212" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">I seriously doubt MSFT would do that. I haven&#039;t seen that ever. But W10 resets everything when it upgrades to new OS.<br />
+Then again thanks for the heads up!</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>It&#039;s not a new OS, it&#039;s a new Update... Point Release at best, it&#039;s also like when installing new drivers you need to check settings.<br />
+<br />
+Every update has some new driver or update that reset&#039;s settings.<br />
+<br />
+If you don&#039;t know what&#039;s changed specifically enough to check just those settings it&#039;s best to double check everything.  Especially if you notice performance drops or battery run-time decreases.  <img src="../../styles/default/xenforo/clear.png" class="mceSmilieSprite mceSmilie1" alt=":)" title="Smile    :)" />
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+			<div class="editDate">
+			
+				Last edited: <span class="DateTime" title="Jul 23, 2018 at 12:52 PM">Jul 23, 2018</span>
+			
+			</div>
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/hmscott.130744/" class="username author" dir="auto">hmscott</a>,</span>
+					<a href="page-4.html#post-10768306" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 22, 2018 at 11:05 PM">Jul 22, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10768306/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768306/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10768306" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10768306/permalink">#32</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768306/like" class="LikeLink item control like" data-container="#likes-post-10768306"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768306"
+						data-messageid="10768306"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768306"
+						data-postUrl="posts/10768306/quote"
+						data-tip="#MQ-10768306"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10768306">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="http://forum.notebookreview.com/members/vasudev.677607/" class="username" dir="auto">Vasudev</a> and <a href="http://forum.notebookreview.com/members/maleko48.292583/" class="username" dir="auto">Maleko48</a> like this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10768637"></div>
+
+<li id="post-10768637" class="message   " data-author="Mr.K-1994">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="avatar Av707555m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="Mr.K-1994" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username" dir="auto" itemprop="name">Mr.K-1994</a>
+			<em class="userTitle" itemprop="title">Notebook Consultant</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10768637/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">14</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=707555" class="concealed" rel="nofollow">220</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>90</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/trophies" class="OverlayTrigger concealed">41</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Wow..just came across this and I am impressed with how much tweaking can be done.<br />
+I have a question:<br />
+How does he know how much watts each app is using?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username author" dir="auto">Mr.K-1994</a>,</span>
+					<a href="page-4.html#post-10768637" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 23, 2018 at 2:54 PM">Jul 23, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10768637/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768637/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10768637" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10768637/permalink">#33</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10768637/like" class="LikeLink item control like" data-container="#likes-post-10768637"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768637"
+						data-messageid="10768637"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10768637"
+						data-postUrl="posts/10768637/quote"
+						data-tip="#MQ-10768637"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10768637"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10769057"></div>
+
+<li id="post-10769057" class="message   " data-author="Che0063">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="avatar Av685157m" data-avatarhtml="true"><img src="../../data/avatars/m/685/685157a7b1.jpg?1538733066" width="96" height="96" alt="Che0063" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="username" dir="auto" itemprop="name">Che0063</a>
+			<em class="userTitle" itemprop="title">Notebook Evangelist</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10769057/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">341</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=685157" class="concealed" rel="nofollow">368</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>478</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/che0063.685157/trophies" class="OverlayTrigger concealed">76</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Mr.K-1994">
+	<aside>
+		
+			<div class="attribution type">Mr.K-1994 said:
+				
+					<a href="page-4%23post-10768637.html?id=10768637#post-10768637" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Wow..just came across this and I am impressed with how much tweaking can be done.<br />
+I have a question:<br />
+How does he know how much watts each app is using?</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>What do you mean? They are just estimates
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside><span style="font-size: 10px"><b>Custom Build | </b>Ryzen 5 5600G | Vega 8 (2.2GHz) | 16GB DDR4-4000 (Dual) | 970 Evo Plus 512GB NVMe <br />
+<b>Lenovo ThinkPad E14 </b>20RA001WAU <b>|</b> i5-10210U (33W TDP)| UHD 620 | 16GB DDR4-2666 (Single) | WDC PC SN520 512GB NVMe | 14.1&quot; 60Hz FHD IPS | 45<b>+15Whr</b> <b>Battery Mod</b>| AX201 |<br />
+<b>Surface Pro 3 </b>| i5-4300U | HD 4400 | 4GB LPDDR3-1600 (dual) | PM851 128GB SATA | 12.3&quot; <b>100Hz </b>2160x1440 IPS | 42Whr | Marvel Avastar<br />
+Battery Life Guide: <a href="index.html" class="internalLink">Click here</a></span></aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/che0063.685157/" class="username author" dir="auto">Che0063</a>,</span>
+					<a href="page-4.html#post-10769057" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 24, 2018 at 1:58 AM">Jul 24, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10769057/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10769057/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10769057" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10769057/permalink">#34</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10769057/like" class="LikeLink item control like" data-container="#likes-post-10769057"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10769057"
+						data-messageid="10769057"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10769057"
+						data-postUrl="posts/10769057/quote"
+						data-tip="#MQ-10769057"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10769057">
+	
+	<div class="likesSummary secondaryContent">
+		<span class="LikeText">
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username" dir="auto">Mr.K-1994</a> likes this.
+		</span>
+	</div>
+</div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10769062"></div>
+
+<li id="post-10769062" class="message   " data-author="Mr.K-1994">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="avatar Av707555m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="Mr.K-1994" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username" dir="auto" itemprop="name">Mr.K-1994</a>
+			<em class="userTitle" itemprop="title">Notebook Consultant</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10769062/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">14</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=707555" class="concealed" rel="nofollow">220</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>90</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/trophies" class="OverlayTrigger concealed">41</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="Che0063">
+	<aside>
+		
+			<div class="attribution type">Che0063 said:
+				
+					<a href="page-4%23post-10769057.html?id=10769057#post-10769057" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">What do you mean? They are just estimates</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>OK.I was just curious where you got the statistics but good guide by the way.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username author" dir="auto">Mr.K-1994</a>,</span>
+					<a href="page-4.html#post-10769062" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 24, 2018 at 2:28 AM">Jul 24, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10769062/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10769062/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10769062" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10769062/permalink">#35</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10769062/like" class="LikeLink item control like" data-container="#likes-post-10769062"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10769062"
+						data-messageid="10769062"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10769062"
+						data-postUrl="posts/10769062/quote"
+						data-tip="#MQ-10769062"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10769062"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10772628"></div>
+
+<li id="post-10772628" class="message   " data-author="guillaumeiii">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="avatar Av574836m" data-avatarhtml="true"><img src="../../data/avatars/m/574/574836ed01.jpg?1419434015" width="96" height="96" alt="guillaumeiii" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="username" dir="auto" itemprop="name">guillaumeiii</a>
+			<em class="userTitle" itemprop="title">Notebook Geek</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10772628/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">6</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=574836" class="concealed" rel="nofollow">75</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>6</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/guillaumeiii.574836/trophies" class="OverlayTrigger concealed">16</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hi all.<br />
+Thanks Che for your guide.<br />
+Followed all the steps, but I think a problem definitely remains ...<br />
+With this post I join a picture of Throttlestop, taskmanager and batterybar pro ...<br />
+<br />
+I have a Razer Blade 14 from 2013. Latest Windows 10, new drivers installed, no bloatware etc... I disabled all useless programs, services etc.<br />
+My processor (i7-4702HQ) can&#039;t seem to go idle, with C0% on one or 2 cores &gt; 5-10% all the time, with minimum 3.5W package power draw.<br />
+And C7 state seems unaccessible - it stays on C2-C3...<br />
+I have the latest Intel ACHI controller compatible with my chip (14.8.0), DevSlp enabled, updated SSD drivers, power saving power plan, undervolted 90mv ...<br />
+<br />
+I only kept a few programs running in the background (BitDefender, Razer Synapse (but disabled the useless game manager etc..)) but disabling them doesn&#039;t seem to help anyhow. Also I have 2 SSDs, with programs loading from either C or D. Can that be the issue ?<br />
+<br />
+Overall that gives my laptop an ~13k to 17k mW discharge rate, which is definitely worse than the ~9mW I used to get. The package power drop to from 4W to &lt;1W should do most of the trick.<br />
+<br />
+Any idea on how to help me get this C7 ? Btw unfortunately I can&#039;t change anything in the BIOS, but C7 should be enabled I think. I remembered seeing it for a few secs while reinstalling the ACHI driver, but that&#039;s it.<br />
+<br />
+Thanks in advance to whoever can help, and wishing everybody a happy sunday.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+
+<div class="attachedFiles">
+	<h4 class="attachedFilesHeader">Attached Files:</h4>
+	<ul class="attachmentList SquareThumbs"
+		data-thumb-height="50"
+		data-thumb-selector="div.thumbnail > a">
+		
+			<li class="attachment image" title="C States.png">
+				<div class="boxModelFixer primaryContent">
+					
+					<div class="thumbnail">
+						
+							<a href="../../attachments/c-states-png.161764/index.html" target="_blank" class="LbTrigger"
+								data-href="misc/lightbox"><img 
+								src="../../data/attachments/134/134237-912bd3f0a1ab97bc76790198cb58769e.jpg" alt="C States.png" class="LbImage" /></a>
+						
+					</div>
+					
+					<div class="attachmentInfo pairsJustified">
+						<h6 class="filename"><a href="../../attachments/c-states-png.161764/index.html" target="_blank">C States.png</a></h6>
+						<dl><dt>File size:</dt> <dd>828.4 KB</dd></dl>
+						<dl><dt>Views:</dt> <dd>527</dd></dl>
+					</div>
+				</div>
+			</li>
+		
+	</ul>
+</div>
+
+
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside>- Razer Blade 14 (2013) - 256 Go (original SSD) + 500 Go (Samsung 840 Evo SSD)</aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="username author" dir="auto">guillaumeiii</a>,</span>
+					<a href="page-4.html#post-10772628" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 29, 2018 at 10:07 PM">Jul 29, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10772628/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772628/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10772628" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10772628/permalink">#36</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772628/like" class="LikeLink item control like" data-container="#likes-post-10772628"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772628"
+						data-messageid="10772628"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772628"
+						data-postUrl="posts/10772628/quote"
+						data-tip="#MQ-10772628"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10772628"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10772735"></div>
+
+<li id="post-10772735" class="message   " data-author="Che0063">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="avatar Av685157m" data-avatarhtml="true"><img src="../../data/avatars/m/685/685157a7b1.jpg?1538733066" width="96" height="96" alt="Che0063" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="username" dir="auto" itemprop="name">Che0063</a>
+			<em class="userTitle" itemprop="title">Notebook Evangelist</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10772735/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">341</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=685157" class="concealed" rel="nofollow">368</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>478</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/che0063.685157/trophies" class="OverlayTrigger concealed">76</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					<div class="bbCodeBlock bbCodeQuote" data-author="guillaumeiii">
+	<aside>
+		
+			<div class="attribution type">guillaumeiii said:
+				
+					<a href="page-4%23post-10772628.html?id=10772628#post-10772628" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Hi all.<br />
+Thanks Che for your guide.<br />
+Followed all the steps, but I think a problem definitely remains ...<br />
+With this post I join a picture of Throttlestop, taskmanager and batterybar pro ...<br />
+<br />
+I have a Razer Blade 14 from 2013. Latest Windows 10, new drivers installed, no bloatware etc... I disabled all useless programs, services etc.<br />
+My processor (i7-4702HQ) can&#039;t seem to go idle, with C0% on one or 2 cores &gt; 5-10% all the time, with minimum 3.5W package power draw.<br />
+And C7 state seems unaccessible - it stays on C2-C3...<br />
+I have the latest Intel ACHI controller compatible with my chip (14.8.0), DevSlp enabled, updated SSD drivers, power saving power plan, undervolted 90mv ...<br />
+<br />
+I only kept a few programs running in the background (BitDefender, Razer Synapse (but disabled the useless game manager etc..)) but disabling them doesn&#039;t seem to help anyhow. Also I have 2 SSDs, with programs loading from either C or D. Can that be the issue ?<br />
+<br />
+Overall that gives my laptop an ~13k to 17k mW discharge rate, which is definitely worse than the ~9mW I used to get. The package power drop to from 4W to &lt;1W should do most of the trick.<br />
+<br />
+Any idea on how to help me get this C7 ? Btw unfortunately I can&#039;t change anything in the BIOS, but C7 should be enabled I think. I remembered seeing it for a few secs while reinstalling the ACHI driver, but that&#039;s it.<br />
+<br />
+Thanks in advance to whoever can help, and wishing everybody a happy sunday.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>You didn&#039;t actually disable all useless services - The Nvidia Control Panel is still running happily. Unless you need it, you should probably disable the Nvidia Display Container in Services.msc<br />
+It appears there&#039;s a Dolby thing in the taskbar... do you need that?<br />
+<br />
+There is a possibility that the second SSD is causing issues - try booting windows with one SSD only. Try updating/downgrading the ACHI driver with the manufacturer provided drivers. Is your dedicated GPU on but not doing anything?<br />
+<br />
+
+
+
+<div class="bbCodeBlock bbCodeQuote" data-author="guillaumeiii">
+	<aside>
+		
+			<div class="attribution type">guillaumeiii said:
+				
+					<a href="page-4%23post-10772628.html?id=10772628#post-10772628" class="AttributionLink">&uarr;</a>
+				
+			</div>
+		
+		<blockquote class="quoteContainer"><div class="quote">Any idea on how to help me get this C7 ? Btw unfortunately I can&#039;t change anything in the BIOS, but C7 should be enabled I think. I remembered seeing it for a few secs while reinstalling the ACHI driver, but that&#039;s it.</div><div class="quoteExpand">Click to expand...</div></blockquote>
+	</aside>
+</div>???<br />
+<br />
+If you saw it for a few seconds, why don&#039;t you try uninstalling the ACHI driver?
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside><span style="font-size: 10px"><b>Custom Build | </b>Ryzen 5 5600G | Vega 8 (2.2GHz) | 16GB DDR4-4000 (Dual) | 970 Evo Plus 512GB NVMe <br />
+<b>Lenovo ThinkPad E14 </b>20RA001WAU <b>|</b> i5-10210U (33W TDP)| UHD 620 | 16GB DDR4-2666 (Single) | WDC PC SN520 512GB NVMe | 14.1&quot; 60Hz FHD IPS | 45<b>+15Whr</b> <b>Battery Mod</b>| AX201 |<br />
+<b>Surface Pro 3 </b>| i5-4300U | HD 4400 | 4GB LPDDR3-1600 (dual) | PM851 128GB SATA | 12.3&quot; <b>100Hz </b>2160x1440 IPS | 42Whr | Marvel Avastar<br />
+Battery Life Guide: <a href="index.html" class="internalLink">Click here</a></span></aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/che0063.685157/" class="username author" dir="auto">Che0063</a>,</span>
+					<a href="page-4.html#post-10772735" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 30, 2018 at 1:18 AM">Jul 30, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10772735/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772735/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10772735" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10772735/permalink">#37</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772735/like" class="LikeLink item control like" data-container="#likes-post-10772735"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772735"
+						data-messageid="10772735"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772735"
+						data-postUrl="posts/10772735/quote"
+						data-tip="#MQ-10772735"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10772735"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10772782"></div>
+
+<li id="post-10772782" class="message   " data-author="guillaumeiii">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="avatar Av574836m" data-avatarhtml="true"><img src="../../data/avatars/m/574/574836ed01.jpg?1419434015" width="96" height="96" alt="guillaumeiii" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="username" dir="auto" itemprop="name">guillaumeiii</a>
+			<em class="userTitle" itemprop="title">Notebook Geek</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10772782/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">6</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=574836" class="concealed" rel="nofollow">75</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>6</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/guillaumeiii.574836/trophies" class="OverlayTrigger concealed">16</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hi. Thanks a lot for your quick answer.<br />
+<br />
+Not sure if I saw C7 during ACHI or Intel Chipset drivers installation. Anyhow, I reinstalled both of them - with generic then latest driver - and didn&#039;t get the chance to see C7 that time ...<br />
+I disabled Nvidia Container (which I left on purpose, it&#039;s just the services that allows display of the Nvidia notification icon but anyway let&#039;s try), and I disabled Dolby as well (which is quite handy actually to watch movies for a better sound (basses, voices...)).<br />
+<br />
+I tried disabling Intel integrated graphics (HD 4600), but it actually made it worse and the CPU was stuck on C2 (no more C3).<br />
+My dedicated GPU (Geforce 765M) is enabled in device manager, but off thanks to Nvidia Optimus. I tried disabling it once but it makes consumption worse, as you rightfully wrote in your &quot;do not&quot; section.<br />
+<br />
+I&#039;ll try removing my second SSD tomorrow, but not sure that will be the issue actually, as I remember those -9000 mV  while having both the drives.<br />
+Here are a few more screenshots of my computer at idle with barely nothing in the background, save Bitdefender/Opera (writing this message) and processes with 0% CPU usage.<br />
+<br />
+Maybe my CPU can&#039;t access C7 but it&#039;s Haswell so it should.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+
+<div class="attachedFiles">
+	<h4 class="attachedFilesHeader">Attached Files:</h4>
+	<ul class="attachmentList SquareThumbs"
+		data-thumb-height="50"
+		data-thumb-selector="div.thumbnail > a">
+		
+			<li class="attachment image" title="C States 2.png">
+				<div class="boxModelFixer primaryContent">
+					
+					<div class="thumbnail">
+						
+							<a href="../../attachments/c-states-2-png.161777/index.html" target="_blank" class="LbTrigger"
+								data-href="misc/lightbox"><img 
+								src="../../data/attachments/134/134250-e0ff4a94e2d3de3314ff36d3c48f29a7.jpg" alt="C States 2.png" class="LbImage" /></a>
+						
+					</div>
+					
+					<div class="attachmentInfo pairsJustified">
+						<h6 class="filename"><a href="../../attachments/c-states-2-png.161777/index.html" target="_blank">C States 2.png</a></h6>
+						<dl><dt>File size:</dt> <dd>957 KB</dd></dl>
+						<dl><dt>Views:</dt> <dd>491</dd></dl>
+					</div>
+				</div>
+			</li>
+		
+			<li class="attachment image" title="C States 3.png">
+				<div class="boxModelFixer primaryContent">
+					
+					<div class="thumbnail">
+						
+							<a href="../../attachments/c-states-3-png.161778/index.html" target="_blank" class="LbTrigger"
+								data-href="misc/lightbox"><img 
+								src="../../data/attachments/134/134251-54d9d081d82dbd238c8e7cd458987d6f.jpg" alt="C States 3.png" class="LbImage" /></a>
+						
+					</div>
+					
+					<div class="attachmentInfo pairsJustified">
+						<h6 class="filename"><a href="../../attachments/c-states-3-png.161778/index.html" target="_blank">C States 3.png</a></h6>
+						<dl><dt>File size:</dt> <dd>964.1 KB</dd></dl>
+						<dl><dt>Views:</dt> <dd>405</dd></dl>
+					</div>
+				</div>
+			</li>
+		
+	</ul>
+</div>
+
+
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside>- Razer Blade 14 (2013) - 256 Go (original SSD) + 500 Go (Samsung 840 Evo SSD)</aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/guillaumeiii.574836/" class="username author" dir="auto">guillaumeiii</a>,</span>
+					<a href="page-4.html#post-10772782" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 30, 2018 at 3:29 AM">Jul 30, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10772782/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772782/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10772782" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10772782/permalink">#38</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772782/like" class="LikeLink item control like" data-container="#likes-post-10772782"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772782"
+						data-messageid="10772782"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772782"
+						data-postUrl="posts/10772782/quote"
+						data-tip="#MQ-10772782"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10772782"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10772818"></div>
+
+<li id="post-10772818" class="message   " data-author="Che0063">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="avatar Av685157m" data-avatarhtml="true"><img src="../../data/avatars/m/685/685157a7b1.jpg?1538733066" width="96" height="96" alt="Che0063" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/che0063.685157/" class="username" dir="auto" itemprop="name">Che0063</a>
+			<em class="userTitle" itemprop="title">Notebook Evangelist</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10772818/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">341</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=685157" class="concealed" rel="nofollow">368</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>478</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/che0063.685157/trophies" class="OverlayTrigger concealed">76</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Can your C0% go any lower? On your second screenshot you have opera in the background. I see you have cores 3 and 4 parked, but your C0% percentage is way too low to be fully idling...
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+			<div class="baseHtml signature messageText ugc"><aside><span style="font-size: 10px"><b>Custom Build | </b>Ryzen 5 5600G | Vega 8 (2.2GHz) | 16GB DDR4-4000 (Dual) | 970 Evo Plus 512GB NVMe <br />
+<b>Lenovo ThinkPad E14 </b>20RA001WAU <b>|</b> i5-10210U (33W TDP)| UHD 620 | 16GB DDR4-2666 (Single) | WDC PC SN520 512GB NVMe | 14.1&quot; 60Hz FHD IPS | 45<b>+15Whr</b> <b>Battery Mod</b>| AX201 |<br />
+<b>Surface Pro 3 </b>| i5-4300U | HD 4400 | 4GB LPDDR3-1600 (dual) | PM851 128GB SATA | 12.3&quot; <b>100Hz </b>2160x1440 IPS | 42Whr | Marvel Avastar<br />
+Battery Life Guide: <a href="index.html" class="internalLink">Click here</a></span></aside></div>
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/che0063.685157/" class="username author" dir="auto">Che0063</a>,</span>
+					<a href="page-4.html#post-10772818" title="Permalink" class="datePermalink"><span class="DateTime" title="Jul 30, 2018 at 5:04 AM">Jul 30, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10772818/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772818/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10772818" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10772818/permalink">#39</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10772818/like" class="LikeLink item control like" data-container="#likes-post-10772818"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772818"
+						data-messageid="10772818"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10772818"
+						data-postUrl="posts/10772818/quote"
+						data-tip="#MQ-10772818"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10772818"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+			
+				
+
+
+
+<div id="post10776419"></div>
+
+<li id="post-10776419" class="message   " data-author="Mr.K-1994">
+
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="avatar Av707555m" data-avatarhtml="true"><img src="../../styles/default/xenforo/avatars/avatar_male_m.png" width="96" height="96" alt="Mr.K-1994" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+	
+		<h3 class="userText">
+			<a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username" dir="auto" itemprop="name">Mr.K-1994</a>
+			<em class="userTitle" itemprop="title">Notebook Consultant</em>
+			
+			<!-- slot: message_user_info_text -->
+		</h3>
+	
+		
+	
+		<div class="extraUserInfo">
+			
+			
+
+<dl class="pairsInline">
+   <dt>Reputations:</dt>
+
+<dd>
+   
+
+    
+        <a href="http://forum.notebookreview.com/posts/10776419/reputation-view" class="OverlayTrigger"><strong><span style="border: 1px groove #FFFFFF; background-color:green; color: #FFFFFF; text-decoration: none; float:right;">14</a></span></strong>
+	
+	
+	
+	 
+	 
+	 
+
+</dd>
+
+</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Messages:</dt>
+						<dd><a href="http://forum.notebookreview.com/search/member?user_id=707555" class="concealed" rel="nofollow">220</a></dd>
+					</dl>
+				
+				
+				
+
+
+
+				
+					<dl class="pairsJustified">
+						<dt>Likes Received:</dt>
+						<dd>90</dd>
+					</dl>
+				
+				
+				
+					<dl class="pairsJustified">
+						<dt>Trophy Points:</dt>
+						<dd><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/trophies" class="OverlayTrigger concealed">41</a></dd>
+					</dl>
+				
+			
+				
+				
+				
+				
+				
+			
+				
+							
+						
+			
+			
+		</div>
+	
+		
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<div class="messageInfo primaryContent">
+		
+		
+		
+		
+		
+		<div class="messageContent">		
+			<article>
+				<blockquote class="messageText SelectQuoteContainer ugc baseHtml">
+					
+					Hi everyone.<br />
+Thank you Che for your fantastic guide.<br />
+I am following your guidelines and it&#039;s working beautifully.<br />
+However,I have a few questions:<br />
+1.I saw 2 NVIDIA Container and a few Dolby Audio services in the background. Should I disable them because I still use NVIDIA control panel and Dolby to improve sound quality.<br />
+2.I search my Intel control panel but have none of the settings in your screenshot. Can this be from using a generic driver other than the manufacturer-provided one?And also when I try installing the generic one,a popup appears and said that the driver is not compatible to my laptop and I had to force it through Device Manager.
+					<div class="messageTextEndMarker">&nbsp;</div>
+				</blockquote>
+			</article>
+			
+			
+		</div>
+		
+		
+		
+		
+		
+		
+		
+				
+		<div class="messageMeta ToggleTriggerAnchor">
+			
+			<div class="privateControls">
+				
+				<span class="item muted">
+					<span class="authorEnd"><a href="http://forum.notebookreview.com/members/mr-k-1994.707555/" class="username author" dir="auto">Mr.K-1994</a>,</span>
+					<a href="page-4.html#post-10776419" title="Permalink" class="datePermalink"><span class="DateTime" title="Aug 5, 2018 at 3:35 AM">Aug 5, 2018</span></a>
+				</span>
+				
+				
+				
+				
+				
+				
+
+
+<a href="http://forum.notebookreview.com/posts/10776419/reputation-submit" class="item control reputation OverlayTrigger"><span></span>Reputation</a>
+
+				
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10776419/report" class="OverlayTrigger item control report" data-cacheOverlay="false"><span></span>Report</a>
+				
+				
+				
+			</div>
+			
+			<div class="publicControls">
+				<a href="page-4.html#post-10776419" title="Permalink" class="item muted postNumber hashPermalink OverlayTrigger" data-href="posts/10776419/permalink">#40</a>
+				
+				
+					<a href="http://forum.notebookreview.com/posts/10776419/like" class="LikeLink item control like" data-container="#likes-post-10776419"><span></span><span class="LikeLabel">Like</span></a>
+				
+				
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10776419"
+						data-messageid="10776419"
+						class="MultiQuoteControl JsOnly item control"
+						title="Toggle Multi-Quote"><span></span><span class="symbol">+ Quote</span></a>
+					<a href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/reply?quote=10776419"
+						data-postUrl="posts/10776419/quote"
+						data-tip="#MQ-10776419"
+						class="ReplyQuote item control reply"
+						title="Reply, quoting this message"><span></span>Reply</a>
+				
+				
+			</div>
+		</div>
+	
+		
+		<div id="likes-post-10776419"></div>
+	</div>
+
+	
+	
+	
+	
+</li>
+
+			
+		
+		
+	</ol>
+
+	
+
+	<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+
+</form>
+
+	<div class="pageNavLinkGroup">
+			
+				
+					<div class="linkGroup">
+						
+							<a href="page-5.html" class="postsRemaining">356 more messages...</a>
+						
+					</div>
+				
+			
+			<div class="linkGroup" style="display: none"><a href="javascript:" class="muted JsOnly DisplayIgnoredContent Tooltip" title="Show hidden content by ">Show Ignored Content</a></div>
+
+			
+
+
+<div class="PageNav"
+	data-page="4"
+	data-range="2"
+	data-start="2"
+	data-end="6"
+	data-last="40"
+	data-sentinel="{{sentinel}}"
+	data-baseurl="threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/page-{{sentinel}}">
+	
+	<span class="pageNavHeader">Page 4 of 40</span>
+	
+	<nav>
+		
+			<a href="page-3.html" class="text">&lt; Prev</a>
+			
+		
+		
+		<a href="index.html" class="" rel="start">1</a>
+		
+		
+			<a class="PageNavPrev hidden">&larr;</a> <span class="scrollable"><span class="items">
+		
+		
+		
+			<a href="page-2.html" class="">2</a>
+		
+			<a href="page-3.html" class="">3</a>
+		
+			<a href="page-4.html" class="currentPage ">4</a>
+		
+			<a href="page-5.html" class="">5</a>
+		
+			<a href="page-6.html" class="">6</a>
+		
+		
+		
+			</span></span> <a class="PageNavNext ">&rarr;</a>
+		
+		
+		<a href="page-40.html" class="">40</a>
+		
+		
+			<a href="page-5.html" class="text">Next &gt;</a>
+			
+		
+	</nav>	
+	
+	
+		<a href="page-40%23post-11138690.html" class="text distinct unreadLink">Go to First Unread</a>
+	
+</div>
+
+	</div>
+
+
+
+
+
+
+	
+
+
+<div class="quickReply message">
+	
+	
+
+<div class="messageUserInfo" itemscope="itemscope" itemtype="http://data-vocabulary.org/Person">	
+<div class="messageUserBlock ">
+	
+		<div class="avatarHolder">
+			<span class="helper"></span>
+			<a href="http://forum.notebookreview.com/members/sergioleone.685420/" class="avatar Av685420m" data-avatarhtml="true"><img src="../../data/avatars/m/685/6854202d8c.jpg?1558507419" width="96" height="96" alt="SergioLeone" /></a>
+			
+			<!-- slot: message_user_info_avatar -->
+		</div>
+	
+
+
+
+	<span class="arrow"><span></span></span>
+</div>
+</div>
+
+	<form action="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/add-reply" method="post" class="AutoValidator blendedEditor" data-optInOut="OptIn" id="QuickReply">
+
+		
+<div>
+	
+		<textarea name="message_html" id="ctrl_message_html" class="textCtrl MessageEditor BbCodeWysiwygEditor " style="display:none; " data-css-url="css.php?style=3&amp;css=editor_contents&amp;d=1642911004" data-dialog-url="index.php?editor/dialog&amp;style=3" data-auto-save-url="threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/save-draft" data-options="{&quot;placeholder&quot;:&quot;reply_placeholder&quot;,&quot;autoSaveFrequency&quot;:&quot;60&quot;,&quot;bbCodes&quot;:{&quot;gallery&quot;:{&quot;title&quot;:&quot;Media Gallery Embed&quot;,&quot;hasOption&quot;:&quot;yes&quot;}},&quot;enableXmgButton&quot;:true}"></textarea>
+		<noscript><textarea name="message" id="ctrl_message" class="textCtrl MessageEditor " style=""></textarea></noscript>
+	
+	<input type="hidden" name="_xfRelativeResolver" value="page-4.html" />
+	
+	
+		
+	
+
+
+	
+
+
+
+
+<script>
+if (typeof RELANG === 'undefined')
+{
+	var RELANG = {};
+}
+
+RELANG.xf = {
+	image: "Image",
+	link: "Link",
+	link_insert: "Link",
+	unlink: "Unlink",
+	quote: "Quote",
+	code: "Code",
+	bold: "Bold (Ctrl+B)",
+	italic: "Italic (Ctrl+I)",
+	fontcolor: "Text Color",
+	unorderedlist: "Unordered List",
+	orderedlist: "Ordered List",
+	outdent: "Outdent",
+	indent: "Indent",
+	none: "None",
+	align_left:	"Align Left",
+	align_center: "Align Center",
+	align_right: "Align Right",
+	deleted: "Strike-through",
+	underline: "Underline (Ctrl+U)",
+	alignment: "Alignment",
+	undo: "Undo (Ctrl+Z)",
+	redo: "Redo (Ctrl+Y)",
+	spoiler: "Spoiler",
+	insert: "Insert...",
+
+	remove_formatting: "Remove Formatting",
+	font_size: "Font Size",
+	font_family: "Font Family",
+	smilies: "Smilies",
+	media: "Media",
+	
+	drafts: "Drafts",
+	save_draft: "Save Draft",
+	delete_draft: "Delete Draft",
+	draft_saved: "Draft saved",
+	draft_deleted: "Draft deleted",
+
+	switch_mode_bb: "Use BB Code Editor",
+	switch_mode_rich: "Use Rich Text Editor",
+	
+	reply_placeholder: "Write your reply...",
+	
+	drop_files_here_to_upload: "Drop files here to upload",
+	uploads_are_not_available: "Uploads are not available."
+};
+</script>
+	
+</div>
+
+
+
+
+
+
+		<div class="submitUnit">
+			<div class="draftUpdate">
+				<span class="draftSaved">Draft saved</span>
+				<span class="draftDeleted">Draft deleted</span>
+			</div>
+			<input type="button" class="button JsOnly MultiQuoteWatcher insertQuotes" id="MultiQuote"
+				value="Insert Quotes..."
+				tabindex="1"
+				data-href="threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/multi-quote?formId=%23QuickReply"
+				
+				data-add="+ Quote"
+				data-add-message="Message added to multi-quote."
+				data-remove="− Quote"
+				data-remove-message="Message removed from multi-quote."
+				data-cacheOverlay="false" />
+			<input type="submit" class="button primary" value="Post Reply" accesskey="s" />
+			
+
+	
+		
+	
+
+	<span id="AttachmentUploader" class="buttonProxy AttachmentUploader"
+		style="display: none"
+		data-placeholder="#SWFUploadPlaceHolder"
+		data-trigger="#ctrl_uploader"
+		data-postname="upload"
+		data-maxfilesize="2097152"
+		data-maxuploads="5"
+		data-extensions="zip,txt,pdf,png,jpg,jpeg,jpe,gif"
+		data-action="http://forum.notebookreview.com/attachments/do-upload.json?hash=bb8e38b7ddfa169faab66e716f833450&amp;content_type=post"
+		data-uniquekey=""
+		data-err-110="The uploaded file is too large."
+		data-err-120="The uploaded file is empty."
+		data-err-130="The uploaded file does not have an allowed extension."
+		data-err-unknown="There was a problem uploading your file.">
+		
+		<span id="SWFUploadPlaceHolder"></span>		
+			
+		<input type="button" value="Upload a File"
+			id="ctrl_uploader" class="button OverlayTrigger DisableOnSubmit"
+			data-href="http://forum.notebookreview.com/attachments/upload?hash=bb8e38b7ddfa169faab66e716f833450&amp;content_type=post&amp;content_data[thread_id]=815602"
+			data-hider="#AttachmentUploader" />
+		<span class="HiddenInput" data-name="_xfSessionId" data-value="03265ce27d8513c64035dc6f3c66e80c"></span>
+		<span class="HiddenInput" data-name="content_data[thread_id]" data-value="815602"></span>
+		
+	</span>
+
+	<noscript>
+		<a href="http://forum.notebookreview.com/attachments/upload?hash=bb8e38b7ddfa169faab66e716f833450&amp;content_type=post&amp;content_data[thread_id]=815602" class="button" target="_blank">Upload a File</a>
+	</noscript>
+
+
+			<input type="submit" class="button DisableOnSubmit" value="More Options..." name="more_options" />
+		</div>
+		
+		
+			
+
+	
+	
+	
+	<div class="AttachmentEditor">
+	
+		
+		
+		<div class="NoAttachments"></div>
+		
+		<div class="secondaryContent AttachmentInsertAllBlock JsOnly">
+			<span></span>
+			<div class="AttachmentText">
+				<div class="label">Insert every image as a...</div>
+				<div class="controls">
+					<!--<input type="button" value="Delete All" class="button _smallButton AttachmentDeleteAll" />-->
+					<input type="button" value="Thumbnail" class="button smallButton AttachmentInsertAll" name="thumb" />
+					<input type="button" value="Full Image" class="button smallButton AttachmentInsertAll" name="image" />
+				</div>
+			</div>
+		</div>
+	
+		<ol class="AttachmentList New">
+			
+
+<li id="AttachedFileTemplate"
+	class="AttachedFile  secondaryContent">
+
+	<div class="Thumbnail">
+		
+			<span class="genericAttachment"></span>
+		
+	</div>
+
+	<div class="AttachmentText">
+		<div class="Filename"><a href="http://forum.notebookreview.com/attachments/" target="_blank"></a></div>
+	
+		
+			<input type="button" value="Cancel" class="button smallButton AttachmentCanceller" />
+			
+			<span class="ProgressMeter"><span class="ProgressGraphic">&nbsp;</span><span class="ProgressCounter">0%</span></span>
+		
+
+	</div>
+	
+</li>
+			
+		</ol>
+	
+		
+		
+		<input type="hidden" name="attachment_hash" value="bb8e38b7ddfa169faab66e716f833450" />
+		
+		
+		
+	</div>
+	
+
+		
+
+		<input type="hidden" name="last_date" value="1533429348" data-load-value="1533429348" />
+		<input type="hidden" name="last_known_date" value="1642836318" />
+		<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+
+	</form>
+
+</div>
+
+
+
+
+
+
+
+
+	
+
+
+
+	
+
+	<div class="sharePage">
+		<h3 class="textHeading larger">Share This Page</h3>
+		
+			
+			
+				<div class="tweet shareControl">
+					<a href="https://twitter.com/share" class="twitter-share-button"
+						data-count="horizontal"
+						data-lang="en-US"
+						data-url="index.html"
+						data-text="[Guide] Improving Battery Life on Windows [+Enabling Deeper C States]"
+						
+						>Tweet</a>
+				</div>
+			
+			
+				<div class="plusone shareControl">
+					<div class="g-plusone" data-size="medium" data-count="true" data-href="index.html"></div>
+				</div>
+			
+			
+				<div class="facebookLike shareControl">
+					
+					<div class="fb-like" data-href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/" data-width="400" data-layout="standard" data-action="recommend" data-show-faces="true" data-colorscheme="light"></div>
+				</div>
+			
+			
+		
+	</div>
+
+
+<br />
+<script type="text/javascript">
+amzn_assoc_placement = "adunit0";
+amzn_assoc_enable_interest_ads = "true";
+amzn_assoc_tracking_id = "technolf071-20";
+amzn_assoc_ad_mode = "auto";
+amzn_assoc_ad_type = "smart";
+amzn_assoc_marketplace = "amazon";
+amzn_assoc_region = "US";
+amzn_assoc_linkid = "917e37ef9af31ac3dbfdcdde76bb8576";
+amzn_assoc_emphasize_categories = "2335752011,13900871,172282,229534";
+amzn_assoc_fallback_mode = {"type":"search","value":"Laptop"};
+amzn_assoc_default_category = "PCHardware";
+</script>
+<script src="http://z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+
+<br />
+<div class="OUTBRAIN" data-src="http://forum.notebookreview.com" data-widget-id="AR_3" data-ob-template="NotebookReview"></div> 
+<div class="OUTBRAIN" data-src="http://forum.notebookreview.com" data-widget-id="AR_4" data-ob-template="NotebookReview"></div> 
+<script type="text/javascript" async="async" src="../../../widgets.outbrain.com/outbrain.js"></script>
+						
+						
+						
+						
+						
+					</div>
+				</div>
+				
+				<!-- sidebar -->
+				<aside>
+					<div class="sidebar">
+						
+						
+						
+
+<div class="section visitorPanel">
+	<div class="secondaryContent">
+	
+		<a href="http://forum.notebookreview.com/members/sergioleone.685420/" class="avatar Av685420m" data-avatarhtml="true"><img src="../../data/avatars/m/685/6854202d8c.jpg?1558507419" width="96" height="96" alt="SergioLeone" /></a>
+		
+		<div class="visitorText">
+			<h2><span class="muted">Signed in as</span> <a href="http://forum.notebookreview.com/members/sergioleone.685420/" class="username NoOverlay" dir="auto">SergioLeone</a></h2>		
+			<div class="stats">
+			
+				<dl class="pairsJustified"><dt>Messages:</dt> <dd>17</dd></dl>
+				<dl class="pairsJustified"><dt>Likes:</dt> <dd>10</dd></dl>
+				
+					<dl class="pairsJustified"><dt>Points:</dt> <dd>6</dd></dl>
+
+<dl class="pairsJustified"><dt>Reputations:</dt> <dd>7</dd></dl>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+</div>
+
+
+
+
+						<div id="div-gptRAILIMU1300x250">
+		<script type="text/javascript">
+		if (typeof GPT == 'function') {
+			GPT(function () {
+				var slot = this.googletag.defineSlot(this.unitName,  [[300,250],[300,600]], "div-gptRAILIMU1300x250");
+			slot.setTargeting("pos", ["RailTop","top"]);
+                       
+				window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+             if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                 if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                     var gdprApplies = tcData.gdprApplies;
+                     console.log("GDPRAPPLIES : "+ gdprApplies);
+                     if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                         window.__tcfapi('removeEventListener', 2, function (success) {
+                             if (success) {
+                                 window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                     if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                         window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                             if (success) {
+                                                 if (isGoogleEnabled) {
+                                                   console.log("Making the call after consent div - ADD DIV ID HERE ");
+                                                   slot.display();
+                                                 }
+                                               }
+                                         });
+                                         window.__tcfapi('removeEventListener', 2, function (success) {
+                                             if (success) {
+                                             }
+                                         }, tcData.listenerId);
+                                     }
+                                 });
+                             }
+                         }, tcData.listenerId);
+  
+         } else {
+             window.__tcfapi('removeEventListener', 2, function (success) {
+                 if (success) {
+                   console.log("Making the call without asking for consent");
+                   console.log("Gdprapplies: " + gdprApplies);
+                   console.log("CMP - serving ads");
+                   slot.display();
+                 }
+             }, tcData.listenerId);
+         }
+         }
+         }
+         });
+			});
+		}
+		</script>
+</div>
+
+
+	
+	
+
+
+
+
+	
+	<div class="section widget-group-no-name widget-container">
+		
+			<div class="secondaryContent widget WidgetFramework_WidgetRenderer_FeedReader" id="widget-131">
+				
+					<h3>
+						
+							Recent Laptop Reviews
+						
+					</h3>
+					<ul class="WidgetFramework_WidgetRenderer_FeedReader_Entries">
+		
+			
+				<li class="WidgetFramework_WidgetRenderer_FeedReader_Entry limitedHeight">
+					
+						<a href="http://www.notebookreview.com/news/forum-spotlight-fix-notebook-throttling-backlight-bleed/" target="_blank">Forum Spotlight: Fix Notebook Throttling, Backlight Bleed</a>
+					
+				
+				</li>
+			
+				<li class="WidgetFramework_WidgetRenderer_FeedReader_Entry limitedHeight">
+					
+						<a href="http://www.notebookreview.com/news/forum-spotlight-stadia-impressions-laptop-building-help/" target="_blank">Forum Spotlight: Stadia Impressions, Laptop Building Help</a>
+					
+				
+				</li>
+			
+				<li class="WidgetFramework_WidgetRenderer_FeedReader_Entry limitedHeight">
+					
+						<a href="http://www.notebookreview.com/news/forum-spotlight-ram-requirements-the-outer-worlds/" target="_blank">Forum Spotlight: RAM Requirements, The Outer Worlds</a>
+					
+				
+				</li>
+			
+				<li class="WidgetFramework_WidgetRenderer_FeedReader_Entry limitedHeight">
+					
+						<a href="http://www.notebookreview.com/news/forum-spotlight-nvidia-quadro-rtx-6000-in-notebooks/" target="_blank">Forum Spotlight: Nvidia Quadro RTX 6000 in Notebooks</a>
+					
+				
+				</li>
+			
+				<li class="WidgetFramework_WidgetRenderer_FeedReader_Entry limitedHeight">
+					
+						<a href="http://www.notebookreview.com/news/forum-spotlight-diy-notebook-mods-edition/" target="_blank">Forum Spotlight: DIY Notebook Mods Edition</a>
+					
+				
+				</li>
+			
+		
+	</ul>
+				
+			</div>
+		
+	</div>
+<br /><div id="div-gptRAILIMU2300x600">
+		<script type="text/javascript">
+		if (typeof GPT == 'function') {
+			GPT(function () {
+				var slot = this.googletag.defineSlot(this.unitName,  [300,250], "div-gptRAILIMU2300x600");
+				slot.setTargeting("pos", ["RailBottom","bottom"]);
+				window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+             if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                 if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                     var gdprApplies = tcData.gdprApplies;
+                     console.log("GDPRAPPLIES : "+ gdprApplies);
+                     if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                         window.__tcfapi('removeEventListener', 2, function (success) {
+                             if (success) {
+                                 window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                     if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                         window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                             if (success) {
+                                                 if (isGoogleEnabled) {
+                                                   console.log("Making the call after consent div - ADD DIV ID HERE ");
+                                                   slot.display();
+                                                 }
+                                               }
+                                         });
+                                         window.__tcfapi('removeEventListener', 2, function (success) {
+                                             if (success) {
+                                             }
+                                         }, tcData.listenerId);
+                                     }
+                                 });
+                             }
+                         }, tcData.listenerId);
+  
+         } else {
+             window.__tcfapi('removeEventListener', 2, function (success) {
+                 if (success) {
+                   console.log("Making the call without asking for consent");
+                   console.log("Gdprapplies: " + gdprApplies);
+                   console.log("CMP - serving ads");
+                   slot.display();
+                 }
+             }, tcData.listenerId);
+         }
+         }
+         }
+         });
+			});
+}
+		</script>
+</div><div class="widget WidgetFramework_WidgetRenderer_ShareThisPage" id="widget-135">
+			
+	
+	<div class="section infoBlock sharePage">
+		<div class="secondaryContent">
+			<h3>Share This Page</h3>
+			
+				
+				
+					<div class="tweet shareControl">
+						<a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal"
+							data-lang="en-US"
+							data-url="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/"
+							
+							>Tweet</a>
+					</div>
+						
+				
+					<div class="facebookLike shareControl">
+						
+						<div class="fb-like" data-href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/" data-layout="button_count" data-action="recommend" data-font="trebuchet ms" data-colorscheme="light"></div>
+					</div>
+				
+				
+					<div class="plusone shareControl">
+						<div class="g-plusone" data-size="medium" data-count="true" data-href="http://forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/"></div>
+					</div>
+					
+						
+			
+		</div>
+	</div>
+
+	</div>
+						
+						
+					</div>
+				</aside>
+			
+			
+						
+			<div class="breadBoxBottom">
+
+<nav>
+	
+
+	<fieldset class="breadcrumb">
+		<a href="http://forum.notebookreview.com/misc/quick-navigation-menu?selected=node-15" class="OverlayTrigger jumpMenuTrigger" data-cacheOverlay="true" title="Open quick navigation"><!--Jump to...--></a>
+			
+		<div class="boardTitle"><strong>NotebookReview</strong></div>
+		
+		<span class="crumbs">
+			
+				<span class="crust homeCrumb">
+					<a href="http://notebookreview.com/" class="crumb"><span>Home</span></a>
+					<span class="arrow"><span></span></span>
+				</span>
+			
+			
+			
+				<span class="crust selectedTabCrumb">
+					<a href="http://forum.notebookreview.com/" class="crumb"><span>Forums</span></a>
+					<span class="arrow"><span>&gt;</span></span>
+				</span>
+			
+			
+			
+				
+					<span class="crust">
+						<a href="http://forum.notebookreview.com/#hardware-software-and-accessories.1008" class="crumb"><span>Hardware, Software and  Accessories</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+					<span class="crust">
+						<a href="http://forum.notebookreview.com/forums/windows-os-and-software.15/" class="crumb"><span>Windows OS and Software</span></a>
+						<span class="arrow"><span>&gt;</span></span>
+					</span>
+				
+			
+		</span>
+	</fieldset>
+</nav></div>
+			
+						
+			
+
+
+<!-- Ad Footer -->
+
+			
+				<div class="ttad-container">
+				<div id="div-gptFLB728x90">
+				<script type="text/javascript">
+					GPT(function () {
+					var slot = this.googletag.defineSlot(this.unitName, [728,90], "div-gptFLB728x90");
+					slot.setTargeting("pos", "bottom");
+					window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                       if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                           if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                               var gdprApplies = tcData.gdprApplies;
+                               console.log("GDPRAPPLIES : "+ gdprApplies);
+                               if (gdprApplies && !((cmpApi.getConsentforVendorV2(googleIabPuropseList)) && (cmpApi.getLIConsentforVendorV2(googleAdsLegitimateInterestsPurposeIds)))) {
+                                   window.__tcfapi('removeEventListener', 2, function (success) {
+                                       if (success) {
+                                           window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                               if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                                   window.__tcfapi('getTCData', 2, function (tcData, success) {
+                                                       if (success) {
+                                                           if (isGoogleEnabled) {
+                                                             console.log("Making the call after consent div - ADD DIV ID HERE ");
+                                                             slot.display();
+                                                             refreshAd()                                                             
+                                                           }
+                                                         }
+                                                   });
+                                                   window.__tcfapi('removeEventListener', 2, function (success) {
+                                                       if (success) {
+                                                       }
+                                                   }, tcData.listenerId);
+                                               }
+                                           });
+                                       }
+                                   }, tcData.listenerId);
+            
+                   } else {
+                       window.__tcfapi('removeEventListener', 2, function (success) {
+                           if (success) {
+                             console.log("Making the call without asking for consent");
+                             console.log("Gdprapplies: " + gdprApplies);
+                             console.log("CMP - serving ads");
+                             	slot.display();
+                           }
+                       }, tcData.listenerId);
+                   }
+                   }
+                   }
+                   });
+				});
+				</script>
+				</div>
+				</div>
+			
+			
+<!-- /Ad Footer -->
+
+
+
+						
+		</div>
+	</div>
+</div>
+
+<header>
+	
+
+
+<div id="header">
+	<div id="logoBlock">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+			
+			<div id="logo"><a href="http://notebookreview.com/">
+				<span></span>
+				<img src="../../../cdn.ttgtmedia.com/techguide/forum/nbr/nbr_forum_logo.png" alt="NotebookReview" />
+			</a></div>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+	
+
+<div id="navigation" class="pageWidth withSearch">
+	<div class="pageContent">
+		<nav>
+
+<div class="navTabs">
+	<ul class="publicTabs">
+	
+		<!-- home -->
+		
+		
+		<!-- extra tabs: home -->
+		
+		
+		
+		<!-- forums -->
+		
+			<li class="navTab forums selected">
+			
+				<a href="http://forum.notebookreview.com/" class="navLink">Forum</a>
+				<a href="http://forum.notebookreview.com/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="tabLinks forumsTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Forums</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+						<li><a href="http://forum.notebookreview.com/forums/windows-os-and-software.15/-/mark-read?date=1642966739" class="OverlayTrigger">Mark Forums Read</a></li>
+						<li><a href="http://forum.notebookreview.com/search/?type=post">Search Forums</a></li>
+						
+							<li><a href="http://forum.notebookreview.com/watched/forums">Watched Forums</a></li>
+							<li><a href="http://forum.notebookreview.com/watched/threads">Watched Threads</a></li>
+						
+						
+<li><a href="http://forum.notebookreview.com/find-new/posts" rel="nofollow">New Posts</a></li>
+
+
+<li><a href="http://forum.notebookreview.com/reputation/">Reputations</a></li>
+
+					
+					</ul>
+				</div>
+			</li>
+		
+		
+		
+		<!-- extra tabs: middle -->
+		
+		
+			
+				<li class="navTab xengallery Popup PopupControl PopupClosed">
+			
+				<a href="http://forum.notebookreview.com/media/" class="navLink">Media</a>
+				<a href="http://forum.notebookreview.com/media/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu xengalleryTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Media</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					
+
+<ul class="secondaryContent blockLinksList xengallery">
+	
+		
+			<li><a href="http://forum.notebookreview.com/media/categories/-/mark-viewed" class="OverlayTrigger">Mark Viewed</a></li>
+		
+	
+	<li><a href="http://forum.notebookreview.com/search/?type=xengallery_media">Search Media</a></li>
+	
+		
+			<li><a href="http://forum.notebookreview.com/media/add">Add Media</a></li>
+		
+	
+	
+		
+		
+			<ul>
+				
+					
+						<li class="tablinkIndent"><a href="http://forum.notebookreview.com/watched/media">Watched Media</a></li>
+					
+					
+						<li class="tablinkIndent"><a href="http://forum.notebookreview.com/watched/albums">Watched Albums</a></li>
+					
+					
+						<li class="tablinkIndent"><a href="http://forum.notebookreview.com/watched/categories">Watched Categories</a></li>
+					
+				
+			</ul>
+		
+	
+	<li><a href="http://forum.notebookreview.com/find-new/media">New Media</a></li>
+</ul>
+				</div>
+			</li>
+			
+		
+		
+		
+		
+		<!-- members -->
+		
+			<li class="navTab members Popup PopupControl PopupClosed">
+			
+				<a href="http://forum.notebookreview.com/members/" class="navLink">Members</a>
+				<a href="http://forum.notebookreview.com/members/" class="SplitCtrl" rel="Menu"></a>
+				
+				<div class="Menu JsOnly tabMenu membersTabLinks">
+					<div class="primaryContent menuHeader">
+						<h3>Members</h3>
+						<div class="muted">Quick Links</div>
+					</div>
+					<ul class="secondaryContent blockLinksList">
+					
+
+<li><a href="http://forum.notebookreview.com/members/membersearch/" rel="nofollow">Member Search</a></li>
+
+						<li><a href="http://forum.notebookreview.com/members/">Notable Members</a></li>
+						
+						<li><a href="http://forum.notebookreview.com/online/">Current Visitors</a></li>
+						<li><a href="http://forum.notebookreview.com/recent-activity/">Recent Activity</a></li>
+
+<li><a href="http://forum.notebookreview.com/birthdaycalendar/">Birthday Calendar</a></li>
+
+						<li><a href="http://forum.notebookreview.com/find-new/profile-posts">New Profile Posts</a></li>
+					
+					</ul>
+				</div>
+			</li>
+						
+		<!-- other tabs-->
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/notebookreview/" class="navLink">Reviews</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/news/" class="navLink">News</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/buyers-guides/" class="navLink">Shop</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/deals/" class="navLink">Deals & Coupons</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/topics/accessories/" class="navLink">Accessories</a></li>		
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/video/" class="navLink">Video</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/topics/business/" class="navLink">Business</a></li>
+		<li class="navTab PopupClosed"><a href="http://www.notebookreview.com/phonereview/" class="navLink">Smartphones</a></li>
+
+		
+		
+		<!-- extra tabs: end -->
+		
+
+		<!-- responsive popup -->
+		<li class="navTab navigationHiddenTabs Popup PopupControl PopupClosed" style="display:none">	
+						
+			<a rel="Menu" class="navLink NoPopupGadget"><span class="menuIcon">Menu</span></a>
+			
+			<div class="Menu JsOnly blockLinksList primaryContent" id="NavigationHiddenMenu"></div>
+		</li>
+			
+		
+		<!-- no selection -->
+		
+		
+	</ul>
+	
+	
+
+<ul class="visitorTabs">
+
+	
+
+	<!-- account -->
+	<li class="navTab account Popup PopupControl PopupClosed ">
+
+		
+		<a href="http://forum.notebookreview.com/account/" class="navLink accountPopup NoPopupGadget" rel="Menu"><strong class="accountUsername">SergioLeone</strong>
+			<strong class="itemCount ResponsiveOnly "
+				id="VisitorExtraMenu_Counter">
+				<span class="Total">2</span>
+				<span class="arrow"></span>
+			</strong>
+		</a>
+		
+		<div class="Menu JsOnly" id="AccountMenu">
+			<div class="primaryContent menuHeader">
+				<a href="http://forum.notebookreview.com/members/sergioleone.685420/" class="avatar Av685420m NoOverlay plainImage" title="View your profile" data-avatarhtml="true"><span class="img m" style="background-image: url('../../data/avatars/m/685/6854202d8c.jpg?1558507419')"></span></a>
+				
+				<h3><a href="http://forum.notebookreview.com/members/sergioleone.685420/" class="concealed" title="View your profile">SergioLeone</a></h3>
+				
+				<div class="muted">Notebook Enthusiast</div>
+				
+				<ul class="links">
+					<li class="fl"><a href="http://forum.notebookreview.com/members/sergioleone.685420/">Your Profile Page</a></li>
+				</ul>
+			</div>
+			<div class="menuColumns secondaryContent">
+				<ul class="col1 blockLinksList">
+				
+					<li><a href="http://forum.notebookreview.com/account/personal-details">Personal Details</a></li>
+					<li><a href="http://forum.notebookreview.com/account/signature">Signature</a></li>
+					<li><a href="http://forum.notebookreview.com/account/contact-details">Contact Details</a></li>
+					<li><a href="http://forum.notebookreview.com/account/privacy">Privacy</a></li>
+					<li><a href="http://forum.notebookreview.com/account/preferences" class="OverlayTrigger">Preferences</a></li>
+					<li><a href="http://forum.notebookreview.com/account/alert-preferences">Alert Preferences</a></li>
+					<li><a href="http://forum.notebookreview.com/account/avatar" class="OverlayTrigger" data-cacheOverlay="true">Avatar</a></li>
+					
+					<li><a href="http://forum.notebookreview.com/account/security">Password</a></li>
+				
+				</ul>
+				<ul class="col2 blockLinksList">
+				
+					<li><a href="http://forum.notebookreview.com/account/news-feed">Your News Feed</a></li>
+					<li><a href="http://forum.notebookreview.com/conversations/">Conversations
+						<strong class="itemCount "
+							id="VisitorExtraMenu_ConversationsCounter">
+							<span class="Total">1</span>
+						</strong></a></li>
+					<li><a href="http://forum.notebookreview.com/account/alerts">Alerts
+						<strong class="itemCount "
+							id="VisitorExtraMenu_AlertsCounter">
+							<span class="Total">1</span>
+						</strong></a></li>
+					<li><a href="http://forum.notebookreview.com/account/likes">Likes You've Received</a></li>
+					<li><a href="http://forum.notebookreview.com/search/member?user_id=685420">Your Content</a></li>
+					<li><a href="http://forum.notebookreview.com/account/following">People You Follow</a></li>
+					<li><a href="http://forum.notebookreview.com/account/ignored">People You Ignore</a></li>
+					
+
+<li><a href="http://forum.notebookreview.com/account/givenreputations">Reputations You've Given</a></li>
+					<li><a href="http://forum.notebookreview.com/account/two-step">Two-Step Verification</a></li>
+				
+				</ul>
+			</div>
+			<div class="menuColumns secondaryContent">
+				<ul class="col1 blockLinksList">
+					<li>				
+						<form action="http://forum.notebookreview.com/account/toggle-visibility" method="post" class="AutoValidator visibilityForm">
+							<label><input type="checkbox" name="visible" value="1" class="SubmitOnChange"  checked="checked" />
+								Show online status</label>
+							<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+						</form>
+					</li>
+				</ul>
+				<ul class="col2 blockLinksList">
+					<li><a href="http://forum.notebookreview.com/logout/?_xfToken=685420%2C1642966739%2C3406e692d36fb8bcf48d3584733baafd68b9ce4d" class="LogOut">Log Out</a></li>
+				</ul>
+			</div>
+			
+				<form action="http://forum.notebookreview.com/members/sergioleone.685420/post" method="post" class="sectionFooter statusPoster AutoValidator" data-optInOut="OptIn">
+					<textarea name="message" class="textCtrl StatusEditor UserTagger Elastic" placeholder="Update your status..." rows="1" cols="40" style="height:18px" data-statusEditorCounter="#visMenuSEdCount" data-nofocus="true"></textarea>
+					<div class="submitUnit">
+						<span id="visMenuSEdCount" title="Characters remaining"></span>
+						<input type="submit" class="button primary MenuCloser" value="Post" />
+						<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+						<input type="hidden" name="return" value="1" /> 
+					</div>
+				</form>
+			
+		</div>		
+	</li>
+		
+	
+	
+	<!-- conversations popup -->
+	<li class="navTab inbox Popup PopupControl PopupClosed ">
+					
+		<a href="http://forum.notebookreview.com/conversations/" rel="Menu" class="navLink NoPopupGadget">Inbox
+			<strong class="itemCount "
+				id="ConversationsMenu_Counter" data-text="You have %d new unread conversation(s).">
+				<span class="Total">1</span>
+				<span class="arrow"></span>
+			</strong>
+		</a>
+		
+		<div class="Menu JsOnly navPopup" id="ConversationsMenu"
+			data-contentSrc="conversations/popup"
+			data-contentDest="#ConversationsMenu .listPlaceholder">
+			
+			<div class="menuHeader primaryContent">
+				<h3>
+					<span class="Progress InProgress"></span>
+					<a href="http://forum.notebookreview.com/conversations/" class="concealed">Conversations</a>
+				</h3>						
+			</div>
+			
+			<div class="listPlaceholder"></div>
+			
+			<div class="sectionFooter">
+				<a href="http://forum.notebookreview.com/conversations/add" class="floatLink">Start a New Conversation</a>
+				<a href="http://forum.notebookreview.com/conversations/">Show All...</a>
+			</div>
+		</div>
+	</li>
+	
+	
+	
+	
+	
+	<!-- alerts popup -->
+	<li class="navTab alerts Popup PopupControl PopupClosed">	
+					
+		<a href="http://forum.notebookreview.com/account/alerts" rel="Menu" class="navLink NoPopupGadget">Alerts
+			<strong class="itemCount "
+				id="AlertsMenu_Counter" data-text="You have %d new alert(s).">
+				<span class="Total">1</span>
+				<span class="arrow"></span>
+			</strong>
+		</a>
+		
+		<div class="Menu JsOnly navPopup" id="AlertsMenu"
+			data-contentSrc="account/alerts-popup"
+			data-contentDest="#AlertsMenu .listPlaceholder"
+			data-removeCounter="#AlertsMenu_Counter">
+			
+			<div class="menuHeader primaryContent">
+				<h3>
+					<span class="Progress InProgress"></span>
+					<a href="http://forum.notebookreview.com/account/alerts" class="concealed">Alerts</a>
+				</h3>
+			</div>
+			
+			<div class="listPlaceholder"></div>
+			
+			<div class="sectionFooter">
+				<a href="http://forum.notebookreview.com/account/alert-preferences" class="floatLink">Alert Preferences</a>
+				<a href="http://forum.notebookreview.com/account/alerts">Show All...</a>
+			</div>
+		</div>
+	</li>
+	
+	
+</ul>
+</div>
+
+<span class="helper"></span>
+			
+		</nav>	
+	</div>
+</div>
+	
+
+<div id="searchBar" class="pageWidth">
+	
+	<span id="QuickSearchPlaceholder" title="Search">Search</span>
+	<fieldset id="QuickSearch">
+		<form action="http://forum.notebookreview.com/search/search" method="post" class="formPopup">
+			
+			<div class="primaryControls">
+				<!-- block: primaryControls -->
+				<input type="search" name="keywords" value="" class="textCtrl" placeholder="Search..." title="Enter your search and hit enter" id="QuickSearchQuery" />				
+				<!-- end block: primaryControls -->
+			</div>
+			
+			<div class="secondaryControls">
+				<div class="controlsWrapper">
+				
+					<!-- block: secondaryControls -->
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+							<li><label><input type="checkbox" name="title_only" value="1"
+								id="search_bar_title_only" class="AutoChecker"
+								data-uncheck="#search_bar_thread" /> Search titles only</label></li>
+						</ul></dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_users">Posted by Member:</label></dt>
+						<dd>
+							<input type="text" name="users" value="" class="textCtrl AutoComplete" id="searchBar_users" />
+							<p class="explain">Separate names with a comma.</p>
+						</dd>
+					</dl>
+				
+					<dl class="ctrlUnit">
+						<dt><label for="searchBar_date">Newer Than:</label></dt>
+						<dd><input type="date" name="date" value="" class="textCtrl" id="searchBar_date" /></dd>
+					</dl>
+					
+					
+					<dl class="ctrlUnit">
+						<dt></dt>
+						<dd><ul>
+								
+									<li><label title="Search only [Guide] Improving Battery Life on Windows [+Enabling Deeper C States]"><input type="checkbox" name="type[post][thread_id]" value="815602"
+	id="search_bar_thread" class="AutoChecker"
+	data-uncheck="#search_bar_title_only, #search_bar_nodes" /> Search this thread only</label></li>
+								
+									<li><label title="Search only Windows OS and Software"><input type="checkbox" name="nodes[]" value="15"
+	id="search_bar_nodes" class="Disabler AutoChecker" checked="checked"
+	data-uncheck="#search_bar_thread" /> Search this forum only</label>
+	<ul id="search_bar_nodes_Disabler">
+		<li><label><input type="checkbox" name="type[post][group_discussion]" value="1"
+			id="search_bar_group_discussion" class="AutoChecker"
+			data-uncheck="#search_bar_thread" /> Display results as threads</label></li>
+	</ul></li>
+								
+						</ul></dd>
+					</dl>
+					
+				</div>
+				<!-- end block: secondaryControls -->
+				
+				<dl class="ctrlUnit submitUnit">
+					<dt></dt>
+					<dd>
+						<input type="submit" value="Search" class="button primary Tooltip" title="Find Now" />
+						<div class="Popup" id="commonSearches">
+							<a rel="Menu" class="button NoPopupGadget Tooltip" title="Useful Searches" data-tipclass="flipped"><span class="arrowWidget"></span></a>
+							<div class="Menu">
+								<div class="primaryContent menuHeader">
+									<h3>Useful Searches</h3>
+								</div>
+								<ul class="secondaryContent blockLinksList">
+									<!-- block: useful_searches -->
+									<li><a href="http://forum.notebookreview.com/find-new/posts?recent=1" rel="nofollow">Recent Posts</a></li>
+									
+									<li><a href="http://forum.notebookreview.com/search/member?user_id=685420&amp;content=thread">Your Threads</a></li>
+									<li><a href="http://forum.notebookreview.com/search/member?user_id=685420&amp;content=post">Your Posts</a></li>
+									<li><a href="http://forum.notebookreview.com/search/member?user_id=685420&amp;content=profile_post">Your Profile Posts</a></li>
+									
+									<!-- end block: useful_searches -->
+								</ul>
+							</div>
+						</div>
+						<a href="http://forum.notebookreview.com/search/" class="button moreOptions Tooltip" title="Advanced Search">More...</a>
+					</dd>
+				</dl>
+				
+			</div>
+			
+			<input type="hidden" name="_xfToken" value="685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d" />
+		</form>		
+	</fieldset>
+	
+</div>
+</div>
+
+	
+	
+</header>
+
+</div>
+	
+<footer>
+	
+
+<div class="footer">
+	<div class="pageWidth">
+		<div class="pageContent">
+			
+				
+				<dl class="choosers">
+					
+						<dt>Style</dt>
+						<dd><a href="http://forum.notebookreview.com/misc/style?redirect=%2Fthreads%2Fguide-improving-battery-life-on-windows-enabling-deeper-c-states.815602%2Fpage-4" class="OverlayTrigger Tooltip" title="Style Chooser" rel="nofollow">NBR_xenFoogle</a></dd>
+					
+					
+				</dl>
+				
+			
+			<ul class="footerLinks">
+			
+				
+					<li><a href="http://forum.notebookreview.com/misc/contact" class="OverlayTrigger" data-overlayOptions="{&quot;fixed&quot;:false}">Contact Us</a></li>
+				
+				<li><a href="http://forum.notebookreview.com/help/">Help</a></li>
+				<li><a href="http://notebookreview.com/" class="homeLink">Home</a></li>
+				<li><a href="page-4.html#navigation" class="topLink">Top</a></li>
+				<li><a href="http://forum.notebookreview.com/forums/-/index.rss" rel="alternate" class="globalFeed" target="_blank"
+					title="RSS feed for NotebookReview">RSS</a></li>
+			
+			</ul>
+			
+			<span class="helper"></span>
+		</div>
+	</div>
+</div>
+
+<div class="footerLegal">
+	<div class="pageWidth">
+		<div class="pageContent">
+			<ul id="legal">
+			
+				<li><a href="http://forum.notebookreview.com/help/terms">Terms and Rules</a></li>
+				
+			
+			</ul>
+			
+			<div id="copyright"><a href="https://xenforo.com/" class="concealed">Forum software by XenForo&trade; <span>&copy;2010-2016 XenForo Ltd.</span></a> 
+            <br/><div id="waindigoCopyrightNotice"><a href="https://waindigo.org/" class="concealed">XenForo add-ons by Waindigo&trade;</a> <span>&copy;2015 <a href="https://waindigo.org/" class="concealed">Waindigo Ltd</a>.</span></div>
+             | Style By: <a href="http://pixelexit.com/">pixelExit.com</a></div>
+			
+		    
+			
+			
+			<div class="ttForumFooter">
+<div class="ttForumFooterCopy"> 			<p>TechTarget publishes <a href="http://www.techtarget.com/html/it_pro_list.html" ><strong>more than 100 focused websites</strong></a> providing quick access to a deep store of 
+ news, advice and analysis about the technologies, products and processes crucial to the jobs of IT pros. </p>	
+<br />
+<a href="http://www.notebookreview.com/about/">About Us</a>&nbsp;&#124;&nbsp;
+<a href="http://www.notebookreview.com/advertising/">Advertising</a>&nbsp;&#124;&nbsp;
+<a href="http://www.notebookreview.com/mediakit/">Media Kit </a>
+
+<p>All Rights Reserved, Copyright, TechTarget&nbsp;|&nbsp;
+<a href="http://www.techtarget.com/html/privacy_policy.html">Read our Privacy Statement</a>&nbsp;|&nbsp;
+<a href="https://www.techtarget.com/CA-rights-request">Do Not Sell My Personal Info</a>
+<a id="cPref" onclick="window._sp_.loadPrivacyManagerModal(417261)">&nbsp;|&nbsp;Cookie Preferences</a>
+</p><br>
+		 </div> 			
+
+<div class="ttForumFooterLogo"><img style="float:right" width="148" height="37" src="../../../cdn.ttgtmedia.com/techguide/iis/images/TTFooterLogo.png" />
+<br /><br />  
+</div>			
+
+			
+			
+			<span class="helper"></span>
+		</div>
+	</div>	
+</div>
+
+<!---ChartBeat -->
+<script type='text/javascript'>
+  function getChartBeatJS() {
+  
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 41935;
+    _sf_async_config.domain = 'technologyguidenetwork.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = 'nbr, nbr – forum'; ;  
+//Example - 'NotebookReview, NotebookReview - WWW, NoteboookReview - Review'
+
+    _sf_async_config.authors = 'NO AUTHOR, NBR - Forum - ';    
+	//Examples - 'NO AUTHOR, NotebookReview - Forum - asus'  or for a content item on www, 'Jerry Jackson, NotebookReview - Brand - Dell'
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+    loadChartbeat();  
+    })();
+    }
+    var chartbeatSpVendorInternalId = '5ea172e36ede87504f7b4590';
+
+        window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+            if ((typeof(tcData) !== 'undefined') && (tcData !== null)) {
+                if (listenerSuccess && (tcData.eventStatus === 'tcloaded' || tcData.eventStatus === 'cmpuishown')) {
+                    var gdprApplies = tcData.gdprApplies;
+                    if (gdprApplies && !(cmpApi.getCustomVendorGrantConsent(chartbeatSpVendorInternalId))) {
+                        //remove the listener ourself to not get called more than once
+                        window.__tcfapi('removeEventListener', 2, function (success) {
+                            if (success) {
+                                window.__tcfapi('addEventListener', 2, function (tcData, listenerSuccess) {
+                                    if (listenerSuccess && tcData.eventStatus === 'useractioncomplete') {
+                                        window.__tcfapi('getCustomVendorConsents', 2, function (customVendorConsentData, nonIabSuccess) {
+                                            console.log(" getting custom vendor consent by command inside cb");
+                                            if (customVendorConsentData != null) {
+                                                for (var key in customVendorConsentData.grants) {
+                                                    var obj = customVendorConsentData.grants[key];
+                                                    if (key === chartbeatSpVendorInternalId) {
+                                                        if (obj.vendorGrant) {
+                                                            getChartBeatJS();
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        });
+
+                                        window.__tcfapi('removeEventListener', 2, function (success) {
+                                            if (success) {
+                                                //listener Removed
+                                            }
+                                        }, tcData.listenerId);
+
+                                    }
+                                });
+                            }
+                        }, tcData.listenerId);
+                    } else {
+                        window.__tcfapi('removeEventListener', 2, function (success) {
+                            console.log("CONTEXT HAS CONSENT OR GDPR IS NOT APPLICABLE");
+                            if (success) {
+                                getChartBeatJS();
+                            }
+                        }, tcData.listenerId);
+                    }
+
+                }
+            }
+        });
+</script>
+<!---ChartBeat -->
+
+<!---CrossPixel -->
+<script type="text/javascript"> try{(function(){ var cb = new Date().getTime();var s = document.createElement("script"); s.defer = true; s.src = "../../../tag.crsspxl.com/s10bec.js?d=16&amp;cb="+cb;var s0 = document.getElementsByTagName('script')[0]; s0.parentNode.insertBefore(s, s0);})();}catch(e){} </script>
+
+
+
+<!-- start Vibrant Media IntelliTXT script section -->
+<script type="text/javascript" src="https://notebookreview.us.intellitxt.com/intellitxt/front.asp?ipid=88252"></script>
+<!-- end Vibrant Media IntelliTXT script section -->
+
+
+</footer>
+
+<script>
+
+
+jQuery.extend(true, XenForo,
+{
+	visitor: { user_id: 685420 },
+	serverTimeInfo:
+	{
+		now: 1642966739,
+		today: 1642885200,
+		todayDow: 0
+	},
+	_lightBoxUniversal: "0",
+	_enableOverlays: "1",
+	_animationSpeedMultiplier: "1",
+	_overlayConfig:
+	{
+		top: "10%",
+		speed: 200,
+		closeSpeed: 100,
+		mask:
+		{
+			color: "rgb(255, 255, 255)",
+			opacity: "0.6",
+			loadSpeed: 200,
+			closeSpeed: 100
+		}
+	},
+	_ignoredUsers: {"208435":"p1n0yBaLLeR","273375":"GAMER360","307973":"AMnot_whatuTHINK","325107":"mogger","326069":"Cassandra_WinTeam","334887":"Matrix Leader7","350256":"AlienTroll","358125":"thedawnofnight22","380842":"Leopard2","382427":"rossmodel","388482":"Panther214","413231":"Abe84","418966":"newthinkpadfan","425486":"HandsomeBOB","486980":"Riri-Fifi","488882":"Fairdy67","489011":"Dreamer_785","490674":"Pitstop23","492417":"Bruce_99","492661":"Close_Encounters","494433":"V.Marrone","523305":"AndroidFan","557553":"CudaCores","574297":"itsjustme84"},
+	_loadedScripts: {"thread_view":true,"polls":true,"message":true,"bb_code":true,"message_user_info":true,"likes_summary":true,"attached_files":true,"quick_reply":true,"editor_ui":true,"attachment_editor":true,"share_page":true,"wf_default":true,"sidebar_share_page":true,"xengallery_tab_links":true,"js\/xenforo\/discussion.js?_v=14ed81ff":true,"js\/redactor\/redactor.js?_v=14ed81ff":true,"js\/xengallery\/min\/gallery_bb_code.js?_v=5ede8a70":true,"js\/xenforo\/bb_code_edit.js?_v=14ed81ff":true,"js\/xenforo\/attachment_editor.js?_v=14ed81ff":true},
+	_cookieConfig: { path: "/", domain: ".notebookreview.com", prefix: "xf_"},
+	_csrfToken: "685420,1642966739,3406e692d36fb8bcf48d3584733baafd68b9ce4d",
+	_csrfRefreshUrl: "login/csrf-token-refresh",
+	_jsVersion: "14ed81ff",
+	_noRtnProtect: false,
+	_noSocialLogin: false
+});
+jQuery.extend(XenForo.phrases,
+{
+	xengallery_lightbox_loading:	"Loading...",
+	xengallery_lightbox_close:	"Close (Esc)",
+	xengallery_lightbox_previous:	"Previous (Left arrow key)",
+	xengallery_lightbox_next:	"Next (Right arrow key)",
+	xengallery_lightbox_counter:	"%curr% of %total%",
+	xengallery_lightbox_error:	"The <a href=\"%url%\">media<\/a> could not be loaded.",
+	xengallery_touch_error:		"This operation will not work from a touch enabled device.",
+	cancel: "Cancel",
+
+	a_moment_ago:    "A moment ago",
+	one_minute_ago:  "1 minute ago",
+	x_minutes_ago:   "%minutes% minutes ago",
+	today_at_x:      "Today at %time%",
+	yesterday_at_x:  "Yesterday at %time%",
+	day_x_at_time_y: "%day% at %time%",
+
+	day0: "Sunday",
+	day1: "Monday",
+	day2: "Tuesday",
+	day3: "Wednesday",
+	day4: "Thursday",
+	day5: "Friday",
+	day6: "Saturday",
+
+	_months: "January,February,March,April,May,June,July,August,September,October,November,December",
+	_daysShort: "Sun,Mon,Tue,Wed,Thu,Fri,Sat",
+
+	following_error_occurred: "The following error occurred",
+	server_did_not_respond_in_time_try_again: "The server did not respond in time. Please try again.",
+	logging_in: "Logging in",
+	click_image_show_full_size_version: "Click this image to show the full-size version.",
+	show_hidden_content_by_x: "Show hidden content by {names}"
+});
+
+// Facebook Javascript SDK
+XenForo.Facebook.appId = "";
+XenForo.Facebook.forceInit = true;
+
+
+</script>
+
+
+</body>
+
+<!-- Mirrored from forum.notebookreview.com/threads/guide-improving-battery-life-on-windows-enabling-deeper-c-states.815602/page-4 by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 27 Jan 2022 15:23:50 GMT -->
+</html>

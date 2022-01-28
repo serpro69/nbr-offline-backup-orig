@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user capt.dogfish.</description>
+    <pubDate>Fri, 28 Jan 2022 00:00:42 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 00:00:42 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/capt-dogfish.129885/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/capt-dogfish.129885/index.rss"/>
+    <item>
+      <title>Krtt</title>
+      <pubDate>Wed, 12 Aug 2015 08:43:56 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/krtt.1006/</link>
+      <guid>http://forum.notebookreview.com/media/krtt.1006/</guid>
+      <author>invalid@example.com (capt.dogfish)</author>
+      <dc:creator>capt.dogfish</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/krtt.1006/">
+			<img src="http://forum.notebookreview.com/data/xengallery/98/98881-67e3cae41a377be3b26f0ba9bebcf4ba.jpg" alt="krtt.jpg" title="Krtt" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

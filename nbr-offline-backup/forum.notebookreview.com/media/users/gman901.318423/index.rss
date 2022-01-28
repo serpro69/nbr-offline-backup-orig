@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user gman901.</description>
+    <pubDate>Fri, 28 Jan 2022 03:08:41 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 03:08:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/gman901.318423/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/gman901.318423/index.rss"/>
+    <item>
+      <title>3DMark 11 Benchmarks Using EGPU 1080</title>
+      <pubDate>Wed, 18 Jul 2018 18:40:31 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/3dmark-11-benchmarks-using-egpu-1080.1919/</link>
+      <guid>http://forum.notebookreview.com/media/3dmark-11-benchmarks-using-egpu-1080.1919/</guid>
+      <author>invalid@example.com (gman901)</author>
+      <dc:creator>gman901</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/3dmark-11-benchmarks-using-egpu-1080.1919/">
+			<img src="http://forum.notebookreview.com/data/xengallery/133/133581-d7a994601869ad6742512c1863b3b434.jpg" alt="3DMark 11 Benchmarks using eGPU 1080.PNG" title="3DMark 11 Benchmarks Using EGPU 1080" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

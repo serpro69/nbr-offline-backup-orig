@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user madeen2.</description>
+    <pubDate>Thu, 27 Jan 2022 23:40:34 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 23:40:34 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/madeen2.652305/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/madeen2.652305/index.rss"/>
+    <item>
+      <title>Capture</title>
+      <pubDate>Sat, 14 Feb 2015 07:38:13 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/capture.608/</link>
+      <guid>http://forum.notebookreview.com/media/capture.608/</guid>
+      <author>invalid@example.com (madeen2)</author>
+      <dc:creator>madeen2</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/capture.608/">
+			<img src="http://forum.notebookreview.com/data/xengallery/93/93869-23cc958fff4f6dae79d04b33fd718acb.jpg" alt="Capture.PNG" title="Capture" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

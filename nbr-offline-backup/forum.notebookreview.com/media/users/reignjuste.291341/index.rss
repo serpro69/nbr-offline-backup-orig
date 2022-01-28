@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user reignjuste.</description>
+    <pubDate>Thu, 27 Jan 2022 22:35:02 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 22:35:02 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/reignjuste.291341/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/reignjuste.291341/index.rss"/>
+    <item>
+      <title>furmark_000000</title>
+      <pubDate>Sat, 23 Jan 2010 21:54:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/furmark_000000.142/</link>
+      <guid>http://forum.notebookreview.com/media/furmark_000000.142/</guid>
+      <author>invalid@example.com (reignjuste)</author>
+      <dc:creator>reignjuste</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/furmark_000000.142/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92807-b2be04c7db87c2aa4c343054ecdcabeb.jpg" alt="furmark_000000.jpg" title="furmark_000000" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>This photo was taken just after gpu z,furmark and hw monitor was closed to take the screenshot.
+I was running furemark without the above windows open and temperature was about 50 to 51.
+Then i opened the windows at the same window where furmark benchmark was taken and temperature raised from 51 to 55 to 56.
+Alwas using xtreme burning mode.
+LOL</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>2</slash:comments>
+    </item>
+  </channel>
+</rss>

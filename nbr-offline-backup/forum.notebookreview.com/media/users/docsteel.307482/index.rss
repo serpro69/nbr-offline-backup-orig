@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Docsteel.</description>
+    <pubDate>Wed, 26 Jan 2022 00:48:14 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 00:48:14 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/docsteel.307482/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/docsteel.307482/index.rss"/>
+    <item>
+      <title>3dmark - TimeSpy Extreme Stress Test @ 5.1Ghz</title>
+      <pubDate>Thu, 09 Apr 2020 01:06:48 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/3dmark-timespy-extreme-stress-test-5-1ghz.2258/</link>
+      <guid>http://forum.notebookreview.com/media/3dmark-timespy-extreme-stress-test-5-1ghz.2258/</guid>
+      <author>invalid@example.com (Docsteel)</author>
+      <dc:creator>Docsteel</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/3dmark-timespy-extreme-stress-test-5-1ghz.2258/">
+			<img src="http://forum.notebookreview.com/data/xengallery/156/156349-08128b60a3b76fba90be6cc0bf9deea7.jpg" alt="3dmark - TimeSpy Extreme Stress Test @ 5.1Ghz.jpg" title="3dmark - TimeSpy Extreme Stress Test @ 5.1Ghz" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

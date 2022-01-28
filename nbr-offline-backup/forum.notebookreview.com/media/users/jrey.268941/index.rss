@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user JRey.</description>
+    <pubDate>Wed, 26 Jan 2022 23:47:45 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 23:47:45 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/jrey.268941/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/jrey.268941/index.rss"/>
+    <item>
+      <title>DPC Latency</title>
+      <pubDate>Thu, 02 Feb 2017 14:23:42 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dpc-latency.1563/</link>
+      <guid>http://forum.notebookreview.com/media/dpc-latency.1563/</guid>
+      <author>invalid@example.com (JRey)</author>
+      <dc:creator>JRey</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dpc-latency.1563/">
+			<img src="http://forum.notebookreview.com/data/xengallery/114/114406-33b2c35e3985e37a26fef75239e251ca.jpg" alt="DPC latency.PNG" title="DPC Latency" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>TDP</title>
+      <pubDate>Sun, 22 Feb 2015 21:57:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tdp.686/</link>
+      <guid>http://forum.notebookreview.com/media/tdp.686/</guid>
+      <author>invalid@example.com (JRey)</author>
+      <dc:creator>JRey</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tdp.686/">
+			<img src="http://forum.notebookreview.com/data/xengallery/94/94241-ca9f2715dee7b66e656ee7548434e01c.jpg" alt="TDP.png" title="TDP" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

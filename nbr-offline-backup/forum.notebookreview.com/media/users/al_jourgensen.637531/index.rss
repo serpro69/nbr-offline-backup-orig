@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Al_Jourgensen.</description>
+    <pubDate>Fri, 28 Jan 2022 08:57:04 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 08:57:04 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/al_jourgensen.637531/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/al_jourgensen.637531/index.rss"/>
+    <item>
+      <title>1</title>
+      <pubDate>Fri, 05 May 2017 19:57:34 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/1.1642/</link>
+      <guid>http://forum.notebookreview.com/media/1.1642/</guid>
+      <author>invalid@example.com (Al_Jourgensen)</author>
+      <dc:creator>Al_Jourgensen</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/1.1642/">
+			<img src="http://forum.notebookreview.com/data/xengallery/117/117412-39a3519e72728da00d0ee9ed8105f291.jpg" alt="1.png" title="1" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Thunderbolt properties</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

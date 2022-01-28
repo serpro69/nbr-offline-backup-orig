@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media in album Asus GL553VE</description>
+    <pubDate>Wed, 26 Jan 2022 02:15:30 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 02:15:30 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/albums/asus-gl553ve.270/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/albums/asus-gl553ve.270/index.rss"/>
+    <item>
+      <title>Touchpad Issue</title>
+      <pubDate>Sun, 26 Mar 2017 10:38:39 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/touchpad-issue.1604/</link>
+      <guid>http://forum.notebookreview.com/media/touchpad-issue.1604/</guid>
+      <author>invalid@example.com (downloads)</author>
+      <dc:creator>downloads</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/touchpad-issue.1604/">
+			<img src="http://forum.notebookreview.com/data/xengallery/116/116062-99ce0520406bf8ff19f629db0c3f1678.jpg" alt="Touchpad issue.jpg" title="Touchpad Issue" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Touchpad OK</title>
+      <pubDate>Sun, 26 Mar 2017 10:38:39 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/touchpad-ok.1603/</link>
+      <guid>http://forum.notebookreview.com/media/touchpad-ok.1603/</guid>
+      <author>invalid@example.com (downloads)</author>
+      <dc:creator>downloads</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/touchpad-ok.1603/">
+			<img src="http://forum.notebookreview.com/data/xengallery/116/116061-bf5ac5894861aa5966f0a1d902de2f1f.jpg" alt="Touchpad OK.jpg" title="Touchpad OK" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

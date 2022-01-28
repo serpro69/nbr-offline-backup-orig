@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Txordi.</description>
+    <pubDate>Thu, 27 Jan 2022 17:15:53 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 17:15:53 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/txordi.646812/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/txordi.646812/index.rss"/>
+    <item>
+      <title>Log-980m</title>
+      <pubDate>Fri, 30 Jan 2015 01:58:05 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/log-980m.427/</link>
+      <guid>http://forum.notebookreview.com/media/log-980m.427/</guid>
+      <author>invalid@example.com (Txordi)</author>
+      <dc:creator>Txordi</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/log-980m.427/">
+			<img src="http://forum.notebookreview.com/data/xengallery/93/93145-159dcf2c9bbbbc8752e971641acc95dd.jpg" alt="log-980m.png" title="Log-980m" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Screenshot MSI Afterburner</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

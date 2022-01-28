@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user awsan.</description>
+    <pubDate>Thu, 27 Jan 2022 18:57:11 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 18:57:11 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/awsan.498825/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/awsan.498825/index.rss"/>
+    <item>
+      <title>Superposition_Benchmark_v1.1_5090_1564566107</title>
+      <pubDate>Wed, 31 Jul 2019 21:27:19 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/superposition_benchmark_v1-1_5090_1564566107.2150/</link>
+      <guid>http://forum.notebookreview.com/media/superposition_benchmark_v1-1_5090_1564566107.2150/</guid>
+      <author>invalid@example.com (awsan)</author>
+      <dc:creator>awsan</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/superposition_benchmark_v1-1_5090_1564566107.2150/">
+			<img src="http://forum.notebookreview.com/data/xengallery/149/149487-44a7655c1c1b1fad693157f98e04068e.jpg" alt="Superposition_Benchmark_v1.1_5090_1564566107.png" title="Superposition_Benchmark_v1.1_5090_1564566107" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

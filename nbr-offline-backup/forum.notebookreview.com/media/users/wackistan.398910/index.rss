@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Wackistan.</description>
+    <pubDate>Thu, 27 Jan 2022 17:27:52 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 17:27:52 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/wackistan.398910/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/wackistan.398910/index.rss"/>
+    <item>
+      <title>Gpu</title>
+      <pubDate>Sat, 19 May 2018 17:28:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/gpu.1887/</link>
+      <guid>http://forum.notebookreview.com/media/gpu.1887/</guid>
+      <author>invalid@example.com (Wackistan)</author>
+      <dc:creator>Wackistan</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/gpu.1887/">
+			<img src="http://forum.notebookreview.com/data/xengallery/131/131509-3bafba6977d14cc06817bb1260a737cf.jpg" alt="gpu.PNG" title="Gpu" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Cpu</title>
+      <pubDate>Sat, 19 May 2018 17:28:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cpu.1886/</link>
+      <guid>http://forum.notebookreview.com/media/cpu.1886/</guid>
+      <author>invalid@example.com (Wackistan)</author>
+      <dc:creator>Wackistan</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cpu.1886/">
+			<img src="http://forum.notebookreview.com/data/xengallery/131/131508-9492b86e84a4ff094458b5a5a903ecff.jpg" alt="cpu.PNG" title="Cpu" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

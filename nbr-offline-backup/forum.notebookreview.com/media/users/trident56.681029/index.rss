@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Trident56.</description>
+    <pubDate>Thu, 27 Jan 2022 20:52:39 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 20:52:39 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/trident56.681029/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/trident56.681029/index.rss"/>
+    <item>
+      <title>Untitled</title>
+      <pubDate>Thu, 08 Dec 2016 18:31:44 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/untitled.1523/</link>
+      <guid>http://forum.notebookreview.com/media/untitled.1523/</guid>
+      <author>invalid@example.com (Trident56)</author>
+      <dc:creator>Trident56</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/untitled.1523/">
+			<img src="http://forum.notebookreview.com/data/xengallery/113/113076-88738ba9e1049a4f81e6fc3536fd9521.jpg" alt="Untitled.png" title="Untitled" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Untitled</title>
+      <pubDate>Thu, 08 Dec 2016 18:27:46 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/untitled.1522/</link>
+      <guid>http://forum.notebookreview.com/media/untitled.1522/</guid>
+      <author>invalid@example.com (Trident56)</author>
+      <dc:creator>Trident56</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/untitled.1522/">
+			<img src="http://forum.notebookreview.com/data/xengallery/113/113075-88738ba9e1049a4f81e6fc3536fd9521.jpg" alt="Untitled.png" title="Untitled" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

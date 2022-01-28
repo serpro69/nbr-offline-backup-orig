@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user semblance.</description>
+    <pubDate>Thu, 27 Jan 2022 21:57:59 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 21:57:59 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/semblance.296799/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/semblance.296799/index.rss"/>
+    <item>
+      <title>90W Adapter for the 1645</title>
+      <pubDate>Wed, 10 Feb 2010 21:34:47 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/90w-adapter-for-the-1645.236/</link>
+      <guid>http://forum.notebookreview.com/media/90w-adapter-for-the-1645.236/</guid>
+      <author>invalid@example.com (semblance)</author>
+      <dc:creator>semblance</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/90w-adapter-for-the-1645.236/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92901-c72dd19329f6380a8dbda8768e8b4cff.jpg" alt="90w.jpg" title="90W Adapter for the 1645" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>130W Adapter for the 1645</title>
+      <pubDate>Tue, 16 Feb 2010 22:50:38 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/130w-adapter-for-the-1645.235/</link>
+      <guid>http://forum.notebookreview.com/media/130w-adapter-for-the-1645.235/</guid>
+      <author>invalid@example.com (semblance)</author>
+      <dc:creator>semblance</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/130w-adapter-for-the-1645.235/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92900-7b2fdca3a3ac089069bd291c0e7b5405.jpg" alt="130w.jpg" title="130W Adapter for the 1645" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

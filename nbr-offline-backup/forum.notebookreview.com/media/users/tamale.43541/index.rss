@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Tamale.</description>
+    <pubDate>Fri, 28 Jan 2022 01:50:31 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 01:50:31 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/tamale.43541/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/tamale.43541/index.rss"/>
+    <item>
+      <title>hp-spectre-late-2016-nvme-ssd</title>
+      <pubDate>Tue, 06 Dec 2016 17:41:58 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/hp-spectre-late-2016-nvme-ssd.1521/</link>
+      <guid>http://forum.notebookreview.com/media/hp-spectre-late-2016-nvme-ssd.1521/</guid>
+      <author>invalid@example.com (Tamale)</author>
+      <dc:creator>Tamale</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/hp-spectre-late-2016-nvme-ssd.1521/">
+			<img src="http://forum.notebookreview.com/data/xengallery/113/113028-067dd95ab99e418b9c55b54368231520.jpg" alt="2016-11-27.png" title="hp-spectre-late-2016-nvme-ssd" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>good stock ssd performance from newest hp spectre late 2016</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

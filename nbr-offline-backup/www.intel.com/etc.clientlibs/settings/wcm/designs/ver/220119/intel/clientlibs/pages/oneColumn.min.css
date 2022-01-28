@@ -1,0 +1,45 @@
+.rwd .atom-background-video-figure{display:none;height:100%;position:absolute;top:0;width:100%}
+@media(min-width:768px){.rwd .atom-background-video-figure{display:block}
+}
+.rwd .atom-background-video-figure .atomVideo{position:absolute;top:0}
+.rwd .atom-background-video-figure video{object-fit:cover;object-position:center center}
+.rwd .atom-background-video-figure video-js{height:100%;padding:0}
+.rwd .atom-background-video-figure video-js .vjs-poster{background-size:cover}
+.rwd .atom-background-video-figure video-js .vjs-control-bar{z-index:400}
+.rwd .atom-background-video-figure video-js .vjs-big-play-button{z-index:0}
+.rwd .background-overlay{background-color:#000;height:100%;left:0;opacity:.65;position:absolute;top:0;width:100%;z-index:1}
+@media(max-width:767px){.rwd .background-overlay.no-background-image{display:none}
+}
+.rwd .background-overlay:hover+.atom-background-video-figure video-js .vjs-control-bar{opacity:1;pointer-events:auto}
+.rwd .one-column{position:relative}
+.rwd .one-column .container-fluid{position:relative;z-index:1}
+.rwd .marquee-mosaic{text-align:center;padding:1.5rem 0 2rem}
+.rwd .marquee-mosaic .ws-a-title h1,.rwd .marquee-mosaic .ws-a-title .h1,.rwd .marquee-mosaic .ws-a-title h2,.rwd .marquee-mosaic .ws-a-title .h2,.rwd .marquee-mosaic .ws-a-title h3,.rwd .marquee-mosaic .ws-a-title .h3,.rwd .marquee-mosaic .ws-a-title h4,.rwd .marquee-mosaic .ws-a-title .h4,.rwd .marquee-mosaic .ws-a-title h5,.rwd .marquee-mosaic .ws-a-title .h5{margin-bottom:0}
+.rwd .marquee-mosaic .atomText p{margin:.5rem 0 0 0}
+.rwd .marquee-mosaic .scrollable-linklist{margin-top:1.5rem}
+.rwd .marquee-mosaic .list-atomCta{margin-bottom:0;display:flex;width:100%;max-width:100%;flex-wrap:nowrap;overflow-x:auto;padding:0}
+.rwd .marquee-mosaic .list-atomCta .atomCta{display:inline-block;padding:.5rem;border-top:1px solid rgba(255,255,255,0.2);border-bottom:1px solid rgba(255,255,255,0.2)}
+.rwd .marquee-mosaic .list-atomCta .atomCta a{white-space:nowrap}
+.rwd .marquee-mosaic .list-atomCta .atomCta a:hover{color:rgba(225,225,225,0.8)}
+.rwd .marquee-mosaic .list-atomCta:before,.rwd .marquee-mosaic .list-atomCta:after{content:'';margin:auto}
+.rwd .marquee-mosaic .marquee-info{margin-top:.5rem}
+.rwd .marquee-mosaic .marquee-info .marquee-info2{margin-left:2rem}
+@media screen and (max-width:767px){.rwd .marquee-mosaic .marquee-info .marquee-info2{margin-left:0;display:block}
+.rwd .marquee-mosaic .scrollable-linklist{margin-left:-1rem;margin-right:-1rem}
+.rwd .marquee-mosaic .list-atomCta .atomCta:first-child{margin-left:1rem}
+}
+@media screen and (min-width:768px){.rwd .marquee-mosaic{padding:2.5rem 0}
+}
+.rwd .one-column.half-fill .container-fluid{padding:80px 15px;text-align:center;width:100%}
+@media screen and (min-width:768px){.rwd .one-column.half-fill .container-fluid{padding:80px 0;width:50%}
+}
+.rwd .one-column.half-fill .container-fluid>.atomTitle:first-child{margin-top:-7px}
+@media screen and (min-width:768px){.rwd .one-column.half-fill .container-fluid>.atomTitle:first-child{margin-top:-11px}
+}
+.rwd .one-column.half-fill .container-fluid .onecolumn.parsys>div:first-child{padding-bottom:32px}
+.rwd .one-column.half-fill .container-fluid .onecolumn.parsys>div:first-child:not(.atomText){padding-top:7px}
+@media screen and (min-width:768px){.rwd .one-column.half-fill .container-fluid .onecolumn.parsys>div:first-child{padding-bottom:40px}
+.rwd .one-column.half-fill .container-fluid .onecolumn.parsys>div:first-child:not(.atomText){padding-top:11px}
+}
+.rwd .one-column.half-fill .container-fluid .onecolumn.parsys .atomText p{margin-bottom:0}
+.rwd .one-column.half-fill .container-fluid .image-comparison-wrapper{margin:0 auto}

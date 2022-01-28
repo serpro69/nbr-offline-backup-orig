@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Delgada89.</description>
+    <pubDate>Fri, 28 Jan 2022 10:46:52 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 10:46:52 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/delgada89.611549/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/delgada89.611549/index.rss"/>
+    <item>
+      <title>30e905ec20</title>
+      <pubDate>Wed, 15 Nov 2017 19:21:00 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/30e905ec20.1764/</link>
+      <guid>http://forum.notebookreview.com/media/30e905ec20.1764/</guid>
+      <author>invalid@example.com (Delgada89)</author>
+      <dc:creator>Delgada89</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/30e905ec20.1764/">
+			<img src="http://forum.notebookreview.com/data/xengallery/124/124185-5caff291a325462fed74dc971421bca4.jpg" alt="30e905ec20.png" title="30e905ec20" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

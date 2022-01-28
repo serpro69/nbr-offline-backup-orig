@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user PDUB72.</description>
+    <pubDate>Wed, 26 Jan 2022 02:06:32 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 02:06:32 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/pdub72.723679/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/pdub72.723679/index.rss"/>
+    <item>
+      <title>Tech Support</title>
+      <pubDate>Mon, 22 Jun 2020 19:27:15 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tech-support.2279/</link>
+      <guid>http://forum.notebookreview.com/media/tech-support.2279/</guid>
+      <author>invalid@example.com (PDUB72)</author>
+      <dc:creator>PDUB72</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tech-support.2279/">
+			<img src="http://forum.notebookreview.com/data/xengallery/158/158517-b361ca0fc0f52e6621a81f1f119ff9b2.jpg" alt="Tech Support.JPG" title="Tech Support" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user hoofhearted.</description>
+    <pubDate>Fri, 28 Jan 2022 01:06:41 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 01:06:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/hoofhearted.52318/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/hoofhearted.52318/index.rss"/>
+    <item>
+      <title>2-failed</title>
+      <pubDate>Wed, 30 Nov 2016 14:40:57 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/2-failed.1499/</link>
+      <guid>http://forum.notebookreview.com/media/2-failed.1499/</guid>
+      <author>invalid@example.com (hoofhearted)</author>
+      <dc:creator>hoofhearted</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/2-failed.1499/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112847-d7d5073e96100d5cb0b9f398e67cf3bd.jpg" alt="2-failed.jpg" title="2-failed" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>1-web</title>
+      <pubDate>Wed, 30 Nov 2016 14:40:57 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/1-web.1498/</link>
+      <guid>http://forum.notebookreview.com/media/1-web.1498/</guid>
+      <author>invalid@example.com (hoofhearted)</author>
+      <dc:creator>hoofhearted</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/1-web.1498/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112846-0df9c907ee32655b8c4535dff41ae8f9.jpg" alt="1-web.jpg" title="1-web" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

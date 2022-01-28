@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user SamuelL421.</description>
+    <pubDate>Thu, 27 Jan 2022 06:50:42 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 06:50:42 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/samuell421.700190/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/samuell421.700190/index.rss"/>
+    <item>
+      <title>NH58AF1 - 1.07.04 BIOS - AMD-V support</title>
+      <pubDate>Mon, 18 May 2020 18:42:04 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/nh58af1-1-07-04-bios-amd-v-support.2262/</link>
+      <guid>http://forum.notebookreview.com/media/nh58af1-1-07-04-bios-amd-v-support.2262/</guid>
+      <author>invalid@example.com (SamuelL421)</author>
+      <dc:creator>SamuelL421</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/nh58af1-1-07-04-bios-amd-v-support.2262/">
+			<img src="http://forum.notebookreview.com/data/xengallery/157/157497-332a5e683483df3a9eeef4bda39908b7.jpg" alt="NH58AF1-latest.PNG" title="NH58AF1 - 1.07.04 BIOS - AMD-V support" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user mitchega.</description>
+    <pubDate>Fri, 28 Jan 2022 03:50:10 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 03:50:10 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/mitchega.635598/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/mitchega.635598/index.rss"/>
+    <item>
+      <title>EVGA - 2080TI</title>
+      <pubDate>Sat, 03 Nov 2018 00:43:11 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/evga-2080ti.1977/</link>
+      <guid>http://forum.notebookreview.com/media/evga-2080ti.1977/</guid>
+      <author>invalid@example.com (mitchega)</author>
+      <dc:creator>mitchega</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/evga-2080ti.1977/">
+			<img src="http://forum.notebookreview.com/data/xengallery/138/138045-6e7cfadd13d89cb0d9acf1d6ccd82dc2.jpg" alt="IMG_0055.jpg" title="EVGA - 2080TI" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

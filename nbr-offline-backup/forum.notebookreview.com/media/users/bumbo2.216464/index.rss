@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user bumbo2.</description>
+    <pubDate>Thu, 27 Jan 2022 11:24:41 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 11:24:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/bumbo2.216464/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/bumbo2.216464/index.rss"/>
+    <item>
+      <title>gallery_firebird_1280x1024_10</title>
+      <pubDate>Sun, 04 Oct 2009 14:24:00 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/gallery_firebird_1280x1024_10.72/</link>
+      <guid>http://forum.notebookreview.com/media/gallery_firebird_1280x1024_10.72/</guid>
+      <author>invalid@example.com (bumbo2)</author>
+      <dc:creator>bumbo2</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/gallery_firebird_1280x1024_10.72/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92737-f3af6faf6d58e6009b2b090b75db1265.jpg" alt="gallery_firebird_1280x1024_10.jpg" title="gallery_firebird_1280x1024_10" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

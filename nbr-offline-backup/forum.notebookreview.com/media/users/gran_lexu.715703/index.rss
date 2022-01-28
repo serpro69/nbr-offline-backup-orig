@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user gran_lexu.</description>
+    <pubDate>Fri, 28 Jan 2022 02:58:39 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 02:58:39 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/gran_lexu.715703/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/gran_lexu.715703/index.rss"/>
+    <item>
+      <title>Captura</title>
+      <pubDate>Sat, 30 Mar 2019 19:08:23 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/captura.2078/</link>
+      <guid>http://forum.notebookreview.com/media/captura.2078/</guid>
+      <author>invalid@example.com (gran_lexu)</author>
+      <dc:creator>gran_lexu</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/captura.2078/">
+			<img src="http://forum.notebookreview.com/data/xengallery/144/144568-486d2a6eb4f6f4e9219a4d8e02d578ab.jpg" alt="Captura.PNG" title="Captura" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

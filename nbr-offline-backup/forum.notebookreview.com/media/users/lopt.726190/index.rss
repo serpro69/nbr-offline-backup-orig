@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Lopt.</description>
+    <pubDate>Thu, 27 Jan 2022 13:44:42 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 13:44:42 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/lopt.726190/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/lopt.726190/index.rss"/>
+    <item>
+      <title>Cinebenchr20_1162020</title>
+      <pubDate>Thu, 16 Jan 2020 19:28:44 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cinebenchr20_1162020.2227/</link>
+      <guid>http://forum.notebookreview.com/media/cinebenchr20_1162020.2227/</guid>
+      <author>invalid@example.com (Lopt)</author>
+      <dc:creator>Lopt</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cinebenchr20_1162020.2227/">
+			<img src="http://forum.notebookreview.com/data/xengallery/154/154053-79a4eb38a2f5de3655fbcd94cb540006.jpg" alt="Cinebenchr20_1162020.JPG" title="Cinebenchr20_1162020" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

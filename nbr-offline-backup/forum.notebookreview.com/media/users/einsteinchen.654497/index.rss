@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user einsteinchen.</description>
+    <pubDate>Thu, 27 Jan 2022 12:17:49 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 12:17:49 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/einsteinchen.654497/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/einsteinchen.654497/index.rss"/>
+    <item>
+      <title>Dell 9550 VRM_02</title>
+      <pubDate>Fri, 09 Sep 2016 12:42:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dell-9550-vrm_02.1434/</link>
+      <guid>http://forum.notebookreview.com/media/dell-9550-vrm_02.1434/</guid>
+      <author>invalid@example.com (einsteinchen)</author>
+      <dc:creator>einsteinchen</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dell-9550-vrm_02.1434/">
+			<img src="http://forum.notebookreview.com/data/xengallery/110/110841-9210a4f6adc89d3f8f9b1cb526a12896.jpg" alt="Dell 9550 VRM_02 - Kopie.jpg" title="Dell 9550 VRM_02" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

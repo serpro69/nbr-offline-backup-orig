@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user debianik.</description>
+    <pubDate>Wed, 26 Jan 2022 00:48:55 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 00:48:55 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/debianik.484387/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/debianik.484387/index.rss"/>
+    <item>
+      <title>1070 Test</title>
+      <pubDate>Fri, 04 Jan 2019 15:42:38 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/1070-test.2000/</link>
+      <guid>http://forum.notebookreview.com/media/1070-test.2000/</guid>
+      <author>invalid@example.com (debianik)</author>
+      <dc:creator>debianik</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/1070-test.2000/">
+			<img src="http://forum.notebookreview.com/data/xengallery/140/140275-3824763d6b958f1f1a7a655b2e64b330.jpg" alt="1070 test.jpg" title="1070 Test" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

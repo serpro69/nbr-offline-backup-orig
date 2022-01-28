@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user TurbodTalon.</description>
+    <pubDate>Fri, 28 Jan 2022 05:00:13 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 05:00:13 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/turbodtalon.70554/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/turbodtalon.70554/index.rss"/>
+    <item>
+      <title>GPU OC Capture</title>
+      <pubDate>Sun, 29 Jul 2018 21:21:12 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/gpu-oc-capture.1925/</link>
+      <guid>http://forum.notebookreview.com/media/gpu-oc-capture.1925/</guid>
+      <author>invalid@example.com (TurbodTalon)</author>
+      <dc:creator>TurbodTalon</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/gpu-oc-capture.1925/">
+			<img src="http://forum.notebookreview.com/data/xengallery/134/134242-2ff1b45b39fc0e881bb13a668dee7fa0.jpg" alt="GPU OC Capture.jpg" title="GPU OC Capture" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

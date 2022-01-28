@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user macdaddy8000.</description>
+    <pubDate>Thu, 27 Jan 2022 22:43:09 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 22:43:09 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/macdaddy8000.497090/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/macdaddy8000.497090/index.rss"/>
+    <item>
+      <title>Image</title>
+      <pubDate>Mon, 27 Apr 2015 19:00:32 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/image.846/</link>
+      <guid>http://forum.notebookreview.com/media/image.846/</guid>
+      <author>invalid@example.com (macdaddy8000)</author>
+      <dc:creator>macdaddy8000</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/image.846/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96155-12cf82324c781194843849400bd5eceb.jpg" alt="image.jpg" title="Image" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>M17X r3</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Image</title>
+      <pubDate>Mon, 27 Apr 2015 19:00:32 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/image.845/</link>
+      <guid>http://forum.notebookreview.com/media/image.845/</guid>
+      <author>invalid@example.com (macdaddy8000)</author>
+      <dc:creator>macdaddy8000</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/image.845/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96154-0ba226bec3fe719861d94e7ac714a7b5.jpg" alt="image.jpg" title="Image" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>M17X r3</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

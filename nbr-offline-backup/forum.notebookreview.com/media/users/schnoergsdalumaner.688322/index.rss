@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user schnoergsdalumaner.</description>
+    <pubDate>Fri, 28 Jan 2022 03:01:31 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 03:01:31 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/schnoergsdalumaner.688322/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/schnoergsdalumaner.688322/index.rss"/>
+    <item>
+      <title>1  diy watercooling</title>
+      <pubDate>Sun, 23 Sep 2018 01:31:50 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/1-diy-watercooling.1952/</link>
+      <guid>http://forum.notebookreview.com/media/1-diy-watercooling.1952/</guid>
+      <author>invalid@example.com (schnoergsdalumaner)</author>
+      <dc:creator>schnoergsdalumaner</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/1-diy-watercooling.1952/">
+			<img src="http://forum.notebookreview.com/data/xengallery/136/136453-0bff7d4fdb4e56444078018bc212996f.jpg" alt="IMG_20180903_230925_2.jpg" title="1  diy watercooling" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>watercooling loop for gtx 980m in a sager NP9170/clevo P170em</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>2  diy watercooling</title>
+      <pubDate>Sun, 23 Sep 2018 01:31:50 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/2-diy-watercooling.1951/</link>
+      <guid>http://forum.notebookreview.com/media/2-diy-watercooling.1951/</guid>
+      <author>invalid@example.com (schnoergsdalumaner)</author>
+      <dc:creator>schnoergsdalumaner</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/2-diy-watercooling.1951/">
+			<img src="http://forum.notebookreview.com/data/xengallery/136/136452-2f986cf73f6b1f05ebdfd71bf9bb6dc1.jpg" alt="IMG_20180903_230910.jpg" title="2  diy watercooling" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>modded heatsink to watercooling  gtx980m in a sager NP9170/clevo P170em</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

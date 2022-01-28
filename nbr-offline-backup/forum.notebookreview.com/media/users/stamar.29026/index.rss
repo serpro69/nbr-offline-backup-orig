@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user stamar.</description>
+    <pubDate>Fri, 28 Jan 2022 03:11:17 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 03:11:17 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/stamar.29026/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/stamar.29026/index.rss"/>
+    <item>
+      <title>Screenshot_2016-02-12-08-23-00</title>
+      <pubDate>Fri, 12 Feb 2016 16:26:22 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screenshot_2016-02-12-08-23-00.1244/</link>
+      <guid>http://forum.notebookreview.com/media/screenshot_2016-02-12-08-23-00.1244/</guid>
+      <author>invalid@example.com (stamar)</author>
+      <dc:creator>stamar</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screenshot_2016-02-12-08-23-00.1244/">
+			<img src="http://forum.notebookreview.com/data/xengallery/104/104050-5c22f77f6b32a1fc30d0deffbd9038c4.jpg" alt="Screenshot_2016-02-12-08-23-00.png" title="Screenshot_2016-02-12-08-23-00" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

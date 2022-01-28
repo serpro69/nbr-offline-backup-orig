@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user MSGaldenzi.</description>
+    <pubDate>Thu, 27 Jan 2022 22:17:55 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 22:17:55 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/msgaldenzi.385668/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/msgaldenzi.385668/index.rss"/>
+    <item>
+      <title>R6S Gpu</title>
+      <pubDate>Sat, 31 Dec 2016 22:07:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/r6s-gpu.1542/</link>
+      <guid>http://forum.notebookreview.com/media/r6s-gpu.1542/</guid>
+      <author>invalid@example.com (MSGaldenzi)</author>
+      <dc:creator>MSGaldenzi</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/r6s-gpu.1542/">
+			<img src="http://forum.notebookreview.com/data/xengallery/113/113587-7ea18e6144bf5619819ee129d53e00e4.jpg" alt="R6S Gpu.PNG" title="R6S Gpu" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>AW 17 R4 GPU after R6S</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>R6S Temps</title>
+      <pubDate>Sat, 31 Dec 2016 22:06:55 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/r6s-temps.1541/</link>
+      <guid>http://forum.notebookreview.com/media/r6s-temps.1541/</guid>
+      <author>invalid@example.com (MSGaldenzi)</author>
+      <dc:creator>MSGaldenzi</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/r6s-temps.1541/">
+			<img src="http://forum.notebookreview.com/data/xengallery/113/113586-d4630c3eb7c92a03d463fe2a93846b5c.jpg" alt="R6S Temps.PNG" title="R6S Temps" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>AW 17 R4 Temps after Rainbow Six Siege</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

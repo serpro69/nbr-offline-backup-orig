@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user thegh0sts.</description>
+    <pubDate>Fri, 28 Jan 2022 02:54:18 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 02:54:18 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/thegh0sts.395361/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/thegh0sts.395361/index.rss"/>
+    <item>
+      <title>Drives</title>
+      <pubDate>Mon, 03 Dec 2018 04:33:16 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/drives.1990/</link>
+      <guid>http://forum.notebookreview.com/media/drives.1990/</guid>
+      <author>invalid@example.com (thegh0sts)</author>
+      <dc:creator>thegh0sts</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/drives.1990/">
+			<img src="http://forum.notebookreview.com/data/xengallery/139/139062-5d8d353e3651fc91d2818ec413ea63e7.jpg" alt="drives.jpg" title="Drives" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user hawk1410.</description>
+    <pubDate>Fri, 28 Jan 2022 02:26:46 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 02:26:46 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/hawk1410.404688/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/hawk1410.404688/index.rss"/>
+    <item>
+      <title>-40359965928799030</title>
+      <pubDate>Sun, 12 Dec 2021 09:51:31 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/40359965928799030.2420/</link>
+      <guid>http://forum.notebookreview.com/media/40359965928799030.2420/</guid>
+      <author>invalid@example.com (hawk1410)</author>
+      <dc:creator>hawk1410</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/40359965928799030.2420/">
+			<img src="http://forum.notebookreview.com/data/xengallery/170/170513-14d23848bf7beb6145c61c57ca99b654.jpg" alt="-40359965928799030.jpg" title="-40359965928799030" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Swollen AW m15 R1 battery</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

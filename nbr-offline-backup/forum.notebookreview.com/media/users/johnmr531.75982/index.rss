@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user johnmr531.</description>
+    <pubDate>Fri, 28 Jan 2022 00:50:53 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 00:50:53 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/johnmr531.75982/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/johnmr531.75982/index.rss"/>
+    <item>
+      <title>AcpiError</title>
+      <pubDate>Sat, 06 Mar 2021 18:50:13 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/acpierror.2362/</link>
+      <guid>http://forum.notebookreview.com/media/acpierror.2362/</guid>
+      <author>invalid@example.com (johnmr531)</author>
+      <dc:creator>johnmr531</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/acpierror.2362/">
+			<img src="http://forum.notebookreview.com/data/xengallery/164/164435-1cb0244d453c1dc554e8860c16d77183.jpg" alt="acpiError.jpg" title="AcpiError" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

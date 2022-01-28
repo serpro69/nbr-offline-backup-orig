@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user MarcusC.</description>
+    <pubDate>Fri, 28 Jan 2022 05:46:07 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 05:46:07 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/marcusc.664115/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/marcusc.664115/index.rss"/>
+    <item>
+      <title>TPL</title>
+      <pubDate>Fri, 07 Aug 2015 16:10:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tpl.1003/</link>
+      <guid>http://forum.notebookreview.com/media/tpl.1003/</guid>
+      <author>invalid@example.com (MarcusC)</author>
+      <dc:creator>MarcusC</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tpl.1003/">
+			<img src="http://forum.notebookreview.com/data/xengallery/98/98761-36d4290f5128e9058c390f27d0eb4801.jpg" alt="TPL.JPG" title="TPL" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>throttlestop 8.0 Turbo Power Limits to solve Power and TDP throttling i7 Haswell easy way</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>FIVR</title>
+      <pubDate>Fri, 07 Aug 2015 16:10:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/fivr.1002/</link>
+      <guid>http://forum.notebookreview.com/media/fivr.1002/</guid>
+      <author>invalid@example.com (MarcusC)</author>
+      <dc:creator>MarcusC</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/fivr.1002/">
+			<img src="http://forum.notebookreview.com/data/xengallery/98/98760-cd9c00170a08f32b22c251946fed5c68.jpg" alt="FIVR.JPG" title="FIVR" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>throttlestop 8.0 Turbo FIVR Control to solve Power and TDP throttling i7 Haswell easy way</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>GPU Throttling Just 50Grad, CPU Near Fullspeed, Just 82Grad</title>
+      <pubDate>Fri, 07 Aug 2015 15:13:55 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/gpu-throttling-just-50grad-cpu-near-fullspeed-just-82grad.1000/</link>
+      <guid>http://forum.notebookreview.com/media/gpu-throttling-just-50grad-cpu-near-fullspeed-just-82grad.1000/</guid>
+      <author>invalid@example.com (MarcusC)</author>
+      <dc:creator>MarcusC</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/gpu-throttling-just-50grad-cpu-near-fullspeed-just-82grad.1000/">
+			<img src="http://forum.notebookreview.com/data/xengallery/98/98748-5f8bc47b8e90ac31f2047e8fb12d17cf.jpg" alt="GPU throttling just 50Grad, CPU near Fullspeed, just 82Grad.JPG" title="GPU Throttling Just 50Grad, CPU Near Fullspeed, Just 82Grad" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

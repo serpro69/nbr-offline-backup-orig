@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user TenGauge.</description>
+    <pubDate>Fri, 28 Jan 2022 11:05:04 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 11:05:04 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/tengauge.693717/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/tengauge.693717/index.rss"/>
+    <item>
+      <title>Capture</title>
+      <pubDate>Thu, 14 Sep 2017 00:45:31 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/capture.1720/</link>
+      <guid>http://forum.notebookreview.com/media/capture.1720/</guid>
+      <author>invalid@example.com (TenGauge)</author>
+      <dc:creator>TenGauge</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/capture.1720/">
+			<img src="http://forum.notebookreview.com/data/xengallery/121/121940-4537a097c585ea513620a1b2c67d9cce.jpg" alt="Capture.PNG" title="Capture" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

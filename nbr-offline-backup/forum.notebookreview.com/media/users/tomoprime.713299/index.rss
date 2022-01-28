@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user TomoPrime.</description>
+    <pubDate>Fri, 28 Jan 2022 06:43:56 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 06:43:56 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/tomoprime.713299/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/tomoprime.713299/index.rss"/>
+    <item>
+      <title>2D70BCE0-97BF-491D-8F9B-A908A983AA38</title>
+      <pubDate>Sun, 02 Dec 2018 23:55:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/2d70bce0-97bf-491d-8f9b-a908a983aa38.1989/</link>
+      <guid>http://forum.notebookreview.com/media/2d70bce0-97bf-491d-8f9b-a908a983aa38.1989/</guid>
+      <author>invalid@example.com (TomoPrime)</author>
+      <dc:creator>TomoPrime</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/2d70bce0-97bf-491d-8f9b-a908a983aa38.1989/">
+			<img src="http://forum.notebookreview.com/data/xengallery/139/139053-f1c84f7ea2adb185c86d348da99f7e70.jpg" alt="2D70BCE0-97BF-491D-8F9B-A908A983AA38.jpeg" title="2D70BCE0-97BF-491D-8F9B-A908A983AA38" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Synaptics TouchPad app is missing if you update to latest driver. The driver info shown on screen is not actually installed. Used SynMsiDApp from old Lenovo driver link.</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

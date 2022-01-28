@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user jraf.</description>
+    <pubDate>Thu, 27 Jan 2022 03:16:46 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 03:16:46 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/jraf.678726/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/jraf.678726/index.rss"/>
+    <item>
+      <title>Crystaldiskmark 2016.08.03 (wake From Sleep)</title>
+      <pubDate>Thu, 04 Aug 2016 07:08:28 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/crystaldiskmark-2016-08-03-wake-from-sleep.1405/</link>
+      <guid>http://forum.notebookreview.com/media/crystaldiskmark-2016-08-03-wake-from-sleep.1405/</guid>
+      <author>invalid@example.com (jraf)</author>
+      <dc:creator>jraf</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/crystaldiskmark-2016-08-03-wake-from-sleep.1405/">
+			<img src="http://forum.notebookreview.com/data/xengallery/109/109640-93882c828485a52c1322f8aa7b1aea92.jpg" alt="crystaldiskmark 2016.08.03 (wake from sleep).PNG" title="Crystaldiskmark 2016.08.03 (wake From Sleep)" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

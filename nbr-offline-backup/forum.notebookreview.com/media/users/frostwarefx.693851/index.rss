@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user frostwarefx.</description>
+    <pubDate>Wed, 26 Jan 2022 05:03:10 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:03:10 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/frostwarefx.693851/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/frostwarefx.693851/index.rss"/>
+    <item>
+      <title>A</title>
+      <pubDate>Wed, 25 Apr 2018 09:17:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/a.1861/</link>
+      <guid>http://forum.notebookreview.com/media/a.1861/</guid>
+      <author>invalid@example.com (frostwarefx)</author>
+      <dc:creator>frostwarefx</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/a.1861/">
+			<img src="http://forum.notebookreview.com/data/xengallery/130/130507-467589b7f547eed9b082a7b1e788bb4d.jpg" alt="a.jpg" title="A" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

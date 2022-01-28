@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Torres IX.</description>
+    <pubDate>Fri, 28 Jan 2022 05:15:16 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 05:15:16 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/torres-ix.300479/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/torres-ix.300479/index.rss"/>
+    <item>
+      <title>Lid-of-Q302LA-BBI5T14</title>
+      <pubDate>Thu, 25 Jun 2015 21:35:51 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/lid-of-q302la-bbi5t14.922/</link>
+      <guid>http://forum.notebookreview.com/media/lid-of-q302la-bbi5t14.922/</guid>
+      <author>invalid@example.com (Torres IX)</author>
+      <dc:creator>Torres IX</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/lid-of-q302la-bbi5t14.922/">
+			<img src="http://forum.notebookreview.com/data/xengallery/97/97680-60250d27b5ab3d285aa1b8b91713bc9f.jpg" alt="Lid-of-Q302LA-BBI5T14.jpg" title="Lid-of-Q302LA-BBI5T14" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>stock pic</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Asus-Q502LA-BBI5T12</title>
+      <pubDate>Thu, 25 Jun 2015 21:35:51 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/asus-q502la-bbi5t12.921/</link>
+      <guid>http://forum.notebookreview.com/media/asus-q502la-bbi5t12.921/</guid>
+      <author>invalid@example.com (Torres IX)</author>
+      <dc:creator>Torres IX</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/asus-q502la-bbi5t12.921/">
+			<img src="http://forum.notebookreview.com/data/xengallery/97/97679-221bed6b23ad8ad9f36272c2dc40f7ab.jpg" alt="Asus-Q502LA-BBI5T12.jpg" title="Asus-Q502LA-BBI5T12" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>stock pic</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

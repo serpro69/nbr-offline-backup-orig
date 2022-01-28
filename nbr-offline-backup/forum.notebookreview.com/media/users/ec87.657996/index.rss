@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user EC87.</description>
+    <pubDate>Thu, 27 Jan 2022 19:27:18 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:27:18 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/ec87.657996/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/ec87.657996/index.rss"/>
+    <item>
+      <title>Ram1</title>
+      <pubDate>Tue, 21 Apr 2015 14:53:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/ram1.836/</link>
+      <guid>http://forum.notebookreview.com/media/ram1.836/</guid>
+      <author>invalid@example.com (EC87)</author>
+      <dc:creator>EC87</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/ram1.836/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96020-76985e8747829551d8364bae08853d40.jpg" alt="Ram1.JPG" title="Ram1" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Dell Adamo Xps Ram Back</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Ram2</title>
+      <pubDate>Tue, 21 Apr 2015 14:53:36 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/ram2.835/</link>
+      <guid>http://forum.notebookreview.com/media/ram2.835/</guid>
+      <author>invalid@example.com (EC87)</author>
+      <dc:creator>EC87</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/ram2.835/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96019-e5ee56beacda373022d70213a6e27461.jpg" alt="Ram2.JPG" title="Ram2" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Dell Adamo Xps Ram Front</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

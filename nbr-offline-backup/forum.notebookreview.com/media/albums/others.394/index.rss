@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media in album Others</description>
+    <pubDate>Wed, 26 Jan 2022 02:13:36 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 02:13:36 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/albums/others.394/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/albums/others.394/index.rss"/>
+    <item>
+      <title>HAnlgcP</title>
+      <pubDate>Sat, 26 Jun 2021 13:25:14 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/hanlgcp.2388/</link>
+      <guid>http://forum.notebookreview.com/media/hanlgcp.2388/</guid>
+      <author>invalid@example.com (downloads)</author>
+      <dc:creator>downloads</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/hanlgcp.2388/">
+			<img src="http://forum.notebookreview.com/data/xengallery/166/166856-1615e062663f1111268e2a6bc407f7be.jpg" alt="HAnlgcP.jpg" title="HAnlgcP" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>TNrFw5P</title>
+      <pubDate>Sat, 26 Jun 2021 13:25:14 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tnrfw5p.2387/</link>
+      <guid>http://forum.notebookreview.com/media/tnrfw5p.2387/</guid>
+      <author>invalid@example.com (downloads)</author>
+      <dc:creator>downloads</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tnrfw5p.2387/">
+			<img src="http://forum.notebookreview.com/data/xengallery/166/166855-fcae65180e44e726497bcd0781ed9cc4.jpg" alt="TNrFw5P.jpg" title="TNrFw5P" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

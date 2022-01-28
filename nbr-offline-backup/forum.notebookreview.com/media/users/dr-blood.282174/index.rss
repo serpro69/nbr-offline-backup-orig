@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Dr Blood.</description>
+    <pubDate>Thu, 27 Jan 2022 18:21:41 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 18:21:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/dr-blood.282174/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/dr-blood.282174/index.rss"/>
+    <item>
+      <title>Panasonic Toughbook CF-27</title>
+      <pubDate>Wed, 07 Oct 2009 02:52:04 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/panasonic-toughbook-cf-27.77/</link>
+      <guid>http://forum.notebookreview.com/media/panasonic-toughbook-cf-27.77/</guid>
+      <author>invalid@example.com (Dr Blood)</author>
+      <dc:creator>Dr Blood</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/panasonic-toughbook-cf-27.77/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92742-ee48d72f1fb5087864397df098afb62d.jpg" alt="toughbook.jpg" title="Panasonic Toughbook CF-27" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Sony Vaio FX-101</title>
+      <pubDate>Thu, 08 Oct 2009 04:53:09 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/sony-vaio-fx-101.76/</link>
+      <guid>http://forum.notebookreview.com/media/sony-vaio-fx-101.76/</guid>
+      <author>invalid@example.com (Dr Blood)</author>
+      <dc:creator>Dr Blood</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/sony-vaio-fx-101.76/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92741-39fe200176dee988a7b15403abc61d87.jpg" alt="sony.jpg" title="Sony Vaio FX-101" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>Dell Latitude CPi</title>
+      <pubDate>Thu, 08 Oct 2009 16:14:47 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/dell-latitude-cpi.75/</link>
+      <guid>http://forum.notebookreview.com/media/dell-latitude-cpi.75/</guid>
+      <author>invalid@example.com (Dr Blood)</author>
+      <dc:creator>Dr Blood</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/dell-latitude-cpi.75/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92740-01fb8e703ee37fcbb1c8e5b2d5cf434e.jpg" alt="dell1.jpg" title="Dell Latitude CPi" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

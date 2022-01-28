@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Rachit rai.</description>
+    <pubDate>Fri, 28 Jan 2022 01:13:16 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 01:13:16 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/rachit-rai.709087/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/rachit-rai.709087/index.rss"/>
+    <item>
+      <title>IMG_20180823_005344</title>
+      <pubDate>Wed, 22 Aug 2018 19:24:47 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/img_20180823_005344.1938/</link>
+      <guid>http://forum.notebookreview.com/media/img_20180823_005344.1938/</guid>
+      <author>invalid@example.com (Rachit rai)</author>
+      <dc:creator>Rachit rai</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/img_20180823_005344.1938/">
+			<img src="http://forum.notebookreview.com/data/xengallery/135/135266-5fa30966857fe854e5be943d1613b78b.jpg" alt="IMG_20180823_005344.jpg" title="IMG_20180823_005344" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

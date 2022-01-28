@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Psiwentyl.</description>
+    <pubDate>Fri, 28 Jan 2022 01:04:01 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 01:04:01 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/psiwentyl.605275/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/psiwentyl.605275/index.rss"/>
+    <item>
+      <title>Geforce</title>
+      <pubDate>Tue, 04 Aug 2015 21:34:23 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/geforce.995/</link>
+      <guid>http://forum.notebookreview.com/media/geforce.995/</guid>
+      <author>invalid@example.com (Psiwentyl)</author>
+      <dc:creator>Psiwentyl</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/geforce.995/">
+			<img src="http://forum.notebookreview.com/data/xengallery/98/98670-77bd0bb288a1f27963064e82e8b1466c.jpg" alt="geforce.jpg" title="Geforce" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

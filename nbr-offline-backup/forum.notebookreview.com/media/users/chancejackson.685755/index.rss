@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user ChanceJackson.</description>
+    <pubDate>Fri, 28 Jan 2022 03:52:55 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 03:52:55 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/chancejackson.685755/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/chancejackson.685755/index.rss"/>
+    <item>
+      <title>Images</title>
+      <pubDate>Thu, 23 Mar 2017 13:50:42 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/images.1601/</link>
+      <guid>http://forum.notebookreview.com/media/images.1601/</guid>
+      <author>invalid@example.com (ChanceJackson)</author>
+      <dc:creator>ChanceJackson</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/images.1601/">
+			<img src="http://forum.notebookreview.com/data/xengallery/115/115976-b9a5d042aed1a7d3204393b0278f7c90.jpg" alt="images.jpg" title="Images" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

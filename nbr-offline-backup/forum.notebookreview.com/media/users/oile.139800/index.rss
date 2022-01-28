@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user oile.</description>
+    <pubDate>Thu, 27 Jan 2022 19:40:02 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:40:02 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/oile.139800/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/oile.139800/index.rss"/>
+    <item>
+      <title>i7-4610M</title>
+      <pubDate>Fri, 16 Oct 2015 08:31:59 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/i7-4610m.1152/</link>
+      <guid>http://forum.notebookreview.com/media/i7-4610m.1152/</guid>
+      <author>invalid@example.com (oile)</author>
+      <dc:creator>oile</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/i7-4610m.1152/">
+			<img src="http://forum.notebookreview.com/data/xengallery/100/100698-869add22aee8c5fc9661b26b56257b28.jpg" alt="mM1kAZ8.jpg" title="i7-4610M" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>i7-4610M</title>
+      <pubDate>Fri, 16 Oct 2015 08:30:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/i7-4610m.1151/</link>
+      <guid>http://forum.notebookreview.com/media/i7-4610m.1151/</guid>
+      <author>invalid@example.com (oile)</author>
+      <dc:creator>oile</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/i7-4610m.1151/">
+			<img src="http://forum.notebookreview.com/data/xengallery/100/100697-869add22aee8c5fc9661b26b56257b28.jpg" alt="mM1kAZ8.jpg" title="i7-4610M" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

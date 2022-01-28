@@ -1,0 +1,20 @@
+#content input {
+width: 300px;
+}
+
+#content select {
+width: 304px;
+}
+
+#content textarea {
+width: 422px;
+height: 200px;
+}
+
+.error input, .error select, .error textarea {
+border: solid 1px #F00;
+}
+
+.error {
+color: #f00;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user judal57.</description>
+    <pubDate>Wed, 26 Jan 2022 02:04:36 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 02:04:36 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/judal57.512313/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/judal57.512313/index.rss"/>
+    <item>
+      <title>Test</title>
+      <pubDate>Sat, 12 Sep 2015 02:13:15 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/test.1092/</link>
+      <guid>http://forum.notebookreview.com/media/test.1092/</guid>
+      <author>invalid@example.com (judal57)</author>
+      <dc:creator>judal57</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/test.1092/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99816-e762901404f051d0804cf998bcb5827a.jpg" alt="test.PNG" title="Test" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>alienware 15 BIOS A06 test</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>

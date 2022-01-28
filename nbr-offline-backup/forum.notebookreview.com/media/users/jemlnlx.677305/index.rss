@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Jemlnlx.</description>
+    <pubDate>Wed, 26 Jan 2022 05:10:18 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:10:18 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/jemlnlx.677305/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/jemlnlx.677305/index.rss"/>
+    <item>
+      <title>Alienware 15 R2 vs. Macbook Pro 2012</title>
+      <pubDate>Wed, 15 Jun 2016 18:46:39 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/alienware-15-r2-vs-macbook-pro-2012.1382/</link>
+      <guid>http://forum.notebookreview.com/media/alienware-15-r2-vs-macbook-pro-2012.1382/</guid>
+      <author>invalid@example.com (Jemlnlx)</author>
+      <dc:creator>Jemlnlx</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/alienware-15-r2-vs-macbook-pro-2012.1382/">
+			<img src="http://forum.notebookreview.com/data/xengallery/108/108388-e97465efc09a03dbf116afdb994b1c4f.jpg" alt="IMG_2553.JPG" title="Alienware 15 R2 vs. Macbook Pro 2012" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user babblin5.</description>
+    <pubDate>Thu, 27 Jan 2022 06:37:37 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 06:37:37 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/babblin5.369536/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/babblin5.369536/index.rss"/>
+    <item>
+      <title>Image</title>
+      <pubDate>Fri, 19 Aug 2016 08:07:33 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/image.1419/</link>
+      <guid>http://forum.notebookreview.com/media/image.1419/</guid>
+      <author>invalid@example.com (babblin5)</author>
+      <dc:creator>babblin5</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/image.1419/">
+			<img src="http://forum.notebookreview.com/data/xengallery/110/110152-7aa7591e485c45c7d2a21a6adc4598cd.jpg" alt="image.jpeg" title="Image" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Image</title>
+      <pubDate>Fri, 19 Aug 2016 08:07:33 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/image.1418/</link>
+      <guid>http://forum.notebookreview.com/media/image.1418/</guid>
+      <author>invalid@example.com (babblin5)</author>
+      <dc:creator>babblin5</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/image.1418/">
+			<img src="http://forum.notebookreview.com/data/xengallery/110/110151-d11c7467e76500cef37aa51f50d59610.jpg" alt="image.jpeg" title="Image" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>MSI GS43 Full Interior</title>
+      <pubDate>Fri, 19 Aug 2016 08:00:52 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/msi-gs43-full-interior.1417/</link>
+      <guid>http://forum.notebookreview.com/media/msi-gs43-full-interior.1417/</guid>
+      <author>invalid@example.com (babblin5)</author>
+      <dc:creator>babblin5</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/msi-gs43-full-interior.1417/">
+			<img src="http://forum.notebookreview.com/data/xengallery/110/110147-7aa7591e485c45c7d2a21a6adc4598cd.jpg" alt="image.jpeg" title="MSI GS43 Full Interior" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>MSI GS43 SSD + HD</title>
+      <pubDate>Fri, 19 Aug 2016 08:00:52 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/msi-gs43-ssd-hd.1416/</link>
+      <guid>http://forum.notebookreview.com/media/msi-gs43-ssd-hd.1416/</guid>
+      <author>invalid@example.com (babblin5)</author>
+      <dc:creator>babblin5</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/msi-gs43-ssd-hd.1416/">
+			<img src="http://forum.notebookreview.com/data/xengallery/110/110146-d11c7467e76500cef37aa51f50d59610.jpg" alt="image.jpeg" title="MSI GS43 SSD + HD" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

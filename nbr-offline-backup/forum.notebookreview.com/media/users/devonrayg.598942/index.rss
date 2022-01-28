@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user DevonRayG.</description>
+    <pubDate>Fri, 28 Jan 2022 07:44:06 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 07:44:06 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/devonrayg.598942/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/devonrayg.598942/index.rss"/>
+    <item>
+      <title>AIDA64 STRESS 4.8</title>
+      <pubDate>Fri, 21 Apr 2017 21:12:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/aida64-stress-4-8.1629/</link>
+      <guid>http://forum.notebookreview.com/media/aida64-stress-4-8.1629/</guid>
+      <author>invalid@example.com (DevonRayG)</author>
+      <dc:creator>DevonRayG</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/aida64-stress-4-8.1629/">
+			<img src="http://forum.notebookreview.com/data/xengallery/116/116957-270419bb241d6218a219edc0f69d0e7d.jpg" alt="AIDA64 STRESS 4.8.png" title="AIDA64 STRESS 4.8" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>IDLE 4.8 30c</title>
+      <pubDate>Fri, 21 Apr 2017 21:12:35 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/idle-4-8-30c.1628/</link>
+      <guid>http://forum.notebookreview.com/media/idle-4-8-30c.1628/</guid>
+      <author>invalid@example.com (DevonRayG)</author>
+      <dc:creator>DevonRayG</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/idle-4-8-30c.1628/">
+			<img src="http://forum.notebookreview.com/data/xengallery/116/116956-d490b70a2cd8cc99f3993789dd569620.jpg" alt="IDLE 4.8 30c.png" title="IDLE 4.8 30c" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

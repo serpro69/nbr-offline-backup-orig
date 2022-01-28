@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user jbuildit.</description>
+    <pubDate>Thu, 27 Jan 2022 16:29:56 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 16:29:56 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/jbuildit.735671/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/jbuildit.735671/index.rss"/>
+    <item>
+      <title>PP Slot</title>
+      <pubDate>Sun, 04 Apr 2021 23:10:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/pp-slot.2372/</link>
+      <guid>http://forum.notebookreview.com/media/pp-slot.2372/</guid>
+      <author>invalid@example.com (jbuildit)</author>
+      <dc:creator>jbuildit</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/pp-slot.2372/">
+			<img src="http://forum.notebookreview.com/data/xengallery/165/165119-d50c9879509c78ca9b207b207ea18b90.jpg" alt="PP Slot.jpg" title="PP Slot" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>DMC slot found on some Dell laptops from 2010 - 2015.</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

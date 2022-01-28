@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Micaiah.</description>
+    <pubDate>Thu, 27 Jan 2022 23:08:19 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 23:08:19 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/micaiah.27006/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/micaiah.27006/index.rss"/>
+    <item>
+      <title>Razer Blade 14 (2016) FHD 256 GB</title>
+      <pubDate>Fri, 28 Oct 2016 18:57:08 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/razer-blade-14-2016-fhd-256-gb.1460/</link>
+      <guid>http://forum.notebookreview.com/media/razer-blade-14-2016-fhd-256-gb.1460/</guid>
+      <author>invalid@example.com (Micaiah)</author>
+      <dc:creator>Micaiah</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/razer-blade-14-2016-fhd-256-gb.1460/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112010-b110ccef6ca871f3443f5ca5dd16f068.jpg" alt="IMG_0079.JPG" title="Razer Blade 14 (2016) FHD 256 GB" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Razer Blade (2016) FHD 256 GB</title>
+      <pubDate>Fri, 28 Oct 2016 18:56:29 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/razer-blade-2016-fhd-256-gb.1459/</link>
+      <guid>http://forum.notebookreview.com/media/razer-blade-2016-fhd-256-gb.1459/</guid>
+      <author>invalid@example.com (Micaiah)</author>
+      <dc:creator>Micaiah</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/razer-blade-2016-fhd-256-gb.1459/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112009-6e18d6646563e373d41b7f6dcba616eb.jpg" alt="IMG_0078.JPG" title="Razer Blade (2016) FHD 256 GB" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

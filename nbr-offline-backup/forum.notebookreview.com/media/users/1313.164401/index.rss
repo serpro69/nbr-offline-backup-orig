@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user 1313.</description>
+    <pubDate>Thu, 27 Jan 2022 08:17:45 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 08:17:45 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/1313.164401/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/1313.164401/index.rss"/>
+    <item>
+      <title>VID spikes with IDA disabled and 7 interfering</title>
+      <pubDate>Fri, 12 Mar 2010 12:42:04 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/vid-spikes-with-ida-disabled-and-7-interfering.327/</link>
+      <guid>http://forum.notebookreview.com/media/vid-spikes-with-ida-disabled-and-7-interfering.327/</guid>
+      <author>invalid@example.com (1313)</author>
+      <dc:creator>1313</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/vid-spikes-with-ida-disabled-and-7-interfering.327/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92992-bfe4a0396e30ec48cd8f208b5b10b874.jpg" alt="vid_spikes_ida_disabled.png" title="VID spikes with IDA disabled and 7 interfering" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>VID spikes with IDA disabled through the BIOS and different min. and max. processor states in sevens power management. Notice how the VID reaches IDA-level voltage even though p-state is low.</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>ICD7 polished my heatsink</title>
+      <pubDate>Sun, 07 Mar 2010 01:53:50 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/icd7-polished-my-heatsink.307/</link>
+      <guid>http://forum.notebookreview.com/media/icd7-polished-my-heatsink.307/</guid>
+      <author>invalid@example.com (1313)</author>
+      <dc:creator>1313</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/icd7-polished-my-heatsink.307/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92972-9bc6ac3a5ab5a38736d3cb52b3d78b73.jpg" alt="two.jpg" title="ICD7 polished my heatsink" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Studio 1535 CPU heatsink after polishing it with leftover ICD7. Yes, that is the lens.</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>ICD7 polished my heatsink</title>
+      <pubDate>Sat, 06 Mar 2010 23:34:29 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/icd7-polished-my-heatsink.306/</link>
+      <guid>http://forum.notebookreview.com/media/icd7-polished-my-heatsink.306/</guid>
+      <author>invalid@example.com (1313)</author>
+      <dc:creator>1313</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/icd7-polished-my-heatsink.306/">
+			<img src="http://forum.notebookreview.com/data/xengallery/92/92971-62883ef51612b7c0580596e3f691d224.jpg" alt="one.jpg" title="ICD7 polished my heatsink" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Studio 1535 GPU &amp;amp; Vram heatsink after polishing it with leftover ICD7. Shiny!</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

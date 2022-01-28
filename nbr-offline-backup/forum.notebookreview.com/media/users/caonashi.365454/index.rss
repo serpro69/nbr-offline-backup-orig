@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user caonashi.</description>
+    <pubDate>Thu, 27 Jan 2022 21:58:38 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 21:58:38 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/caonashi.365454/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/caonashi.365454/index.rss"/>
+    <item>
+      <title>Untitled</title>
+      <pubDate>Mon, 27 Apr 2015 06:38:09 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/untitled.842/</link>
+      <guid>http://forum.notebookreview.com/media/untitled.842/</guid>
+      <author>invalid@example.com (caonashi)</author>
+      <dc:creator>caonashi</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/untitled.842/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96150-6ace9695d3e997cd7748d6d097ad049a.jpg" alt="Untitled.png" title="Untitled" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

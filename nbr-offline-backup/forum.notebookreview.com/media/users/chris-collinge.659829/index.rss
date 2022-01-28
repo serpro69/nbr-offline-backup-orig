@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Chris Collinge.</description>
+    <pubDate>Wed, 26 Jan 2022 23:45:16 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 23:45:16 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/chris-collinge.659829/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/chris-collinge.659829/index.rss"/>
+    <item>
+      <title>ThO5NCJVV5</title>
+      <pubDate>Sun, 03 May 2015 13:02:06 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tho5ncjvv5.856/</link>
+      <guid>http://forum.notebookreview.com/media/tho5ncjvv5.856/</guid>
+      <author>invalid@example.com (Chris Collinge)</author>
+      <dc:creator>Chris Collinge</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tho5ncjvv5.856/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96323-21ef5d261c18f917162b6d9eeef17c51.jpg" alt="thO5NCJVV5.jpg" title="ThO5NCJVV5" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Msi%20gt60%20OD%20heatsink</title>
+      <pubDate>Sun, 03 May 2015 13:02:06 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/msi-20gt60-20od-20heatsink.855/</link>
+      <guid>http://forum.notebookreview.com/media/msi-20gt60-20od-20heatsink.855/</guid>
+      <author>invalid@example.com (Chris Collinge)</author>
+      <dc:creator>Chris Collinge</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/msi-20gt60-20od-20heatsink.855/">
+			<img src="http://forum.notebookreview.com/data/xengallery/96/96322-7add454f62b92a903eea3490d7b114ec.jpg" alt="msi%20gt60%20OD%20heatsink.JPG" title="Msi%20gt60%20OD%20heatsink" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

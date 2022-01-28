@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user mzg.</description>
+    <pubDate>Thu, 27 Jan 2022 10:47:52 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:47:52 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/mzg.661889/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/mzg.661889/index.rss"/>
+    <item>
+      <title>ssd.png</title>
+      <pubDate>Mon, 31 Aug 2015 06:29:37 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/ssd-png.1060/</link>
+      <guid>http://forum.notebookreview.com/media/ssd-png.1060/</guid>
+      <author>invalid@example.com (mzg)</author>
+      <dc:creator>mzg</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/ssd-png.1060/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99468-1d944521d29b19f0cb819a3a4984953f.jpg" alt="ssd.png" title="ssd.png" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

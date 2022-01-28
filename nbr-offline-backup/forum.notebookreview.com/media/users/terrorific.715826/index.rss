@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user terrorific.</description>
+    <pubDate>Thu, 27 Jan 2022 19:29:31 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 19:29:31 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/terrorific.715826/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/terrorific.715826/index.rss"/>
+    <item>
+      <title>TS ERROR</title>
+      <pubDate>Fri, 03 May 2019 21:12:18 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/ts-error.2105/</link>
+      <guid>http://forum.notebookreview.com/media/ts-error.2105/</guid>
+      <author>invalid@example.com (terrorific)</author>
+      <dc:creator>terrorific</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/ts-error.2105/">
+			<img src="http://forum.notebookreview.com/data/xengallery/146/146212-e100d73c3edf0b53fdf5a1dbc3904aa7.jpg" alt="TS ERROR.png" title="TS ERROR" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>TPL</title>
+      <pubDate>Sun, 24 Feb 2019 12:18:33 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/tpl.2052/</link>
+      <guid>http://forum.notebookreview.com/media/tpl.2052/</guid>
+      <author>invalid@example.com (terrorific)</author>
+      <dc:creator>terrorific</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/tpl.2052/">
+			<img src="http://forum.notebookreview.com/data/xengallery/142/142920-0e55ece97dab30ff886ec9ce5f88d675.jpg" alt="TPL.JPG" title="TPL" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>this on battery random time</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

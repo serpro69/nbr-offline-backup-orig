@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Kazmer81.</description>
+    <pubDate>Wed, 26 Jan 2022 05:11:56 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:11:56 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/kazmer81.664979/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/kazmer81.664979/index.rss"/>
+    <item>
+      <title>Slot2</title>
+      <pubDate>Mon, 24 Aug 2015 18:10:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/slot2.1038/</link>
+      <guid>http://forum.notebookreview.com/media/slot2.1038/</guid>
+      <author>invalid@example.com (Kazmer81)</author>
+      <dc:creator>Kazmer81</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/slot2.1038/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99274-e3e6bd87939f75f9a151fa812d60ff85.jpg" alt="Slot2.PNG" title="Slot2" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>Slot1</title>
+      <pubDate>Mon, 24 Aug 2015 18:10:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/slot1.1037/</link>
+      <guid>http://forum.notebookreview.com/media/slot1.1037/</guid>
+      <author>invalid@example.com (Kazmer81)</author>
+      <dc:creator>Kazmer81</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/slot1.1037/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99272-91cae3f42f744ead1d1da7e27d561ebb.jpg" alt="Slot1.PNG" title="Slot1" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>CPUz_Memory</title>
+      <pubDate>Mon, 24 Aug 2015 18:10:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/cpuz_memory.1036/</link>
+      <guid>http://forum.notebookreview.com/media/cpuz_memory.1036/</guid>
+      <author>invalid@example.com (Kazmer81)</author>
+      <dc:creator>Kazmer81</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/cpuz_memory.1036/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99271-9380317e10ea80459296e750e406a05e.jpg" alt="CPUz_Memory.PNG" title="CPUz_Memory" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>System Summary</title>
+      <pubDate>Mon, 24 Aug 2015 18:10:24 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/system-summary.1035/</link>
+      <guid>http://forum.notebookreview.com/media/system-summary.1035/</guid>
+      <author>invalid@example.com (Kazmer81)</author>
+      <dc:creator>Kazmer81</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/system-summary.1035/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99270-b52a81d0fc3f9e5f99b7ba3ab023b2eb.jpg" alt="System Summary.PNG" title="System Summary" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

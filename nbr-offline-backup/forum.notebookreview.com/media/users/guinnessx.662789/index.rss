@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user GuinnessX.</description>
+    <pubDate>Thu, 27 Jan 2022 05:40:59 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 05:40:59 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/guinnessx.662789/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/guinnessx.662789/index.rss"/>
+    <item>
+      <title>95W</title>
+      <pubDate>Wed, 22 Jul 2020 13:21:52 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/95w.2296/</link>
+      <guid>http://forum.notebookreview.com/media/95w.2296/</guid>
+      <author>invalid@example.com (GuinnessX)</author>
+      <dc:creator>GuinnessX</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/95w.2296/">
+			<img src="http://forum.notebookreview.com/data/xengallery/159/159285-b8a01692cd6bd200a90de5db2f52610a.jpg" alt="95W.jpg" title="95W" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>65W</title>
+      <pubDate>Wed, 22 Jul 2020 13:21:30 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/65w.2295/</link>
+      <guid>http://forum.notebookreview.com/media/65w.2295/</guid>
+      <author>invalid@example.com (GuinnessX)</author>
+      <dc:creator>GuinnessX</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/65w.2295/">
+			<img src="http://forum.notebookreview.com/data/xengallery/159/159284-a7bce6633dc2047ab8c64cfe5c9efde2.jpg" alt="65W.jpg" title="65W" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>45W</title>
+      <pubDate>Wed, 22 Jul 2020 13:18:56 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/45w.2293/</link>
+      <guid>http://forum.notebookreview.com/media/45w.2293/</guid>
+      <author>invalid@example.com (GuinnessX)</author>
+      <dc:creator>GuinnessX</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/45w.2293/">
+			<img src="http://forum.notebookreview.com/data/xengallery/159/159280-1438fa815a94f025ba134cefc0f9f351.jpg" alt="45W.jpg" title="45W" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Reading from 60W charger</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

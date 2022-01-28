@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user aldoaldo.</description>
+    <pubDate>Thu, 27 Jan 2022 09:30:27 +0000</pubDate>
+    <lastBuildDate>Thu, 27 Jan 2022 09:30:27 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/aldoaldo.327426/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/aldoaldo.327426/index.rss"/>
+    <item>
+      <title>quadro fx1800m</title>
+      <pubDate>Thu, 08 Apr 2010 22:03:20 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/quadro-fx1800m.387/</link>
+      <guid>http://forum.notebookreview.com/media/quadro-fx1800m.387/</guid>
+      <author>invalid@example.com (aldoaldo)</author>
+      <dc:creator>aldoaldo</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/quadro-fx1800m.387/">
+			<img src="http://forum.notebookreview.com/data/xengallery/93/93050-7fbe504d9c9c76751391f89f6532dd2e.jpg" alt="fx1800m.png" title="quadro fx1800m" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

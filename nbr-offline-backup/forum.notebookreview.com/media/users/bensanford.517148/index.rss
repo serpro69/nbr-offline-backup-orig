@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user BenSanford.</description>
+    <pubDate>Fri, 28 Jan 2022 05:47:25 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 05:47:25 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/bensanford.517148/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/bensanford.517148/index.rss"/>
+    <item>
+      <title>IMG_1695</title>
+      <pubDate>Thu, 03 Nov 2016 21:12:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/img_1695.1483/</link>
+      <guid>http://forum.notebookreview.com/media/img_1695.1483/</guid>
+      <author>invalid@example.com (BenSanford)</author>
+      <dc:creator>BenSanford</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/img_1695.1483/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112163-833ae4b100da490b1857c9a9939d08a5.jpg" alt="IMG_1695.jpg" title="IMG_1695" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>bleeding during boot</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>IMG_1713</title>
+      <pubDate>Thu, 03 Nov 2016 21:12:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/img_1713.1482/</link>
+      <guid>http://forum.notebookreview.com/media/img_1713.1482/</guid>
+      <author>invalid@example.com (BenSanford)</author>
+      <dc:creator>BenSanford</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/img_1713.1482/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112162-ddcc78609b0065009ff960ef9d6a8a27.jpg" alt="IMG_1713.jpg" title="IMG_1713" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>during boot</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>IMG_1710</title>
+      <pubDate>Thu, 03 Nov 2016 21:12:17 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/img_1710.1481/</link>
+      <guid>http://forum.notebookreview.com/media/img_1710.1481/</guid>
+      <author>invalid@example.com (BenSanford)</author>
+      <dc:creator>BenSanford</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/img_1710.1481/">
+			<img src="http://forum.notebookreview.com/data/xengallery/112/112161-f964998940ec9c850dc121101244f4b6.jpg" alt="IMG_1710.jpg" title="IMG_1710" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>in windows</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

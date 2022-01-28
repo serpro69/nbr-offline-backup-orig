@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user reducha.</description>
+    <pubDate>Fri, 28 Jan 2022 05:39:20 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 05:39:20 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/reducha.145942/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/reducha.145942/index.rss"/>
+    <item>
+      <title>2017-03-10_10-58-08</title>
+      <pubDate>Fri, 10 Mar 2017 07:00:10 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/2017-03-10_10-58-08.1585/</link>
+      <guid>http://forum.notebookreview.com/media/2017-03-10_10-58-08.1585/</guid>
+      <author>invalid@example.com (reducha)</author>
+      <dc:creator>reducha</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/2017-03-10_10-58-08.1585/">
+			<img src="http://forum.notebookreview.com/data/xengallery/115/115519-e87876150a9bb3c787f4b4fadce3715c.jpg" alt="2017-03-10_10-58-08.jpg" title="2017-03-10_10-58-08" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>Not really sure what it all means, but this is what it&#039;s telling me.</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

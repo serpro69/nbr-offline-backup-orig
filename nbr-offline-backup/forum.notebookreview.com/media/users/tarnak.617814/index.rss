@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Tarnak.</description>
+    <pubDate>Fri, 28 Jan 2022 00:16:21 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 00:16:21 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/tarnak.617814/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/tarnak.617814/index.rss"/>
+    <item>
+      <title>0_synaptics_IMG_1136_small</title>
+      <pubDate>Tue, 15 Sep 2015 17:13:10 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/0_synaptics_img_1136_small.1110/</link>
+      <guid>http://forum.notebookreview.com/media/0_synaptics_img_1136_small.1110/</guid>
+      <author>invalid@example.com (Tarnak)</author>
+      <dc:creator>Tarnak</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/0_synaptics_img_1136_small.1110/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99935-266e69d1080a238356c870986df88440.jpg" alt="0_synaptics_IMG_1136_small.JPG" title="0_synaptics_IMG_1136_small" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+    <item>
+      <title>0_sentellic_Small Touchpad_</title>
+      <pubDate>Tue, 15 Sep 2015 17:13:10 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/0_sentellic_small-touchpad_.1109/</link>
+      <guid>http://forum.notebookreview.com/media/0_sentellic_small-touchpad_.1109/</guid>
+      <author>invalid@example.com (Tarnak)</author>
+      <dc:creator>Tarnak</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/0_sentellic_small-touchpad_.1109/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99934-1c2c73e2aa596c8c227685fdb9a06dd3.jpg" alt="0_sentellic_Small Touchpad_.JPG" title="0_sentellic_Small Touchpad_" width="300" height="300" />
+		</a>
+	
+</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

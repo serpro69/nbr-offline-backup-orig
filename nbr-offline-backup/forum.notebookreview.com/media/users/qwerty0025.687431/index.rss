@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user qwerty0025.</description>
+    <pubDate>Fri, 28 Jan 2022 06:15:59 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 06:15:59 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/qwerty0025.687431/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/qwerty0025.687431/index.rss"/>
+    <item>
+      <title>Screen Shot 2017-04-19 At 15.29.10</title>
+      <pubDate>Wed, 19 Apr 2017 12:32:43 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/screen-shot-2017-04-19-at-15-29-10.1619/</link>
+      <guid>http://forum.notebookreview.com/media/screen-shot-2017-04-19-at-15-29-10.1619/</guid>
+      <author>invalid@example.com (qwerty0025)</author>
+      <dc:creator>qwerty0025</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/screen-shot-2017-04-19-at-15-29-10.1619/">
+			<img src="http://forum.notebookreview.com/data/xengallery/116/116854-5b86c64ed51d64251236ea1321a12881.jpg" alt="Screen Shot 2017-04-19 at 15.29.10.png" title="Screen Shot 2017-04-19 At 15.29.10" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>discountt coupon</i>
+	</p>
+
+<br />]]></content:encoded>
+    </item>
+  </channel>
+</rss>

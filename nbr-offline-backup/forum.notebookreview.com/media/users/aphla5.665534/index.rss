@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  <channel>
+    <title>Media</title>
+    <description>RSS feed for all media by user Aphla5.</description>
+    <pubDate>Wed, 26 Jan 2022 05:11:41 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Jan 2022 05:11:41 +0000</lastBuildDate>
+    <generator>Media</generator>
+    <link>http://forum.notebookreview.com/media/users/aphla5.665534/index.rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://forum.notebookreview.com/media/users/aphla5.665534/index.rss"/>
+    <item>
+      <title>Asus_G53SW-Power-Jack-Repair_c</title>
+      <pubDate>Sat, 05 Sep 2015 21:19:21 +0000</pubDate>
+      <link>http://forum.notebookreview.com/media/asus_g53sw-power-jack-repair_c.1069/</link>
+      <guid>http://forum.notebookreview.com/media/asus_g53sw-power-jack-repair_c.1069/</guid>
+      <author>invalid@example.com (Aphla5)</author>
+      <dc:creator>Aphla5</dc:creator>
+      <content:encoded><![CDATA[<span></span>
+<p>
+	
+		<a href="http://forum.notebookreview.com/media/asus_g53sw-power-jack-repair_c.1069/">
+			<img src="http://forum.notebookreview.com/data/xengallery/99/99659-eba360c3e88296750d4f4b8fc92e4f10.jpg" alt="Asus_G53SW-Power-Jack-Repair_c.jpg" title="Asus_G53SW-Power-Jack-Repair_c" width="300" height="300" />
+		</a>
+	
+</p>
+
+	<p>
+		<i>This is what I need but for the ativ book 8</i>
+	</p>
+
+<br />]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+  </channel>
+</rss>
